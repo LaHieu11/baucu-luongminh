@@ -52,9 +52,9 @@ function Schedule() {
                         </div>
 
                         <div className="schedule__date-main">
-                            <span className="schedule__date-day">23</span>
+                            <span className="schedule__date-day">15</span>
                             <div className="schedule__date-info">
-                                <span className="schedule__date-month">Tháng 05</span>
+                                <span className="schedule__date-month">Tháng 03</span>
                                 <span className="schedule__date-year">2026</span>
                             </div>
                         </div>
@@ -79,7 +79,7 @@ function Schedule() {
 
                         <div className="schedule__hotline">
                             <Phone size={18} />
-                            <span>Hotline: <strong>0203.xxx.xxx</strong></span>
+                            <span>Hotline: <strong>0376345379</strong></span>
                         </div>
                     </motion.div>
 
