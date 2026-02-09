@@ -1,0 +1,105 @@
+.introduction {
+    background: var(--color-gray-50);
+}
+
+.introduction__content {
+    display: grid;
+    gap: var(--spacing-12);
+}
+
+@media (min-width: 1024px) {
+    .introduction__content {
+        grid-template-columns: 1fr 1fr;
+        align-items: start;
+    }
+}
+
+/* Main Content */
+.introduction__main {
+    background: var(--color-white);
+    border-radius: var(--radius-2xl);
+    padding: var(--spacing-8);
+    box-shadow: var(--shadow-md);
+}
+
+.introduction__text h3 {
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-4);
+    font-size: var(--font-size-2xl);
+}
+
+.introduction__text p {
+    color: var(--color-gray-600);
+    margin-bottom: var(--spacing-4);
+    line-height: 1.8;
+}
+
+.introduction__highlights {
+    margin-top: var(--spacing-6);
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-3);
+}
+
+.introduction__highlight {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-3);
+    padding: var(--spacing-3) var(--spacing-4);
+    background: rgba(0, 102, 179, 0.05);
+    border-radius: var(--radius-lg);
+    border-left: 3px solid var(--color-primary);
+}
+
+.introduction__highlight-icon {
+    color: var(--color-primary);
+    flex-shrink: 0;
+}
+
+.introduction__highlight span {
+    font-weight: 500;
+    color: var(--color-gray-700);
+}
+
+/* Features Grid */
+.introduction__features {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--spacing-4);
+}
+
+@media (min-width: 480px) {
+    .introduction__features {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.introduction__feature {
+    padding: var(--spacing-6);
+    text-align: center;
+    border: 1px solid var(--color-gray-100);
+}
+
+.introduction__feature-icon {
+    width: 60px;
+    height: 60px;
+    margin: 0 auto var(--spacing-4);
+    background: var(--gradient-primary);
+    border-radius: var(--radius-xl);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+}
+
+.introduction__feature h4 {
+    font-size: var(--font-size-lg);
+    margin-bottom: var(--spacing-2);
+    color: var(--color-gray-800);
+}
+
+.introduction__feature p {
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-500);
+    line-height: 1.6;
+}
