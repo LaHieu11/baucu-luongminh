@@ -55,7 +55,7 @@ function Footer() {
                                 <a target="_blank" href="https://www.facebook.com/thanh.nien.luong.minh" className="footer__social-link" aria-label="Facebook">
                                     <Facebook size={20} />
                                 </a>
-                                <span>Thanh niên lương minh</span>
+                                <span>Thanh Niên Lương Minh</span>
                             </div>
                         </motion.div>
 
