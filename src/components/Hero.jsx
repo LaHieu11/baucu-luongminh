@@ -191,7 +191,7 @@ function Hero() {
                                 <span className="hero__stat-label">Thôn tham gia</span>
                             </div>
                             <div className="hero__stat">
-                                <span className="hero__stat-number">25</span>
+                                <span className="hero__stat-number">35</span>
                                 <span className="hero__stat-label">Đại biểu HĐND</span>
                             </div>
                             <div className="hero__stat">

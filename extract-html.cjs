@@ -3,6 +3,80 @@ const path = require('path');
 
 const docxDir = './src/assets/XaLM';
 
+// Function to fix Vietnamese encoding issues from Word HTML export
+function fixVietnameseEncoding(text) {
+    // Common Vietnamese character replacements when encoding is corrupted
+    const replacements = {
+        // Lowercase with diacritics
+        'à': 'à', 'á': 'á', 'ả': 'ả', 'ã': 'ã', 'ạ': 'ạ',
+        'ă': 'ă', 'ằ': 'ằ', 'ắ': 'ắ', 'ẳ': 'ẳ', 'ẵ': 'ẵ', 'ặ': 'ặ',
+        'â': 'â', 'ầ': 'ầ', 'ấ': 'ấ', 'ẩ': 'ẩ', 'ẫ': 'ẫ', 'ậ': 'ậ',
+        'è': 'è', 'é': 'é', 'ẻ': 'ẻ', 'ẽ': 'ẽ', 'ẹ': 'ẹ',
+        'ê': 'ê', 'ề': 'ề', 'ế': 'ế', 'ể': 'ể', 'ễ': 'ễ', 'ệ': 'ệ',
+        'ì': 'ì', 'í': 'í', 'ỉ': 'ỉ', 'ĩ': 'ĩ', 'ị': 'ị',
+        'ò': 'ò', 'ó': 'ó', 'ỏ': 'ỏ', 'õ': 'õ', 'ọ': 'ọ',
+        'ô': 'ô', 'ồ': 'ồ', 'ố': 'ố', 'ổ': 'ổ', 'ỗ': 'ỗ', 'ộ': 'ộ',
+        'ơ': 'ơ', 'ờ': 'ờ', 'ớ': 'ớ', 'ở': 'ở', 'ỡ': 'ỡ', 'ợ': 'ợ',
+        'ù': 'ù', 'ú': 'ú', 'ủ': 'ủ', 'ũ': 'ũ', 'ụ': 'ụ',
+        'ư': 'ư', 'ừ': 'ừ', 'ứ': 'ứ', 'ử': 'ử', 'ữ': 'ữ', 'ự': 'ự',
+        'ỳ': 'ỳ', 'ý': 'ý', 'ỷ': 'ỷ', 'ỹ': 'ỹ', 'ỵ': 'ỵ',
+        'đ': 'đ',
+        // Uppercase with diacritics
+        'À': 'À', 'Á': 'Á', 'Ả': 'Ả', 'Ã': 'Ã', 'Ạ': 'Ạ',
+        'Ă': 'Ă', 'Ằ': 'Ằ', 'Ắ': 'Ắ', 'Ẳ': 'Ẳ', 'Ẵ': 'Ẵ', 'Ặ': 'Ặ',
+        'Â': 'Â', 'Ầ': 'Ầ', 'Ấ': 'Ấ', 'Ẩ': 'Ẩ', 'Ẫ': 'Ẫ', 'Ậ': 'Ậ',
+        'È': 'È', 'É': 'É', 'Ẻ': 'Ẻ', 'Ẽ': 'Ẽ', 'Ẹ': 'Ẹ',
+        'Ê': 'Ê', 'Ề': 'Ề', 'Ế': 'Ế', 'Ể': 'Ể', 'Ễ': 'Ễ', 'Ệ': 'Ệ',
+        'Ì': 'Ì', 'Í': 'Í', 'Ỉ': 'Ỉ', 'Ĩ': 'Ĩ', 'Ị': 'Ị',
+        'Ò': 'Ò', 'Ó': 'Ó', 'Ỏ': 'Ỏ', 'Õ': 'Õ', 'Ọ': 'Ọ',
+        'Ô': 'Ô', 'Ồ': 'Ồ', 'Ố': 'Ố', 'Ổ': 'Ổ', 'Ỗ': 'Ỗ', 'Ộ': 'Ộ',
+        'Ơ': 'Ơ', 'Ờ': 'Ờ', 'Ớ': 'Ớ', 'Ở': 'Ở', 'Ỡ': 'Ỡ', 'Ợ': 'Ợ',
+        'Ù': 'Ù', 'Ú': 'Ú', 'Ủ': 'Ủ', 'Ũ': 'Ũ', 'Ụ': 'Ụ',
+        'Ư': 'Ư', 'Ừ': 'Ừ', 'Ứ': 'Ứ', 'Ử': 'Ử', 'Ữ': 'Ữ', 'Ự': 'Ự',
+        'Ỳ': 'Ỳ', 'Ý': 'Ý', 'Ỷ': 'Ỷ', 'Ỹ': 'Ỹ', 'Ỵ': 'Ỵ',
+        'Đ': 'Đ'
+    };
+
+    // Fix common encoding patterns from VNI/TCVN/VPS fonts
+    // Pattern: letter followed by combining diacritic becomes � when corrupted
+    const commonFixes = [
+        // Fix broken characters that appear as question marks in boxes
+        [/[\uFFFD]/g, ''],  // Remove replacement characters
+        [/�/g, ''],        // Remove broken chars
+        // Fix common VNI encoding issues
+        [/a\u0300/g, 'à'], [/a\u0301/g, 'á'], [/a\u0309/g, 'ả'], [/a\u0303/g, 'ã'], [/a\u0323/g, 'ạ'],
+        [/ă\u0300/g, 'ằ'], [/ă\u0301/g, 'ắ'], [/ă\u0309/g, 'ẳ'], [/ă\u0303/g, 'ẵ'], [/ă\u0323/g, 'ặ'],
+        [/â\u0300/g, 'ầ'], [/â\u0301/g, 'ấ'], [/â\u0309/g, 'ẩ'], [/â\u0303/g, 'ẫ'], [/â\u0323/g, 'ậ'],
+        [/e\u0300/g, 'è'], [/e\u0301/g, 'é'], [/e\u0309/g, 'ẻ'], [/e\u0303/g, 'ẽ'], [/e\u0323/g, 'ẹ'],
+        [/ê\u0300/g, 'ề'], [/ê\u0301/g, 'ế'], [/ê\u0309/g, 'ể'], [/ê\u0303/g, 'ễ'], [/ê\u0323/g, 'ệ'],
+        [/i\u0300/g, 'ì'], [/i\u0301/g, 'í'], [/i\u0309/g, 'ỉ'], [/i\u0303/g, 'ĩ'], [/i\u0323/g, 'ị'],
+        [/o\u0300/g, 'ò'], [/o\u0301/g, 'ó'], [/o\u0309/g, 'ỏ'], [/o\u0303/g, 'õ'], [/o\u0323/g, 'ọ'],
+        [/ô\u0300/g, 'ồ'], [/ô\u0301/g, 'ố'], [/ô\u0309/g, 'ổ'], [/ô\u0303/g, 'ỗ'], [/ô\u0323/g, 'ộ'],
+        [/ơ\u0300/g, 'ờ'], [/ơ\u0301/g, 'ớ'], [/ơ\u0309/g, 'ở'], [/ơ\u0303/g, 'ỡ'], [/ơ\u0323/g, 'ợ'],
+        [/u\u0300/g, 'ù'], [/u\u0301/g, 'ú'], [/u\u0309/g, 'ủ'], [/u\u0303/g, 'ũ'], [/u\u0323/g, 'ụ'],
+        [/ư\u0300/g, 'ừ'], [/ư\u0301/g, 'ứ'], [/ư\u0309/g, 'ử'], [/ư\u0303/g, 'ữ'], [/ư\u0323/g, 'ự'],
+        [/y\u0300/g, 'ỳ'], [/y\u0301/g, 'ý'], [/y\u0309/g, 'ỷ'], [/y\u0303/g, 'ỹ'], [/y\u0323/g, 'ỵ']
+    ];
+
+    // Apply Unicode normalization first (NFC form)
+    text = text.normalize('NFC');
+
+    // Apply common fixes
+    for (const [pattern, replacement] of commonFixes) {
+        text = text.replace(pattern, replacement);
+    }
+
+    // Apply character replacements
+    for (const [from, to] of Object.entries(replacements)) {
+        text = text.replace(new RegExp(from, 'g'), to);
+    }
+
+    // Clean up multiple spaces and normalize
+    text = text.replace(/\s+/g, ' ');
+
+    return text;
+}
+
 // Function to strip HTML tags and extract text
 function stripHtml(html) {
     // Remove script and style elements
@@ -41,8 +115,13 @@ function stripHtml(html) {
     html = html.replace(/[ ]+/g, ' ');
     html = html.replace(/\n\s*\n\s*\n+/g, '\n\n');
 
-    return html.trim();
+    // Apply Vietnamese encoding fix
+    let text = html.trim();
+    text = fixVietnameseEncoding(text);
+
+    return text;
 }
+
 
 // Function to summarize document for chatbot
 function summarizeForChatbot(filename, content) {

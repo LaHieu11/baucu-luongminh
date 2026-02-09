@@ -24,7 +24,7 @@ DANH SÁCH VĂN BẢN THAM KHẢO:
 11. HD hiệp thương (MTTQ tỉnh) (đã tiếp thu ý kiến tham gia bổ sung A Hạnh)
 12. Hướng dẫn MTTQ xã công tác Bầu cử (LM)
 13. KẾ HOẠCH KIỂM TRA, GIÁM SÁT BẦU CỬ NHIỆM KỲ 2026 - 2031
-14. KH Kiểm tra, giám sát công tác bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031
+14. KH Kiểm tra, giaám sát công tác bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031
 15. KH Tieu ban tuyên truyền bầu cử đại biểu QH và HĐND các cấp
 16. Kế hoạch tiếp công dân, xử lý đơn thư phục vụ bầu cử của Ban Thường trực Ủy ban MTTQ xã Lương Minh
 17. Kế hoạch tổ chức HN hiệp thương lần thứ hai
@@ -63,7 +63,7 @@ DANH SÁCH VĂN BẢN THAM KHẢO:
 ════════════════════════════════════════════════════════════════════════════════
 Chinh digital
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  352
  2025-12-24T07:36:00Z
@@ -94,247 +94,246 @@ Chinh digital
 
  ỦY BAN MTTQ VIỆT NAM
 
- X� LƯƠNG MINH
+ Xã LƯƠNG MINH
 
  BAN THƯỜNG TRỰC
 
- CỘNG HO�
- X� HỘI CHỦ NGHĨA VIỆT NAM
+ CỘNG HO
+ Xã HỘI CHỦ NGHĨA VIỆT NAM
 
  Độc lập
- - Tự do - Hạnh ph�c
+ - Tự do - Hạnh phúc
 
- Số:� ���/HD-MTTQ-BTT
+ Số: /HD-MTTQ-BTT
 
  Lương
- Minh, ng�y 22 th�ng 12 năm 2025
+ Minh, ngày 22 tháng 12 năm 2025
 
 HƯỚNG DẪN
 
-C�c
+Các
 cơ quan, tổ chức, đơn vị giới thiệu
 người ứng cử đại biểu Hội đồng
-nh�n d�n x�; thời gian thực hiện từ ng�y 17/12/2025
-đến ng�y 25/01/2026
+nhân dân xã; thời gian thực hiện từ ngày 17/12/2025
+đến ngày 25/01/2026
 
 Căn cứ
-Luật Bầu cử đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n số
-85/2015/QH13 đ� được sửa đổi, bổ
+Luật Bầu cử đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân số
+85/2015/QH13 đã được sửa đổi, bổ
 sung một số điều thao Luật số 83/2025/QH15;
 
 Căn cứ Nghị
-quyết số 101/2025/UBTVQH15 ng�y 26/9/2025 v� Nghị quyết
-li�n tịch số 102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN ng�y
-26/9/2025 hướng dẫn quy tr�nh hiệp thương, giới
+quyết số 101/2025/UBTVQH15 ngày 26/9/2025 và Nghị quyết
+liên tịch số 102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN ngày
+26/9/2025 hướng dẫn quy trình hiệp thương, giới
 thiệu người ứng cử; 
 
 Căn cứ
-Nghị quyết số 40/NQ-HĐBCQG ng�y 29/9/2025 của Hội
+Nghị quyết số 40/NQ-HĐBCQG ngày 29/9/2025 của Hội
 đồng bầu cử quốc gia quy định
-mẫu văn bản hồ sơ ứng cử v� việc
-nộp hồ sơ ứng cử; nội quy ph�ng bỏ phiếu
-trong c�ng t�c bầu cử đại biểu Quốc hội
-kh�a XVI v� đại biểu Hội đồng Nh�n d�n c�c cấp
+mẫu văn bản hồ sơ ứng cử và việc
+nộp hồ sơ ứng cử; nội quy phòng bỏ phiếu
+trong công tác bầu cử đại biểu Quốc hội
+khóa XVI và đại biểu Hội đồng Nhân dân các cấp
 nhiệm kỳ 2026-2031;
 
-Căn cứ Th�ng
-b�o số 17/TB-TTHĐND ng�y 12/12/2025 của HĐND x�
+Căn cứ Thông báo số 17/TB-TTHĐND ngày 12/12/2025 của HĐND xã
 Lương Minh về điều chỉnh cơ cấu, số
-lượng, th�nh phần v� ph�n bổ số lượng
+lượng, thành phần và phân bổ số lượng
 người được giới thiệu ứng cử
-đại biểu HĐND x� Lương Minh kh�a II, nhiệm
-kỳ 2026-2031; Th�ng b�o của MTTQ x� về việc ph�n bổ
-số lượng, cơ cấu, th�nh phần cho c�c cơ
-quan, tổ chức, đơn vị, th�n tr�n địa b�n
-x� được giới thiệu người ứng cử
-đại biểu Hội đồng nh�n d�n x�, nhiệm kỳ
-2026 � 2031.
+đại biểu HĐND xã Lương Minh khóa II, nhiệm
+kỳ 2026-2031; Thông báo của MTTQ xã về việc phân bổ
+số lượng, cơ cấu, thành phần cho các cơ
+quan, tổ chức, đơn vị, thôn địa bàn
+xã được giới thiệu người ứng cử
+đại biểu Hội đồng nhân dân xã, nhiệm kỳ
+2026  2031.
 
-Để đảm bảo quy tr�nh giới thiệu
-người ứng cử đ�ng ph�p luật, Ban Thường
-trực Ủy ban MTTQ Việt Nam x� Lương Minh hướng
-dẫn về nộị dung, tr�nh tự, thủ tục
-giới thiệu người ứng cử v� l�m hồ
+Để đảm bảo quy trình giới thiệu
+người ứng cử đồng pháp luật, Ban Thường
+trực Ủy ban MTTQ Việt Nam xã Lương Minh hướng
+dẫn về nộị dung, trình tự, thủ tục
+giới thiệu người ứng cử và làm hồ
 sơ ứng cử như sau: 
 
 1. Mục
-đ�ch
+đích
 
 - Bảo đảm
 việc giới thiệu người ứng cử đại
-biểu Hội đồng nh�n d�n x� diễn ra đ�ng quy
-định của ph�p luật, d�n chủ, c�ng khai, minh bạch.
-G�p phần lựa chọn, giới thiệu được
-những người c� đủ ti�u chuẩn, phẩm chất,
-năng lực, uy t�n, đại diện cho � ch�, nguyện
-vọng của Nh�n d�n.
+biểu Hội đồng nhân dân xã diễn ra đồng quy
+định của pháp luật, dân chủ, công khai, minh bạch.
+Góp phần lựa chọn, giới thiệu được
+những người cơ đủ tiêu chuẩn, phẩm chất,
+năng lực, uy tín, đại diện choý chí, nguyện
+vọng của Nhân dân.
 
 - Thực hiện
-đ�ng cơ cấu, th�nh phần, số lượng
-người ứng cử đ� được Thường
-trực HĐND x� ph�n bổ. Tạo điều kiện thuận
-lợi cho c�c cơ quan, tổ chức, đơn vị
+đồng cơ cấu, thành phần, số lượng
+người ứng cử đã được Thường
+trực HĐND xã phân bổ. Tạo điều kiện thuận
+lợi cho các cơ quan, tổ chức, đơn vị
 trong việc chuẩn bị hồ sơ, thủ tục giới
 thiệu người ứng cử.
 
-2. Y�u cầu
+2. Yêu cầu
 
 - Việc tổ
-chức lấy � kiến cử tri tai cơ quan, tổ chức,
+chức lấy ý kiến cử tri tại cơ quan, tổ chức,
 đơn vị đối với người dự kiến
 giới thiệu ứng cử đại biểu HĐND phải
-được tiến h�nh theo quy định tại Điều
+được tiến hành theo quy định tại Điều
 1, 3, 4 Nghị quyết 101/2025/UBTVQH15.
 
 - Người
-ứng cử đang c�ng t�c tại Đảng ủy,
+ứng cử đang công tác tại Đảng ủy,
 Thường tực HĐND, Ban của HĐND, UBND, Cơ
-quan chuy�n m�n thuộc UBND, Ủy ban MTTQ Việt Nam, c�c tổ
-chức ch�nh trị - x� hội cấp x�. Việc lấy �
-kiến cử tri nơi c�ng t�c được thực hiện
-tại hội nghị li�n tịch giữa Đảng ủy,
+quan chuyên môn thuộc UBND, Ủy ban MTTQ Việt Nam, các tổ
+chức chính trị - xã hội cấp xã. Việc lấy 
+kiến cử tri nơi công tác được thực hiện
+tại hội nghị liên tịch giữa Đảng ủy,
 Thường trực HĐND, UBND, Ủy ban MTTQ Việt Nam,
-c�c tổ chức ch�nh trị - x� hội, do người
-đứng đầu Đảng ủy cấp x� triệu
-tập v� chủ tr� hội nghị.
+các tổ chức chính trị - xã hội, do người
+đứng đầu Đảng ủy cấp xã triệu
+tập và chủ trì hội nghị.
 
-- C�c cơ
-quan, tổ chức, đơn vị phải qu�n triệt
-đầy đủ c�c quy định của Luật Bầu
-cử v� c�c văn bản hướng dẫn li�n quan. Việc
+- Các cơ
+quan, tổ chức, đơn vị phải quản triệt
+đầy đủ các quy định của Luật Bầu
+cử và các văn bản hướng dẫn liên quan. Việc
 giới thiệu người ứng cử phải
-được tiến h�nh d�n chủ, kh�ch quan, đ�ng tr�nh
+được tiến hành dân chủ, khồch quan, đồng trình
 tự, thủ tục, bảo đảm chất lượng
-v� tiến độ thời gian. Hồ sơ ứng cử
+và tiến độ thời gian. Hồ sơ ứng cử
 phải được chuẩn bị đầy đủ,
-ch�nh x�c, đ�ng mẫu quy định; nộp đ�ng thời
-hạn cho Ủy ban bầu cử x�.
+chính xãc, đồng mẫu quy định; nộp đồng thời
+hạn cho Ủy ban bầu cử xã.
 
 - Người
 được giới thiệu ứng cử phải
-đ�p ứng ti�u chuẩn đại biểu HĐND theo
-quy định của ph�p luật, c� phẩm chất đạo
-đức tốt, gắn b� với Nh�n d�n, c� khả
-năng tham gia quyết định c�c vấn đề của
+đáp ứng tiêu chuẩn đại biểu HĐND theo
+quy định của pháp luật, cơ phẩm chất đạo
+đức tốt, gắn bổ với Nhân dân, cơ khả
+năng tham gia quyết định các vấn đề của
 địa phương.
 
 - Ban Thường
-trực Ủy ban MTTQ Việt Nam x� c� tr�ch nhiệm kiểm
-tra, gi�m s�t, tổng hợp v� b�o c�o kết quả thực
+trực Ủy ban MTTQ Việt Nam xã cơ trách nhiệm kiểm
+tra, giaám sát, tổng hợp và bảo cơo kết quả thực
 hiện.
 
-3. Quy tr�nh giới thiệu: C�c cơ quan, tổ chức, đơn vị v� Ban
-C�ng t�c Mặt trận th�n tổ chức hội nghị giới
-thiệu người ứng cử theo tr�nh tự quy định:
+3. Quy trình giới thiệu: Các cơ quan, tổ chức, đơn vị và Ban
+Công tác Mặt trận thôn tổ chức hội nghị giới
+thiệu người ứng cử theo trình tự quy định:
 
 3.1. Đối với cơ
-quan, tổ chức, đơn vị: (1) Họp Ban l�nh đạo dự kiến
-người giới thiệu, Bi�n bản họp Ban l�nh đạo
+quan, tổ chức, đơn vị: (1) Họp Ban lĩnh đạo dự kiến
+người giới thiệu, Biên bản họp Ban lĩnh đạo
 dự kiến giới thiệu (Mẫu số 02/BCĐBHĐND-MT);
 (2) Hội nghị lấy
-� kiến cử tri nơi c�ng t�c, Bi�n bản Hội
-nghị Cử tri Nơi C�ng t�c (Mẫu số 01/HNCT). Phiếu
-lấy � kiến (Mẫu số 07/PLYK nếu
-biểu quyết k�n); (3)
-Tổ chức Hội nghị Ban l�nh đạo mở rộng
-giới thiệu ch�nh thức, Bi�n bản Hội nghị
+ kiến cử tri nơi công tác, Biên bản Hội
+nghị Cử tri Nơi Công tác (Mẫu số 01/HNCT). Phiếu
+lấy  kiến (Mẫu số 07/PLYK nếu
+biểu quyết kín); (3)
+Tổ chức Hội nghị Ban lĩnh đạo mở rộng
+giới thiệu chính thức, Biên bản Hội nghị
 Giới thiệu (Mẫu số 03/BCĐBHĐND-MT).
-Danh s�ch tr�ch ngang nh�n sự (Mẫu số 04/BCĐBHĐND-MT; (4) Cơ quan, tổ chức,
-đơn vị, chuyển Bi�n bản hội nghị cử
+Danh sách trách ngang nhân sự (Mẫu số 04/BCĐBHĐND-MT; (4) Cơ quan, tổ chức,
+đơn vị, chuyển Biên bản hội nghị cử
 tri giới thiệu đến Ban Thường trực
-UBMTTQ x� (Mẫu số 01/HNCT,
+UBMTTQ xã (Mẫu số 01/HNCT,
 Mẫu số
 03/BCĐBHĐND-MT). Người ứng cử nộp hồ
-sơ tại Ủy ban bầu cử cấp x�, Hồ
-sơ ứng cử theo Nghị quyết 40/NQ-HĐBCQG (c�
-mẫu c�c bi�n bản gửi k�m).
+sơ tại Ủy ban bầu cử cấp xã, Hồ
+sơ ứng cử theo Nghị quyết 40/NQ-HĐBCQG (cơ
+mẫu các biên bản gửi km).
 
-3.2. Đối với th�n d�n
-cư: (1) Trưởng Ban c�ng t�c Mặt
-trận phối hợp với B� thư chi bộ, Trưởng
-th�n họp dự kiến
+3.2. Đối với thôn dân
+cư: (1) Trưởng Ban công tác Mặt
+trận phối hợp với Bổ thư chi bộ, Trưởng
+thôn họp dự kiến
 người giới thiệu; (2) Trưởng
-Ban c�ng t�c Mặt trận triệu tập v� chủ tr� hội
-nghị to�n bộ th�nh vi�n BCMT để thảo luận,
-nhận x�t, biểu thị sự t�n nhiệm đối với
-người dự kiến giới thiệu, Bi�n bản Hội
+Ban công tác Mặt trận triệu tập và chủ trì hội
+nghị ton bộ thành vin BCMT để thảo luận,
+nhận xãt, biểu thị sự tỷn nhiệm đối với
+người dự kiến giới thiệu, Biên bản Hội
 nghị BCMT dự kiến giới thiệu người ứng
-cử (Mẫu số 03/HNMT); (3) Trưởng Ban c�ng t�c Mặt trận
-phối hợp với Trưởng th�n tổ chức hội
-nghị cử tri tại th�n, Bi�n bản Hội nghị Cử
+cử (Mẫu số 03/HNMT); (3) Trưởng Ban công tác Mặt trận
+phối hợp với Trưởng thôn tổ chức hội
+nghị cử tri tại thôn, Biên bản Hội nghị Cử
 tri giới thiệu người ứng cử ĐBHĐND
-cấp x� (Mẫu số
-04/HNCT). Phiếu lấy � kiến (Mẫu số 08/PLYK) (nếu biểu quyết k�n);
-(4) Ban C�ng t�c Mặt trận
-chuyển Bi�n bản hội nghị cử tri giới thiệu
-đến Ban Thường trực UBMTTQ x�. Người ứng
+cấp xã (Mẫu số
+04/HNCT). Phiếu lấy  kiến (Mẫu số 08/PLYK) (nếu biểu quyết kín);
+(4) Ban Công tác Mặt trận
+chuyển Biên bản hội nghị cử tri giới thiệu
+đến Ban Thường trực UBMTTQ xã. Người ứng
 cử nộp hồ sơ tại Ủy ban bầu cử cấp
-x� (c� mẫu c�c bi�n bản gửi k�m).
+xã (cơ mẫu các biên bản gửi km).
 
-* Lưu �: Đối với th�n kh�ng được ph�n bổ
-th� kh�ng tổ chức hội nghị.
+* Lưu : Đối với thôn không được phân bổ
+thủ không tổ chức hội nghị.
 
-4. X�c định
-Ban l�nh đạo như sau:
+4. Xãc định
+Ban lĩnh đạo như sau:
 
 4.1. Tổ chức
-ch�nh trị: Th�nh phần dự hội nghị gồm
-Ban l�nh đạo v� đại điện l�nh đạo
+chính trị: Thành phần dự hội nghị gồm
+Ban lĩnh đạo và đại điện lĩnh đạo
 trực thuộc.
 
 4.2. MTTQ Việt
-Nam, c�c tổ chức ch�nh trị - x� hội:� Th�nh phần dự hội nghị
+Nam, các tổ chức chính trị - xã hội: Thành phần dự hội nghị
 gồm Ban Thường trực, BTV, người đứng
-đầu c�c tổ chức th�nh vi�n v� địa diện
-l�nh đạo c�c đơn vị trực thuộc của
+đầu các tổ chức thành vin và địa diện
+lĩnh đạo các đơn vị trực thuộc của
 tổ chức giới thiệu.
 
 4.3. HĐND cấp
-x�:
-Th�nh phần dự hội nghị gồm Thường trực
-HĐND v� đại diện l�nh đạo c�c Ban của
+xã:
+Thành phần dự hội nghị gồm Thường trực
+HĐND và đại diện lĩnh đạo các Ban của
 HĐND.
 
 4.4. UBND cấp
-x�:
-Th�nh phần dự hội nghị gồm Ban l�nh đạo
-UBND v� đại diện l�nh đạo c�c đơn vị
-trực thuộc UBND (l�nh đạo Trường học, Trạm
+xã:
+Thành phần dự hội nghị gồm Ban lĩnh đạo
+UBND và đại diện lĩnh đạo các đơn vị
+trực thuộc UBND (lĩnh đạo Trường học, Trạm
 y tế).
 
-5. Thời gian thực hiện: Từ ng�y 17/12/2025 đến ng�y 25/01/2026.
+5. Thời gian thực hiện: Từ ngày 17/12/2025 đến ngày 25/01/2026.
 
-Bi�n bản hội nghị cử tri v� bi�n bản giới
+Biên bản hội nghị cử tri và biên bản giới
 thiệu người ứng cử phải gửi về
-Ban Thường trực Ủy ban MTTQ Việt Nam x�
-Lương Minh chậm nhất l� 17 giờ 00 ng�y 30/01/2026
+Ban Thường trực Ủy ban MTTQ Việt Nam xã
+Lương Minh chậm nhất lã 17 giaờ 00 ngày 30/01/2026
 để tổng hợp.
 
-Căn cứ hướng dẫn n�y,
-đề nghị Thủ trưởng c�c cơ quan,
-đơn vị v� Trưởng Ban C�ng t�c Mặt trận
-c�c th�n nghi�m t�c triển khai thực hiện, bảo đảm
-đ�ng quy định của ph�p luật v� tiến độ
-thời gian./.������� 
+Căn cứ hướng dẫn này,
+đề nghị Thủ trưởng các cơ quan,
+đơn vị và Trưởng Ban Công tác Mặt trận
+các thôn nghim tục triển khai thực hiện, bảo đảm
+đồng quy định của pháp luật và tiến độ
+thời gian./. 
 
  Nơi
  nhận:
 
  - TT Đảng ủy,
- HĐND, UBND x�;
+ HĐND, UBND xã;
 
- - C�c Cơ quan,
+ - Các Cơ quan,
  đơn vị;
 
  - Ủy
- ban bầu cử x�;
+ ban bầu cử xã;
 
  -
- Trưởng th�n c�c th�n;
+ Trưởng thôn các thôn;
 
  -
- Ban c�ng t�c Mặt trận th�n;
+ Ban công tác Mặt trận thôn;
 
  -
  Lưu: VT MTTQ.
@@ -345,79 +344,79 @@ thời gian./.�������
  CHỦ TỊCH
 
  Lan Thị
- V�n
+ Vấn
 
 PHỤ
 LỤC
 
-HƯỚNG DẪN TR�NH TỰ THỰC
+HƯỚNG DẪN TRNH TỰ THỰC
 HIỆN (BƯỚC 2) 
 
-(K�m theo Hướng dẫn số�� /HD-MTTQ-BTT ng�y 20/12/2025 
+(Km theo Hướng dẫn số /HD-MTTQ-BTT ngày 20/12/2025 
 
-của BTT ủy ban MTTQ x� Lương
+của BTT ủy ban MTTQ xã Lương
 Minh)
 
 Thời gian thực
 hiện:
-Từ ng�y 17/12/2025 đến ng�y 25/01/2026.
+Từ ngày 17/12/2025 đến ngày 25/01/2026.
 
 Phần
 1. 
 
-Tr�nh
+Trình
 tự thực hiện
 
 I. ĐỐI
-VỚI C�C CƠ QUAN, TỔ CHỨC, ĐƠN VỊ (Khối
-Đảng, Ch�nh quyền, Đo�n thể)
+VỚI CơC CƠ QUAN, TỔ CHỨC, ĐƠN VỊ (Khối
+Đảng, Chính quyền, Đoàn thể)
 
 Thực hiện
-quy tr�nh 3 bước sau:
+quy trình 3 bước sau:
 
 Bước 1:
-Họp Ban l�nh đạo dự kiến người giới
+Họp Ban lĩnh đạo dự kiến người giới
 thiệu ứng cử.
 
-Th�nh phần
-ban l�nh đạo cơ quan, tổ chức, đơn vị
-được x�c định theo quy chế, điều lệ
-về tổ chức v� hoạt động cơ quan, tổ
-chức, đơn vị.� 
+Thành phần
+ban lĩnh đạo cơ quan, tổ chức, đơn vị
+được xãc định theo quy chế, điều lệ
+về tổ chức và hoạt động cơ quan, tổ
+chức, đơn vị. 
 
-- Th�nh phần:
-Ban l�nh đạo cơ quan.
+- Thành phần:
+Ban lĩnh đạo cơ quan.
 
 - Nội dung: Thảo luận, dự kiến
-người ra ứng cử dựa tr�n số lượng
-được ph�n bổ.
+người ra ứng cử dựa trận số lượng
+được phân bổ.
 
 - Biểu mẫu:
-Lập Bi�n bản theo Mẫu số 02/BCĐBHĐND-MT.
+Lập Biên bản theo Mẫu số 02/BCĐBHĐND-MT.
 
 Bước 2:
-Hội nghị lấy � kiến cử tri nơi c�ng t�c.
+Hội nghị lấy  kiến cử tri nơi công tác.
 
-- Th�nh phần:
-To�n thể c�n bộ, c�ng chức, vi�n chức, người
+- Thành phần:
+Ton thể cơn bộ, công chức, vin chức, người
 lao động trong đơn vị (nếu dưới 100
 người).
 
 - Chủ
-tr�: Người đứng đầu cơ quan.
+trì: Người đứng đầu cơ quan.
 
 - Nội
-dung: Lấy � kiến nhận x�t v� bỏ phiếu t�n nhiệm
-(giơ tay hoặc bỏ phiếu k�n). Người
-được giới thiệu phải đạt t�n nhiệm
-tr�n 50%.
+dung: Lấy  kiến nhận xãt và bỏ phiếu tỷn nhiệm
+(giaơ tay hoặc bỏ phiếu kín). Người
+được giới thiệu phải đạt tỷn nhiệm
+trận 50%.
 
 - Biểu mẫu:
-Lập Bi�n bản theo Mẫu số 01/HNCT.
+Lập Biên bản theo Mẫu số 01/HNCT.
 
 Bước 3:
-Hội nghị Ban l�nh đạo mở rộng giới thiệu
-ch�
+Hội nghị Ban lĩnh đạo mở rộng giới thiệu
+chỉ
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -445,43 +444,43 @@ ch�
  -------
 
  CỘNG
- H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- Độc lập - Tự do - Hạnh ph�c 
+ Độc lập - Tự do - Hạnh phúc 
 
  ---------------
 
  Nghị
  quyết số: 101/2025/UBTVQH15
 
- H�
- Nội, ng�y 26 th�ng 9 năm 2025 
+ Hồ
+ Nội, ngày 26 tháng 9 năm 2025 
 
 NGHỊ QUYẾT
 
 QUY ĐỊNH CHI
 TIẾT, HƯỚNG DẪN VIỆC TỔ CHỨC HỘI
 NGHỊ CỬ TRI; VIỆC GIỚI THIỆU NGƯỜI
-ỨNG CỬ ĐẠI BIỂU HỘI ĐỒNG NH�N D�N
-CẤP X� Ở TH�N, TỔ D�N PHỐ; VIỆC HIỆP
+ỨNG CỬ ĐẠI BIỂU HỘI ĐỒNG NHồN DựN
+CẤP Xã Ở THồN, TỔ DựN PHỐ; VIỆC HIỆP
 THƯƠNG, GIỚI THIỆU NGƯỜI ỨNG CỬ,
-LẬP DANH S�CH NGƯỜI ỨNG CỬ ĐẠI
+LẬP DANH SốCH NGƯỜI ỨNG CỬ ĐẠI
 BIỂU QUỐC HỘI, ĐẠI BIỂU HỘI
-ĐỒNG NH�N D�N TRONG BẦU CỬ BỔ SUNG
+ĐỒNG NHồN DựN TRONG BẦU CỬ BỔ SUNG
 
 ỦY BAN THƯỜNG VỤ QUỐC
 HỘI
 
 Căn
-cứ Hiến ph�p nước
-Cộng h�a x� hội chủ nghĩa Việt Nam đ�
+cứ Hiến pháp nước
+Cộng hồa xã hội chủ nghĩa Việt Nam đã
 được sửa đổi, bổ sung một số
 điều theo Nghị quyết số 203/2025/QH15;
 
 Căn
 cứ Luật Bầu cử
-đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n số 85/2015/QH13 đ�
+đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân số 85/2015/QH13 đã
 được sửa đổi, bổ sung một số
 điều theo Luật số 83/2025/QH15;
 
@@ -490,242 +489,242 @@ QUYẾT NGHỊ:
 Chương I
 
 TỔ CHỨC
-HỘI NGHỊ CỬ TRI LẤY � KIẾN ĐỐI
+HỘI NGHỊ CỬ TRI LẤY  KIẾN ĐỐI
 VỚI NGƯỜI ỨNG CỬ ĐẠI BIỂU
-QUỐC HỘI, ĐẠI BIỂU HỘI ĐỒNG NH�N
-D�N
+QUỐC HỘI, ĐẠI BIỂU HỘI ĐỒNG NHồN
+DựN
 
 Điều 1. Tổ chức hội nghị
-cử tri nơi c�ng t�c
+cử tri nơi công tác
 
 1.
-Hội nghị cử tri nơi c�ng t�c để lấy �
-kiến nhận x�t v� b�y tỏ sự t�n nhiệm của
-cử tri nơi c�ng t�c hoặc nơi l�m việc
+Hội nghị cử tri nơi công tác để lấy 
+kiến nhận xãt và bày tỏ sự tỷn nhiệm của
+cử tri nơi công tác hoặc nơi làm việc
 đối với người ứng cử đại
 biểu Quốc hội, đại biểu Hội
-đồng nh�n d�n (gồm người được
-giới thiệu ứng cử v� người tự
+đồng nhân dân (gồm người được
+giới thiệu ứng cử và người tự
 ứng cử) được tổ chức ở nơi
-người ứng cử đang c�ng t�c hoặc l�m
-việc (nếu c�). Trường hợp người
-ứng cử c� nhiều nơi c�ng t�c hoặc nơi l�m
-việc th� tổ chức lấy � kiến của cử
-tri nơi người đ� c�ng t�c hoặc l�m việc
-thường xuy�n.
+người ứng cử đang công tác hoặc làm
+việc (nếu cơ). Trường hợp người
+ứng cử cơ nhiều nơi công tác hoặc nơi làm
+việc thủ tổ chức lấy  kiến của cử
+tri nơi người đã công tác hoặc làm việc
+thường xuyn.
 
 2.
-Thẩm quyền chủ tr� v� triệu tập hội
-nghị cử tri nơi c�ng t�c được thực
+Thẩm quyền chủ trì và triệu tập hội
+nghị cử tri nơi công tác được thực
 hiện như sau:
 
 a)
-Người ứng cử đang c�ng t�c chuy�n tr�ch tại
+Người ứng cử đang công tác chuyện trách tại
 cơ quan Đảng, Ủy ban Mặt trận Tổ
-quốc Việt Nam, c�c tổ chức th�nh vi�n của
-Mặt trận, c�c tổ chức x� hội kh�c th� việc
-tổ chức hội nghị lấy � kiến cử tri
-nơi c�ng t�c do Ban l�nh đạo cơ quan, tổ chức
-triệu tập v� chủ tr� hội nghị. Đối
-với người ứng cử đang l� c�n bộ l�m
-c�ng t�c Đảng chuy�n tr�ch tại Đảng ủy
-Quốc hội th� thực hiện theo quy định
-tại điểm b khoản n�y;
+quốc Việt Nam, các tổ chức thành vin của
+Mặt trận, các tổ chức xã hội khồc thủ việc
+tổ chức hội nghị lấy  kiến cử tri
+nơi công tác do Ban lĩnh đạo cơ quan, tổ chức
+triệu tập và chủ trì hội nghị. Đối
+với người ứng cử đang lã cơn bộ làm
+công tác Đảng chuyện trách tại Đảng ủy
+Quốc hội thủ thực hiện theo quy định
+tại điểm b khoản này;
 
 b)
-Người ứng cử đang l� Chủ tịch
-Quốc hội, Ph� Chủ tịch Quốc hội; đang
-c�ng t�c tại Thường trực Hội đồng D�n
-tộc, c�c Ủy ban của Quốc hội, c�c vụ chuy�n
-m�n thuộc Hội đồng D�n tộc, c�c Ủy ban
-của Quốc hội; đang c�ng t�c tại Văn ph�ng
-Quốc hội; đang l�m c�ng t�c Đảng chuy�n tr�ch
-tại Đảng ủy Quốc hội th� việc tổ
-chức hội nghị lấy � kiến cử tri nơi
-c�ng t�c do Ủy ban Thường vụ Quốc hội
-quyết định, chỉ đạo Ban l�nh đạo
-gồm người đứng đầu v� cấp ph�
-của người đứng đầu Văn ph�ng
-Quốc hội triệu tập v� chủ tr� hội
+Người ứng cử đang lã Chủ tịch
+Quốc hội, Phụ Chủ tịch Quốc hội; đang
+công tác tại Thường trực Hội đồng Dân
+tộc, các Ủy ban của Quốc hội, các vụ chuyện
+mn thuộc Hội đồng Dân tộc, các Ủy ban
+của Quốc hội; đang công tác tại Văn phòng
+Quốc hội; đang làm công tác Đảng chuyện trách
+tại Đảng ủy Quốc hội thủ việc tổ
+chức hội nghị lấy  kiến cử tri nơi
+công tác do Ủy ban Thường vụ Quốc hội
+quyết định, chỉ đạo Ban lĩnh đạo
+gồm người đứng đầu và cấp phụ
+của người đứng đầu Văn phòng
+Quốc hội triệu tập và chủ trì hội
 nghị;
 
 c)
-Người ứng cử đang l� Chủ tịch
-nước, Ph� Chủ tịch nước, đang c�ng t�c
-tại Văn ph�ng Chủ tịch nước th� việc
-tổ chức hội nghị lấy � kiến cử tri
-nơi c�ng t�c do Ban l�nh đạo gồm người
-đứng đầu v� cấp ph� của người
-đứng đầu Văn ph�ng Chủ tịch
-nước triệu tập v� chủ tr� hội nghị;
+Người ứng cử đang lã Chủ tịch
+nước, Phụ Chủ tịch nước, đang công tác
+tại Văn phòng Chủ tịch nước thủ việc
+tổ chức hội nghị lấy  kiến cử tri
+nơi công tác do Ban lĩnh đạo gồm người
+đứng đầu và cấp phụ của người
+đứng đầu Văn phòng Chủ tịch
+nước triệu tập và chủ trì hội nghị;
 
 d)
-Người ứng cử đang l� Thủ tướng
-Ch�nh phủ, Ph� Thủ tướng Ch�nh phủ th� việc
-tổ chức hội nghị lấy � kiến cử tri
-nơi c�ng t�c do Ban l�nh đạo gồm người
-đứng đầu v� cấp ph� của người
-đứng đầu Văn ph�ng Ch�nh phủ triệu
-tập v� chủ tr� hội nghị;
+Người ứng cử đang lã Thủ tướng
+Chính phủ, Phụ Thủ tướng Chính phủ thủ việc
+tổ chức hội nghị lấy  kiến cử tri
+nơi công tác do Ban lĩnh đạo gồm người
+đứng đầu và cấp phụ của người
+đứng đầu Văn phòng Chính phủ triệu
+tập và chủ trì hội nghị;
 
 đ)
-Người ứng cử đang c�ng t�c tại T�a �n nh�n
-d�n, Viện kiểm s�t nh�n d�n, Kiểm to�n nh� nước,
-c�c Bộ, cơ quan ngang Bộ, cơ quan thuộc Ch�nh
-phủ v� c�c cơ quan kh�c của Nh� nước th� việc
-tổ chức hội nghị lấy � kiến cử tri
-nơi c�ng t�c do Ban l�nh đạo gồm người
-đứng đầu v� cấp ph� của người
-đứng đầu cơ quan triệu tập v� chủ
-tr� hội nghị;
+Người ứng cử đang công tác tại Tỷa n nhân
+dân, Viện kiểm sát nhân dân, Kiểm ton nhà nước,
+các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính
+phủ và các cơ quan khồc của Nhà nước thủ việc
+tổ chức hội nghị lấy  kiến cử tri
+nơi công tác do Ban lĩnh đạo gồm người
+đứng đầu và cấp phụ của người
+đứng đầu cơ quan triệu tập và chủ
+trì hội nghị;
 
 e)
-Người ứng cử đang hoạt động chuy�n
-tr�ch tại Đo�n đại biểu Quốc hội,
-Thường trực Hội đồng nh�n d�n, c�c Ban
-của Hội đồng nh�n d�n cấp tỉnh, đang
-c�ng t�c tại Văn ph�ng Đo�n đại biểu
-Quốc hội v� Hội đồng nh�n d�n cấp tỉnh
-th� việc tổ chức hội nghị lấy � kiến
-cử tri nơi c�ng t�c do Ban l�nh đạo gồm
-người đứng đầu v� cấp ph� của
-người đứng đầu Văn ph�ng Đo�n đại
-biểu Quốc hội v� Hội đồng nh�n d�n cấp
-tỉnh triệu tập v� chủ tr� hội nghị;
+Người ứng cử đang hoạt động chuyện
+trách tại Đoàn đại biểu Quốc hội,
+Thường trực Hội đồng nhân dân, các Ban
+của Hội đồng nhân dân cấp tỉnh, đang
+công tác tại Văn phòng Đoàn đại biểu
+Quốc hội và Hội đồng nhân dân cấp tỉnh
+thủ việc tổ chức hội nghị lấy  kiến
+cử tri nơi công tác do Ban lĩnh đạo gồm
+người đứng đầu và cấp phụ của
+người đứng đầu Văn phòng Đoàn đại
+biểu Quốc hội và Hội đồng nhân dân cấp
+tỉnh triệu tập và chủ trì hội nghị;
 
 g)
-Người ứng cử đang l� Chủ tịch, Ph�
-Chủ tịch Ủy ban nh�n d�n cấp tỉnh th� việc
-tổ chức hội nghị lấy � kiến cử tri
-nơi c�ng t�c do Ban l�nh đạo gồm người
-đứng đầu v� cấp ph� của người
-đứng đầu Văn ph�ng Ủy ban nh�n d�n cấp
-tỉnh triệu tập v� chủ tr� hội nghị.
+Người ứng cử đang lã Chủ tịch, Phụ
+Chủ tịch Ủy ban nhân dân cấp tỉnh thủ việc
+tổ chức hội nghị lấy  kiến cử tri
+nơi công tác do Ban lĩnh đạo gồm người
+đứng đầu và cấp phụ của người
+đứng đầu Văn phòng Ủy ban nhân dân cấp
+tỉnh triệu tập và chủ trì hội nghị.
 
 Người
-ứng cử đang c�ng t�c tại c�c cơ quan chuy�n m�n,
-tổ chức h�nh ch�nh kh�c thuộc Ủy ban nh�n d�n cấp
-tỉnh th� việc tổ chức hội nghị lấy �
-kiến cử tri nơi c�ng t�c do Ban l�nh đạo gồm
-người đứng đầu v� cấp ph� của
+ứng cử đang công tác tại các cơ quan chuyên môn,
+tổ chức hành chính khồc thuộc Ủy ban nhân dân cấp
+tỉnh thủ việc tổ chức hội nghị lấy 
+kiến cử tri nơi công tác do Ban lĩnh đạo gồm
+người đứng đầu và cấp phụ của
 người đứng đầu cơ quan triệu
-tập v� chủ tr� hội nghị;
+tập và chủ trì hội nghị;
 
 h)
-Người ứng cử đang l�m việc tại
+Người ứng cử đang làm việc tại
 đơn vị sự nghiệp, tổ chức kinh tế
-th� việc tổ chức hội nghị lấy � kiến
-cử tri nơi l�m việc do người đứng
+thủ việc tổ chức hội nghị lấy  kiến
+cử tri nơi làm việc do người đứng
 đầu đơn vị, tổ chức phối hợp
-với Ban chấp h�nh c�ng đo�n (nếu c�) triệu
-tập v� chủ tr� hội nghị;
+với Ban chấp hành công đoàn (nếu cơ) triệu
+tập và chủ trì hội nghị;
 
 i)
-Người ứng cử đang c�ng t�c tại c�c
-đơn vị vũ trang nh�n d�n th� việc tổ
-chức hội nghị qu�n nh�n để lấy � kiến
-do l�nh đạo, chỉ huy đơn vị triệu
-tập v� chủ tr� hội nghị;
+Người ứng cử đang công tác tại các
+đơn vị vũ trang nhân dân thủ việc tổ
+chức hội nghị quản nhân để lấy  kiến
+do lĩnh đạo, chỉ huy đơn vị triệu
+tập và chủ trì hội nghị;
 
 k)
-Người ứng cử đang c�ng t�c tại
+Người ứng cử đang công tác tại
 Đảng ủy, Thường trực Hội
-đồng nh�n d�n, Ban của Hội đồng nh�n d�n,
-Ủy ban nh�n d�n, cơ quan chuy�n m�n thuộc Ủy ban nh�n
-d�n, Ủy ban Mặt trận Tổ quốc Việt Nam,
-tổ chức ch�nh trị - x� hội cấp x� th� việc
-tổ chức hội nghị lấy � kiến cử tri
-nơi c�ng t�c được thực hiện tại
-hội nghị li�n tịch giữa Đảng ủy,
-Thường trực Hội đồng nh�n d�n, Ủy ban
-nh�n d�n, Ủy ban Mặt trận Tổ quốc Việt Nam,
-tổ chức ch�nh trị - x� hội cấp x�.
+đồng nhân dân, Ban của Hội đồng nhân dân,
+Ủy ban nhân dân, cơ quan chuyên môn thuộc Ủy ban nhân
+dân, Ủy ban Mặt trận Tổ quốc Việt Nam,
+tổ chức chính trị - xã hội cấp xã thủ việc
+tổ chức hội nghị lấy  kiến cử tri
+nơi công tác được thực hiện tại
+hội nghị liên tịch giữa Đảng ủy,
+Thường trực Hội đồng nhân dân, Ủy ban
+nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam,
+tổ chức chính trị - xã hội cấp xã.
 Người đứng đầu Đảng ủy
-cấp x� triệu tập v� chủ tr� hội nghị.
+cấp xã triệu tập và chủ trì hội nghị.
 
 3.
 Trường hợp người đứng đầu
-cơ quan, tổ chức, đơn vị l� người
-ứng cử th� cấp ph� của người đứng
+cơ quan, tổ chức, đơn vị lã người
+ứng cử thủ cấp phụ của người đứng
 đầu cơ quan, tổ chức, đơn vị
-phối hợp với Ban chấp h�nh c�ng đo�n (nếu
-c�) triệu tập v� chủ tr� hội nghị.
+phối hợp với Ban chấp hành công đoàn (nếu
+cơ) triệu tập và chủ trì hội nghị.
 
 4.
-Đối với nơi c� dưới 100 cử tri th�
-tổ chức hội nghị to�n thể cử tri
-để lấy � kiến về người ứng
+Đối với nơi cơ dưới 100 cử tri thủ
+tổ chức hội nghị ton thể cử tri
+để lấy  kiến về người ứng
 cử đại biểu Quốc hội, đại
-biểu Hội đồng nh�n d�n v� phải bảo
+biểu Hội đồng nhân dân và phải bảo
 đảm số lượng cử tri tham dự hội
-nghị đạt �t nhất l� hai phần ba tổng
+nghị đạt t nhất lã hai phần ba tổng
 số cử tri được triệu tập.
-Đối với nơi c� từ 100 cử tri trở l�n
-th� c� thể tổ chức hội nghị to�n thể
-hoặc hội nghị đại diện cử tri v�
-phải bảo đảm c� �t nhất l� 70 cử tri tham
-dự hội nghị. T�y đặc điểm, t�nh h�nh
+Đối với nơi cơ từ 100 cử tri trở lần
+thủ cơ thể tổ chức hội nghị ton thể
+hoặc hội nghị đại diện cử tri và
+phải bảo đảm cơ t nhất lã 70 cử tri tham
+dự hội nghị. Tỷy đặc điểm, tỉnh hành
 thực tế của cơ quan, tổ chức, đơn
 vị, người đứng đầu cơ quan,
 tổ chức, đơn vị phối hợp với Ban
-chấp h�nh c�ng đo�n (nếu c�) ph�n bổ số
-lượng người để c�c đơn vị
+chấp hành công đoàn (nếu cơ) phân bổ số
+lượng người để các đơn vị
 trực thuộc cử đại diện tham dự.
 
 5.
-Trường hợp bất khả kh�ng do t�nh h�nh dịch
-bệnh, thi�n tai m� kh�ng thể tổ chức hội
-nghị trực tiếp th� tổ chức hội nghị
-trực tuyến hoặc tổ chức ph�t phiếu
-lấy � kiến đối với người ứng
+Trường hợp bất khả không do tỉnh hành dịch
+bệnh, thiện tai m không thể tổ chức hội
+nghị trực tiếp thủ tổ chức hội nghị
+trực tuyến hoặc tổ chức phát phiếu
+lấy  kiến đối với người ứng
 cử đến cử tri ở cơ quan, tổ chức,
 đơn vị. Việc tổ chức hội nghị
-trực tuyến hoặc tổ chức ph�t phiếu
-lấy � kiến được thực hiện như sau:
+trực tuyến hoặc tổ chức phát phiếu
+lấy  kiến được thực hiện như sau:
 
 a)
 Hội đồng bầu cử quốc gia quyết
 định việc tổ chức hội nghị trực
-tuyến, tổ chức ph�t phiếu lấy � kiến khi
+tuyến, tổ chức phát phiếu lấy  kiến khi
 mức độ ảnh hưởng của dịch
-bệnh, thi�n tai trong phạm vi to�n quốc; Ủy ban
+bệnh, thiện tai trong phạm vi ton quốc; Ủy ban
 bầu cử cấp tỉnh quyết định việc
 tổ chức hội nghị trực tuyến, tổ
-chức ph�t phiếu lấy � kiến khi mức độ
-ảnh hưởng của dịch bệnh, thi�n tai trong
-phạm vi địa phương m�nh (to�n tỉnh, th�nh phố
-hoặc ở từng x�, phường, đặc khu).
+chức phát phiếu lấy  kiến khi mức độ
+ảnh hưởng của dịch bệnh, thiện tai trong
+phạm vi địa phương mnh (ton tỉnh, thành phố
+hoặc ở từng xã, phường, đặc khu).
 
 Căn
-cứ quyết định của cấp c� thẩm
+cứ quyết định của cấp cơ thẩm
 quyền, người đứng đầu cơ quan,
-tổ chức, đơn vị b�o c�o cấp ủy c�ng
+tổ chức, đơn vị bảo cơo cấp ủy công
 cấp thống nhất tổ chức hội nghị
-trực tuyến hoặc ph�t phiếu lấy � kiến
+trực tuyến hoặc phát phiếu lấy  kiến
 đến cử tri ở cơ quan, tổ chức,
-đơn vị. Th�nh phần, số lượng cử
+đơn vị. Thành phần, số lượng cử
 tri được mời tham dự hội nghị
-trực tuyến hoặc ph�t phiếu lấy � kiến
+trực tuyến hoặc phát phiếu lấy  kiến
 phải bảo đảm quy định tại khoản 2
-v� khoản 3 Điều n�y;
+và khoản 3 Điều này;
 
 b)
-Cơ quan, tổ chức, đơn vị bố tr� hệ
+Cơ quan, tổ chức, đơn vị bố trì hệ
 thống họp trực tuyến bảo đảm
-điều kiện kỹ thuật, an to�n th�ng tin mạng,
-an ninh mạng v� ph� hợp với t�nh h�nh thực tế
-của cơ quan, tổ chức, đơn vị; th�ng b�o
-nội dung, thời gian, c�ch thức tổ chức hội
+điều kiện kỹ thuật, an ton tháng tin mạng,
+an ninh mạng và phụ hợp với tỉnh hành thực tế
+của cơ quan, tổ chức, đơn vị; thông báo
+nội dung, thời gian, cách thức tổ chức hội
 nghị trực tuyến tới cử tri.
 
 Nội
-dung, bi�n bản v� thủ tục tổ chức hội
+dung, biên bản và thủ tục tổ chức hội
 nghị trực tuyến được thực hiện
-theo quy định tại Điều 3 v�
-Điều 4 của Nghị quyết n�y. Tại hội
-nghị trực tuyến, chủ tr� hội nghị
-quyết định h�nh thức biểu quyết ph�
-hợp (giơ tay hoặc tạo b�nh chọn để
+theo quy định tại Điều 3 và
+Điều 4 của Nghị quyết này. Tại hội
+nghị trực tuyến, chủ trì hội nghị
+quyết định hành thức biểu quyết phụ
+hợp (giaơ tay hoặc tạo bảnh chọn để
 cử tri biểu quyết trực tuyến); cử Tổ
 kiểm ph
 ... [Nội dung đã được rút gọn]
@@ -865,7 +864,7 @@ của Luật Bầu cử đại biểu Quốc hội và đại biểu Hội
 
 Trường hợp
 không thỏa thuận được vấn đề nào thì hội nghị quyết định biểu quyết bằng hình
-thức giơ tay hoặc bỏ phiếu kín. Hội nghị cử Tổ kiểm phiếu từ 05 đến 15 người.
+thức giaơ tay hoặc bỏ phiếu kín. Hội nghị cử Tổ kiểm phiếu từ 05 đến 15 người.
 Trường hợp quyết định biểu quyết bằng hình thức bỏ phiếu kín thì phiếu biểu quyết
 phải đóng dấu của Ủy ban Mặt trận Tổ quốc Việt Nam cấp tổ chức hội nghị hiệp
 thương. Chỉ các đại biểu thuộc thành phần hội nghị hiệp thương có mặt tại hội
@@ -941,7 +940,7 @@ dân tộc thiểu số theo quy định của Luật Bầu cử
 
 Trường hợp
 không thỏa thuận được vấn đề nào thì hội nghị quyết định biểu quyết bằng hình
-thức giơ tay hoặc bỏ phiếu kín. Hội nghị cử Tổ kiểm phiếu từ 05 đến 15 người.
+thức giaơ tay hoặc bỏ phiếu kín. Hội nghị cử Tổ kiểm phiếu từ 05 đến 15 người.
 Trường hợp quyết định biểu quyết bằng hình thức bỏ phiếu kín thì phiếu biểu quyết
 phải đóng dấu của Ủy ban Mặt trận Tổ quốc Việt Nam cấp tổ chức hội nghị hiệp
 thương. Chỉ các đại biểu thuộc thành phần hội nghị hiệp thương có mặt tại hội
@@ -963,7 +962,7 @@ nhân dân.
 ════════════════════════════════════════════════════════════════════════════════
 Admin
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  372
  2025-11-17T10:53:00Z
@@ -990,286 +989,286 @@ Admin
  ỦY BAN MTTQ
  VIỆT NAM
 
- X� LƯƠNG
+ Xã LƯƠNG
  MINH
 
  BAN THƯỜNG TRỰC
 
  Số: 16/KH-MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ CỘNG HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- � �Độc lập - Tự do -
- Hạnh ph�c
+  Độc lập - Tự do -
+ Hạnh phúc
 
- �
+ 
 
  Lương
- Minh, ng�y 18 th�ng 11 năm 2025
+ Minh, ngày 18 tháng 11 năm 2025
 
 KẾ HOẠCH
 
 Thực
-hiện c�ng t�c bầu cử đại biểu Quốc
-hội kh�a XVI 
+hiện công tác bầu cử đại biểu Quốc
+hội khóa XVI 
 
-v�
-bầu cử đại biểu Hội đồng nh�n d�n
-c�c cấp nhiệm kỳ 2026-2031
+và
+bầu cử đại biểu Hội đồng nhân dân
+các cấp nhiệm kỳ 2026-2031
 
 Căn
 cứ Luật Bầu cử đại biểu Quốc
-hội v� đại biểu Hội đồng nh�n d�n số 85/2015/QH13, ng�y 25/6/2015 v�
+hội và đại biểu Hội đồng nhân dân số 85/2015/QH13, ngày 25/6/2015 và
 được sửa đổi, bổ sung một
 số điều tại Luật
-số 83/2025/QH15, ng�y 24/6/2025;
+số 83/2025/QH15, ngày 24/6/2025;
 Luật Mặt trận Tổ quốc Việt Nam số
-75/2015/QH13, ng�y 09/6/2015 v� Luật số 97/2025/QH15, ng�y
+75/2015/QH13, ngày 09/6/2015 và Luật số 97/2025/QH15, ngày
 27/6/2025 về sửa đổi, bổ sung một số
 điều của Luật Mặt trận Tổ quốc
-Việt Nam, Luật C�ng đo�n, Luật Thanh ni�n, Luật
-Thực hiện d�n chủ ở cơ sở; Chỉ thị số 46-CT/TW, ng�y
-16/5/2025 của Bộ Ch�nh trị về l�nh đạo
+Việt Nam, Luật Công đoàn, Luật Thanh niên, Luật
+Thực hiện dân chủ ở cơ sở; Chỉ thị số 46-CT/TW, ngày
+16/5/2025 của Bộ Chính trị về lĩnh đạo
 cuộc bầu cử đại biểu Quốc hội
-kh�a XVI v� bầu cử đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031;
-Kế hoạch số 06/KH-MTTW-BTT, ng�y 22/7/2025 của Ủy
+khóa XVI và bầu cử đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026 - 2031;
+Kế hoạch số 06/KH-MTTW-BTT, ngày 22/7/2025 của Ủy
 ban Trung ương Mặt
 trận Tổ quốc
-Việt Nam về thực hiện c�ng t�c bầu cử
-đại biểu Quốc hội kh�a XVI v� bầu cử
-đại biểu Hội đồng nh�n d�n c�c cấp
+Việt Nam về thực hiện công tác bầu cử
+đại biểu Quốc hội khóa XVI và bầu cử
+đại biểu Hội đồng nhân dân các cấp
 nhiệm kỳ 2026 - 2031; Kế hoạch
-số 33/KH-MTTQ-BTT, ng�y 17/11/2025 của Ban Thường
-trực Ủy ban MTTQ Việt Nam x� Quảng Ninh về Thực hiện c�ng t�c bầu cử
-đại biểu Quốc hội kh�a XVI v� bầu cử
-đại biểu Hội đồng nh�n d�n c�c cấp
-nhiệm kỳ 2026-2031; Kế hoạch số 21-KH/ĐU, ng�y 29/7/2025 của Ban
-Thường vụ Đảng ủy x� Lương Minh
+số 33/KH-MTTQ-BTT, ngày 17/11/2025 của Ban Thường
+trực Ủy ban MTTQ Việt Nam xã Quảng Ninh về Thực hiện công tác bầu cử
+đại biểu Quốc hội khóa XVI và bầu cử
+đại biểu Hội đồng nhân dân các cấp
+nhiệm kỳ 2026-2031; Kế hoạch số 21-KH/ĐU, ngày 29/7/2025 của Ban
+Thường vụ Đảng ủy xã Lương Minh
 về triển khai thực hiện Chỉ thị số
-46-CT/TW, ng�y 16/5/2025 của Bộ Ch�nh trị về l�nh
+46-CT/TW, ngày 16/5/2025 của Bộ Chính trị về lĩnh
 đạo cuộc bầu cử đại biểu
-Quốc hội kh�a XVI v� bầu cử đại biểu
-Hội đồng nh�n d�n c�c cấp nhiệm kỳ 2026 �
+Quốc hội khóa XVI và bầu cử đại biểu
+Hội đồng nhân dân các cấp nhiệm kỳ 2026 
 2031;
 
-Ban Thường trực Ủy ban Mặt trận Tổ quốc (MTTQ) Việt Nam x� ban h�nh kế
-hoạch thực hiện c�ng t�c bầu cử đại
-biểu Quốc hội kh�a XVI v� bầu cử đại
-biểu Hội đồng nh�n d�n c�c cấp x� Lương
+Ban Thường trực Ủy ban Mặt trận Tổ quốc (MTTQ) Việt Nam xã ban hành kế
+hoạch thực hiện công tác bầu cử đại
+biểu Quốc hội khóa XVI và bầu cử đại
+biểu Hội đồng nhân dân các cấp xã Lương
 Minh nhiệm kỳ 2026 - 2031, cụ thể như sau:
 
 I.
-MỤC Đ�CH, Y�U CẦU 
+MỤC ĐềCH, YU CẦU 
 
 - Triển khai
-đầy đủ, đồng bộ c�c nội dung c�ng
-t�c bầu cử đại biểu Quốc hội kh�a XVI
-v� đại biểu Hội đồng nh�n d�n c�c cấp nhiệm
-kỳ 2026 - 2031 thuộc quyền v� tr�ch nhiệm của
-MTTQ Việt Nam c�c cấp theo quy định của Luật
-Bầu cử đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n, Luật MTTQ
-Việt Nam, c�c văn bản hướng dẫn của
-Hội đồng bầu cử Quốc gia v� Ban
+đầy đủ, đồng bộ các nội dung công
+tục bầu cử đại biểu Quốc hội khóa XVI
+và đại biểu Hội đồng nhân dân các cấp nhiệm
+kỳ 2026 - 2031 thuộc quyền và trách nhiệm của
+MTTQ Việt Nam các cấp theo quy định của Luật
+Bầu cử đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân, Luật MTTQ
+Việt Nam, các văn bản hướng dẫn của
+Hội đồng bầu cử Quốc gia và Ban
 Thường trực Ủy ban Trung ương MTTQ Việt
 Nam.
 
 - Thực hiện
-nghi�m t�c, d�n chủ, c�ng khai, minh bạch, đ�ng quy
-định của ph�p luật; bảo đảm sự
-phối hợp chặt chẽ giữa MTTQ với c�c
-tổ chức th�nh vi�n, c�c cơ quan li�n quan trong qu� tr�nh
+nghim tục, dân chủ, công khai, minh bạch, đồng quy
+định của pháp luật; bảo đảm sự
+phối hợp chặt chẽ giữa MTTQ với các
+tổ chức thành vin, các cơ quan liên quan trong quả trình
 triển khai thực hiện nhiệm vụ.
 
-- Ph�n c�ng r� r�ng
-tr�ch nhiệm từng th�nh vi�n Ban Thường trực, c�c
-tổ chức th�nh vi�n v� Ban c�ng t�c Mặt trận ở khu
-d�n cư; bảo đảm tiến độ, chất lượng,
-hiệu quả, an to�n, tiết kiệm trong tổ chức
+- Phân công r rứng
+trách nhiệm từng thành vin Ban Thường trực, các
+tổ chức thành vin và Ban công tác Mặt trận ở khu
+dân cư; bảo đảm tiến độ, chất lượng,
+hiệu quả, an ton, tiết kiệm trong tổ chức
 thực hiện.
 
 - Tăng
-cường c�ng t�c tuy�n truyền, vận động nh�n
-d�n thực hiện quyền v� nghĩa vụ c�ng d�n trong
-bầu cử; ph�t huy vai tr� gi�m s�t của MTTQ v� c�c tổ
-chức th�nh vi�n trong to�n bộ qu� tr�nh bầu cử.
+cường công tác tuyn truyền, vận động nhân
+dân thực hiện quyền và nghĩa vụ công dân trong
+bầu cử; phát huy vai trì giaám sát của MTTQ và các tổ
+chức thành vin trong ton bộ quả trình bầu cử.
 
-- Tham gia th�nh
-lập c�c tổ chức phụ tr�ch bầu cử ở
+- Tham gia thành
+lập các tổ chức phụ trách bầu cử ở
 địa phương; Tham gia hiệp thương
 giới thiệu người ứng cử đại
-biểu Quốc hội v� đại biểu HĐND c�c
-cấp; Tổ chức hội nghị cử tri lấy �
-kiến nhận x�t v� t�n nhiệm đối với
+biểu Quốc hội và đại biểu HĐND các
+cấp; Tổ chức hội nghị cử tri lấy 
+kiến nhận xãt và tỷn nhiệm đối với
 người ứng cử; Phối hợp tổ chức
-tuy�n truyền, vận động nh�n d�n tham gia bầu
-cử; Thực hiện gi�m s�t c�ng t�c bầu cử theo quy
-định của ph�p luật. Tổng hợp, b�o c�o
-kết quả thực hiện c�ng t�c bầu cử theo ph�n
+tuyn truyền, vận động nhân dân tham gia bầu
+cử; Thực hiện giaám sát công tác bầu cử theo quy
+định của pháp luật. Tổng hợp, bảo cơo
+kết quả thực hiện công tác bầu cử theo phân
 cấp.
 
 II. NỘI DUNG, TIẾN ĐỘ,
-PH�N C�NG TR�CH NHIỆM THỰC HIỆN
+PHồN CơNG TRCH NHIỆM THỰC HIỆN
 
-C�c nội dung dưới đ�y
-được triển khai theo đ�ng quy định
+Các nội dung dưới đẩy
+được triển khai theo đồng quy định
 của Luật Bầu cử đại biểu Quốc
-hội v� đại biểu Hội đồng nh�n d�n,
-Luật Mặt trận Tổ quốc Việt Nam, c�c
+hội và đại biểu Hội đồng nhân dân,
+Luật Mặt trận Tổ quốc Việt Nam, các
 văn bản hướng dẫn của Hội
 đồng bầu cử Quốc gia, Ban Thường
-trực Ủy ban Trung ương MTTQ Việt Nam v� chỉ
-đạo của cấp ủy Đảng, ch�nh quyền
-địa phương. Việc ph�n c�ng tr�ch nhiệm
-được thực hiện cụ thể, r� r�ng,
+trực Ủy ban Trung ương MTTQ Việt Nam và chỉ
+đạo của cấp ủy Đảng, chính quyền
+địa phương. Việc phân công trách nhiệm
+được thực hiện cụ thể, r rứng,
 bảo đảm tiến độ, chất lượng,
-hiệu quả v� ph� hợp với t�nh h�nh thực tiễn
+hiệu quả và phụ hợp với tỉnh hành thực tiễn
 của địa phương.
 
-1. X�y dựng, ban h�nh c�c văn
-bản chỉ đạo, hướng dẫn v� t�i
-liệu phục vụ c�ng t�c bầu cử
+1. Xãy dựng, ban hành các văn
+bản chỉ đạo, hướng dẫn và tỷi
+liệu phục vụ công tác bầu cử
 
-1.1. X�y dựng v� ban h�nh Hướng dẫn của Ban
-Thường trực Ủy ban MTTQ Việt Nam x� về
-việc MTTQ Việt Nam tham gia c�ng t�c bầu cử
-đại biểu Quốc hội kh�a XVI v� đại
-bi�̉u Hội đồng nh�n d�n c�c cấp nhiệm
+1.1. Xãy dựng và ban hành Hướng dẫn của Ban
+Thường trực Ủy ban MTTQ Việt Nam xã về
+việc MTTQ Việt Nam tham gia công tác bầu cử
+đại biểu Quốc hội khóa XVI và đại
+bỉu Hội đồng nhân dân các cấp nhiệm
 kỳ 2026-2031.
 
 - Bảo đảm thống nhất
 với hướng dẫn của Ban Thường trực
-Ủy ban MTTQ Việt Nam cấp tr�n; ph� hợp với
+Ủy ban MTTQ Việt Nam cấp trận; phụ hợp với
 điều kiện thực tế của địa
-phương; bảo đảm t�nh khả thi, hiệu
-quả, đ�ng tiến độ v� đ�ng quy định
-ph�p luật.
+phương; bảo đảm tỉnh khả thi, hiệu
+quả, đồng tiến độ và đồng quy định
+pháp luật.
 
-- C�c văn bản hướng
-dẫn, kế hoạch, lịch tr�nh phải thể
-hiện r� vai tr�, tr�ch nhiệm của MTTQ Việt Nam x� trong
-từng nội dung c�ng việc; c� sự ph�n c�ng cụ
-thể cho từng th�nh vi�n Ban Thường trực, c�c
-tổ chức th�nh vi�n v� Ban c�ng t�c Mặt trận ở khu
-d�n cư.
+- Các văn bản hướng
+dẫn, kế hoạch, lịch trình phải thể
+hiện r vai trì, trách nhiệm của MTTQ Việt Nam xã trong
+từng nội dung công việc; cơ sự phân công cụ
+thể cho từng thành vin Ban Thường trực, các
+tổ chức thành vin và Ban công tác Mặt trận ở khu
+dân cư.
 
 - Thời
-gian ho�n th�nh: Dự kiến th�ng 11/2025 (sau khi Ban
+gian hòan thành: Dự kiến tháng 11/2025 (sau khi Ban
 Thường trực Ủy ban MTTQ Việt Nam tỉnh ban
-h�nh Hướng dẫn).
+hành Hướng dẫn).
 
 - Đơn
-vị chủ tr�: Đồng ch� Ph� chủ tịch
-Thường trực, phụ tr�ch lĩnh vực Gi�m s�t v�
-Phản biện x� hội
+vị chủ trì: Đồng chỉ Phụ chủ tịch
+Thường trực, phụ trách lĩnh vực Giám sát và
+Phản biện xã hội
 
 - Đơn
-vị phối hợp: C�c đ/c Ph�
-chỉ tịch, Trưởng đo�n thể x�, c�c đồng
-ch� Chuy�n vi�n cơ quan MTTQ x�.
+vị phối hợp: Các đ/c Phụ
+chỉ tịch, Trưởng đoàn thể xã, các đồng
+chỉ Chuyện vin cơ quan MTTQ xã.
 
 - Kết
-quả: Dự thảo Hướng dẫn tr�nh Ban
-Thường trực ban h�nh.
+quả: Dự thảo Hướng dẫn trình Ban
+Thường trực ban hành.
 
-1.2. X�y dựng v� ban h�nh Hướng dẫn của Ban
-Thường trực Ủy ban MTTQ Việt Nam x� về
-việc MTTQ x� gi�m s�t c�ng t�c bầu cử đại
-biểu Quốc hội kh�a XVI v� đại bi�̉u Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026-2031.
+1.2. Xãy dựng và ban hành Hướng dẫn của Ban
+Thường trực Ủy ban MTTQ Việt Nam xã về
+việc MTTQ xã giaám sát công tác bầu cử đại
+biểu Quốc hội khóa XVI và đại bỉu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026-2031.
 
 - Thời
-gian ho�n th�nh: ng�y Th�ng 11/2025 (sau khi Ban Thường trực
-Ủy ban MTTQ Việt Nam tỉnh ban h�nh Hướng
+gian hòan thành: ngày Tháng 11/2025 (sau khi Ban Thường trực
+Ủy ban MTTQ Việt Nam tỉnh ban hành Hướng
 dẫn);
 
 - Đơn
-vị chủ tr�: Đồng ch� Ph� chủ tịch
-Thường trực, phụ tr�ch lĩnh vực Gi�m s�t v�
-Phản biện x� hội
+vị chủ trì: Đồng chỉ Phụ chủ tịch
+Thường trực, phụ trách lĩnh vực Giám sát và
+Phản biện xã hội
 
 - Đơn
-vị phối hợp: C�c đ/c Ph�
-chỉ tịch, Trưởng đo�n thể x�, c�c
-đồng ch� Chuy�n vi�n cơ quan MTTQ x�.
+vị phối hợp: Các đ/c Phụ
+chỉ tịch, Trưởng đoàn thể xã, các
+đồng chỉ Chuyện vin cơ quan MTTQ xã.
 
 - Kết quả: Dự thảo
-Hướng dẫn tr�nh Ban Thường trực ban h�nh.
+Hướng dẫn trình Ban Thường trực ban hành.
 
-1.3 X�y dựng, ban h�nh kế hoạch, lịch tr�nh
-thực hiện c�c nội dung c�ng t�c bầu cử
-đại biểu Quốc hội kh�a XVI v� đại
-bi�̉u Hội đồng nh�n d�n c�c cấp nhiệm
-kỳ 2026-2031 thuộc tr�ch nhiệm của Ủy ban MTTQ
-Việt Nam x�.
+1.3 Xãy dựng, ban hành kế hoạch, lịch trình
+thực hiện các nội dung công tác bầu cử
+đại biểu Quốc hội khóa XVI và đại
+bỉu Hội đồng nhân dân các cấp nhiệm
+kỳ 2026-2031 thuộc trách nhiệm của Ủy ban MTTQ
+Việt Nam xã.
 
 - Bảo đảm thống nhất
 với hướng dẫn của Ban Thường trực
-Ủy ban MTTQ Việt Nam cấp tr�n; ph� hợp với
+Ủy ban MTTQ Việt Nam cấp trận; phụ hợp với
 điều kiện thực tế của địa
-phương; bảo đảm t�nh khả thi, hiệu
-quả, đ�ng tiến độ v� đ�ng quy định
-ph�p luật.
+phương; bảo đảm tỉnh khả thi, hiệu
+quả, đồng tiến độ và đồng quy định
+pháp luật.
 
-- C�c văn bản hướng
-dẫn, kế hoạch, lịch tr�nh phải thể
-hiện r� vai tr�, tr�ch nhiệm của MTTQ Việt Nam x� trong
-từng nội dung c�ng việc; c� sự ph�n c�ng cụ
-thể cho từng th�nh vi�n Ban Thường trực, c�c
-tổ chức th�nh vi�n v� Ban c�ng t�c Mặt trận ở khu
-d�n cư.
+- Các văn bản hướng
+dẫn, kế hoạch, lịch trình phải thể
+hiện r vai trì, trách nhiệm của MTTQ Việt Nam xã trong
+từng nội dung công việc; cơ sự phân công cụ
+thể cho từng thành vin Ban Thường trực, các
+tổ chức thành vin và Ban công tác Mặt trận ở khu
+dân cư.
 
 - Thời
-gian ho�n th�nh: Th�ng 11/2025 (sau khi Ban Thường trực
-Ủy ban MTTQ Việt Nam tỉnh ban h�nh Hướng
+gian hòan thành: Tháng 11/2025 (sau khi Ban Thường trực
+Ủy ban MTTQ Việt Nam tỉnh ban hành Hướng
 dẫn).
 
 - Đơn
-vị chủ tr�: Đồng ch� Ph� chủ tịch
-Thường trực, phụ tr�ch lĩnh vực Gi�m s�t v�
-Phản biện x� hội
+vị chủ trì: Đồng chỉ Phụ chủ tịch
+Thường trực, phụ trách lĩnh vực Giám sát và
+Phản biện xã hội
 
 - Đơn
-vị phối hợp: C�c đ/c Ph�
-chỉ tịch, Trưởng đo�n thể x�, c�c
-đồng ch� Chuy�n vi�n cơ quan MTTQ x�.
+vị phối hợp: Các đ/c Phụ
+chỉ tịch, Trưởng đoàn thể xã, các
+đồng chỉ Chuyện vin cơ quan MTTQ xã.
 
 - Kết
-quả: C�c dự thảo Kế hoạch, lịch tr�nh
-thực hiện nội dung c�ng t�c bầu cử cụ
+quả: Các dự thảo Kế hoạch, lịch trình
+thực hiện nội dung công tác bầu cử cụ
 thể thuộc thẩm quyền của Ủy ban MTTQ
-Việt Nam x� tr�nh Ban Thường trực ban h�nh.
+Việt Nam xã trình Ban Thường trực ban hành.
 
-2. Tổ chức c�c hội
+2. Tổ chức các hội
 nghị hiệp thương
 
-2.1. Chuẩn bị c�c văn bản về nh�n sự v�
-tổ chức 3 Hội nghị hiệp thương c�ng t�c
-bầu cử đại biểu Quốc hội kh�a XVI v�
-đại bi�̉u Hội đồng nh�n d�n c�c cấp
+2.1. Chuẩn bị các văn bản về nhân sự và
+tổ chức 3 Hội nghị hiệp thương công tác
+bầu cử đại biểu Quốc hội khóa XVI và
+đại bỉu Hội đồng nhân dân các cấp
 nhiệm kỳ 2026-2031 theo Hướng dẫn của Ban
 Thường trực Ủy ban MTTQ Việt Nam tỉnh.
 
-- Nguy�n
+- Nguyn
 tắc tổ chức hiệp thương: Bảo
-đảm d�n chủ, c�ng khai, minh bạch, đ�ng quy tr�nh,
-thời gian v� th�nh phần theo quy định của ph�p
+đảm dân chủ, công khai, minh bạch, đồng quy trình,
+thời gian và thành phần theo quy định của pháp
 luật; bảo đảm tỷ lệ, cơ cấu,
-th�nh phần người ứng cử theo hướng
-dẫn của cấp c� thẩm quyền.
+thành phần người ứng cử theo hướng
+dẫn của cấp cơ thẩm quyền.
 
-- T�i liệu
-phục vụ hội nghị: Gồm danh s�ch tr�ch ngang
-người ứng cử, bi�n bản hội nghị,
-phiếu biểu quyết, t�i liệu hướng dẫn
-quy tr�nh hiệp thương, c�c văn bản ph�p luật
-li�n quan.
+- Tỷi liệu
+phục vụ hội nghị: Gồm danh sách trách ngang
+người ứng cử, biên bản hội nghị,
+phiếu biểu quyết, tỷi liệu hướng dẫn
+quy trình hiệp thương, các văn bản pháp luật
+liên quan.
 
 (1)
 Tổ chức hiệp thương lần thứ
-nhất: Chậm nhất ng�y 10/12/2025 (trước
-ng�y bầu cử 95 ng�y theo Điều 39, Điều
+nhất: Chậm nhất ngày 10/12/2025 (trước
+ngày bầu cử 95 ngày theo Điều 39, Điều
 50 Luật số 85/2015/QH13 về Bầu cử đại
 ... [Nội dung đã được rút gọn]
 
@@ -1278,7 +1277,7 @@ ng�y bầu cử 95 ng�y theo Điều 39, Điều
 ════════════════════════════════════════════════════════════════════════════════
 Admin
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  254
  2025-11-17T10:53:00Z
@@ -1305,237 +1304,237 @@ Admin
  ỦY BAN MTTQ
  VIỆT NAM
 
- X� LƯƠNG
+ Xã LƯƠNG
  MINH
 
  BAN THƯỜNG TRỰC
 
- Số: ���/KH-MTTQ-BTT
+ Số: /KH-MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ CỘNG HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- � �Độc lập - Tự do -
- Hạnh ph�c
+  Độc lập - Tự do -
+ Hạnh phúc
 
  Lương
- Minh, ng�y 25 th�ng 11 năm 2025
+ Minh, ngày 25 tháng 11 năm 2025
 
 KẾ HOẠCH
 
 Tổ chức
-c�c hội nghị hiệp thương v� hướng
-dẫn c�c th�n giới thiệu người ứng cử
-đại biểu HĐND x� Lương Minh nhiệm
+các hội nghị hiệp thương và hướng
+dẫn các thôn giới thiệu người ứng cử
+đại biểu HĐND xã Lương Minh nhiệm
 kỳ 2026 - 2031
 
 Căn
 cứ Luật Bầu cử đại biểu Quốc
-hội v� đại biểu Hội đồng nh�n d�n số 85/2015/QH13, ng�y 25/6/2015 v�
+hội và đại biểu Hội đồng nhân dân số 85/2015/QH13, ngày 25/6/2015 và
 được sửa đổi, bổ sung một
 số điều tại Luật
-số 83/2025/QH15, ng�y 24/6/2025;
+số 83/2025/QH15, ngày 24/6/2025;
 Luật Mặt trận Tổ quốc Việt Nam số
-75/2015/QH13, ng�y 09/6/2015 v� Luật số 97/2025/QH15, ng�y
+75/2015/QH13, ngày 09/6/2015 và Luật số 97/2025/QH15, ngày
 27/6/2025 về sửa đổi, bổ sung một số
 điều của Luật Mặt trận Tổ quốc
-Việt Nam, Luật C�ng đo�n, Luật Thanh ni�n, Luật
-Thực hiện d�n chủ ở cơ sở;
+Việt Nam, Luật Công đoàn, Luật Thanh niên, Luật
+Thực hiện dân chủ ở cơ sở;
 
 Căn
-cứ Nghị quyết số 101/2025/UBTVQH15 ng�y
+cứ Nghị quyết số 101/2025/UBTVQH15 ngày
 26/9/2025 của Ủy ban Thường vụ Quốc
 hội về quy định chi tiết, hướng
 dẫn việc tổ chức hội nghị cử tri;
 việc giới thiệu người ứng cử
-đại biểu HĐND cấp x� ở th�n, tổ d�n
+đại biểu HĐND cấp xã ở thôn, tổ dân
 phố; việc hiệp thương, giới thiệu
-người ứng cử, lập danh s�ch người
+người ứng cử, lập danh sách người
 ứng cử đại biểu quốc hội,
 đại biểu HĐND trong bầu cử bổ sung;
 
 Căn
-cứ Hướng dẫn số 13/HD-MTTQ-BTT ng�y 17/11/2025
+cứ Hướng dẫn số 13/HD-MTTQ-BTT ngày 17/11/2025
 của Ban Thường trực Ủy ban MTTQ Việt Nam
 tỉnh Quảng Ninh;
 
 Thực
-hiện Kế hoạch số 16/KH-MTTQ-BTT ng�y 18/11/2025
-của Ban Thường trực Ủy ban MTTQ Việt Nam x�
-Lương Minh về thực hiện c�ng t�c bầu cử
-đại biểu Quốc hội kh�a XVI v� bầu cử
-đại biểu Hội đồng nh�n d�n c�c cấp
+hiện Kế hoạch số 16/KH-MTTQ-BTT ngày 18/11/2025
+của Ban Thường trực Ủy ban MTTQ Việt Nam xã
+Lương Minh về thực hiện công tác bầu cử
+đại biểu Quốc hội khóa XVI và bầu cử
+đại biểu Hội đồng nhân dân các cấp
 nhiệm kỳ 2026-2031.
 
 Ban
 Thường trực Ủy ban Mặt trận Tổ
-quốc (MTTQ) Việt Nam x� ban
-h�nh kế hoạch tổ chức c�c hội nghị
-hiệp thương v� hướng dẫn c�c th�n giới
+quốc (MTTQ) Việt Nam xã ban
+hành kế hoạch tổ chức các hội nghị
+hiệp thương và hướng dẫn các thôn giới
 thiệu người ứng cử đại biểu
-HĐND x� Lương Minh nhiệm kỳ 2026 - 2031, cụ
+HĐND xã Lương Minh nhiệm kỳ 2026 - 2031, cụ
 thể như sau:
 
 I.
-MỤC Đ�CH, Y�U CẦU 
+MỤC ĐềCH, YU CẦU 
 
 - Bảo
-đảm quy tr�nh hiệp thương được
-thực hiện d�n chủ, c�ng khai, đ�ng luật, đ�ng
+đảm quy trình hiệp thương được
+thực hiện dân chủ, công khai, đồng luật, đồng
 tiến độ thời gian quy định. Tổng
-hợp, b�o c�o kết quả thực hiện theo ph�n
+hợp, bảo cơo kết quả thực hiện theo phân
 cấp.
 
 - Lựa chọn, giới
 thiệu được những người đủ
-ti�u chuẩn, cơ cấu, th�nh phần, số
-lượng được ph�n bổ v� chất lượng
+tiêu chuẩn, cơ cấu, thành phần, số
+lượng được phân bổ và chất lượng
 người được giới thiệu.
 
 - Bảo đảm sự
-phối hợp chặt chẽ v� ph�n c�ng r� r�ng tr�ch
-nhiệm giữa MTTQ với ch�nh quyền v� c�c tổ
-chức th�nh vi�n, Ban C�ng t�c mặt trận th�n.
+phối hợp chặt chẽ và phân công r rứng trách
+nhiệm giữa MTTQ với chính quyền và các tổ
+chức thành vin, Ban Công tác mặt trận thôn.
 
-- Nội dung v� tr�nh tự
+- Nội dung và trình tự
 thực hiện Hội nghị hiệp thương
-đảm bảo tu�n thủ Điều 4 Nghị quyết số
-101/2025/UBTVQH15 ng�y 26/9/2025 của Ủy ban Thường
+đảm bảo tun thủ Điều 4 Nghị quyết số
+101/2025/UBTVQH15 ngày 26/9/2025 của Ủy ban Thường
 vụ Quốc hội.
 
 II. NỘI DUNG, TIẾN ĐỘ,
-PH�N C�NG TR�CH NHIỆM THỰC HIỆN
+PHồN CơNG TRCH NHIỆM THỰC HIỆN
 
 1. Hội nghị hiệp
 thương lần thứ nhất.
 
 1.1. Nội
-dung: Hiệp thương về cơ cấu, th�nh
+dung: Hiệp thương về cơ cấu, thành
 phần, số lượng người được
 giới thiệu ứng cử đại biểu HĐND
-x� nhiệm kỳ 2026 - 2031.
+xã nhiệm kỳ 2026 - 2031.
 
 -
-Thời gian: Dự kiến ng�y 05/12/2025 (Chậm nhất
-ng�y 10/12/2025 - 95 ng�y trước bầu cử).
+Thời gian: Dự kiến ngày 05/12/2025 (Chậm nhất
+ngày 10/12/2025 - 95 ngày trước bầu cử).
 
 -
-Th�nh phần: Ban Thường trực Ủy ban MTTQ x�;
-Thường trực HĐND, UBND x�; Ủy ban Bầu
-cử x�; Đại diện l�nh đạo c�c tổ chức
-th�nh vi�n của MTTQ x�; Ban C�ng t�c mặt trận th�n (Chủ
-tr�) v� cử tri c�c th�n.
+Thành phần: Ban Thường trực Ủy ban MTTQ xã;
+Thường trực HĐND, UBND xã; Ủy ban Bầu
+cử xã; Đại diện lĩnh đạo các tổ chức
+thành vin của MTTQ xã; Ban Công tác mặt trận thôn (Chủ
+trì) và cử tri các thôn.
 
 -
-Đơn vị chủ tr�: Ban C�ng t�c mặt trận th�n.
+Đơn vị chủ trì: Ban Công tác mặt trận thôn.
 
 -
-Kết quả: Bi�n bản Hội nghị hiệp
-thương lần thứ nhất (Mẫu số 01 v� 02/HNMT).
+Kết quả: Biên bản Hội nghị hiệp
+thương lần thứ nhất (Mẫu số 01 và 02/HNMT).
 
-1.2. B�o
-c�o kết quả Hội nghị
-
--
-Gửi bi�n bản Hội nghị đến Ban Thường
-trực Ủy ban MTTQ x� ngay sau khi kết th�c hội nghị.
+1.2. Bảo
+cơo kết quả Hội nghị
 
 -
-Th�ng b�o số lượng, cơ cấu, th�nh phần ph�n
-bổ cho c�c cơ quan, tổ chức, đơn vị,
-th�n để thực hiện giới thiệu
+Gửi biên bản Hội nghị đến Ban Thường
+trực Ủy ban MTTQ xã ngay sau khi kết thực hội nghị.
+
+-
+Thông báo số lượng, cơ cấu, thành phần phân
+bổ cho các cơ quan, tổ chức, đơn vị,
+thôn để thực hiện giới thiệu
 người ứng cử.
 
 2. Hội nghị hiệp
 thương lần thứ hai 
 
-2.1. Nội dung: Hiệp thương lập danh s�ch
+2.1. Nội dung: Hiệp thương lập danh sách
 sơ bộ những người ứng cử đại
-biểu HĐND x�; thực hiện c�ng t�c tổ chức
-lấy � kiến nhận x�t v� t�n nhiệm của cử tri
-nơi cư tr�.
+biểu HĐND xã; thực hiện công tác tổ chức
+lấy  kiến nhận xãt và tỷn nhiệm của cử tri
+nơi cư trì.
 
 -
-Thời gian: Dự kiến ng�y 30/01/2026 (Chậm nhất
-ng�y 03/02/2026 - 40 ng�y trước bầu cử).
+Thời gian: Dự kiến ngày 30/01/2026 (Chậm nhất
+ngày 03/02/2026 - 40 ngày trước bầu cử).
 
 -
-Th�nh phần: Ban Thường trực Ủy ban MTTQ x�;
-đại diện c�c tổ chức th�nh vi�n;
-Ban C�ng t�c mặt trận th�n; mời đại
-diện Ủy ban Bầu cử x�, Thường trực
-HĐND, UBND x� v� cử tri c�c th�n.
+Thành phần: Ban Thường trực Ủy ban MTTQ xã;
+đại diện các tổ chức thành vin;
+Ban Công tác mặt trận thôn; mời đại
+diện Ủy ban Bầu cử xã, Thường trực
+HĐND, UBND xã và cử tri các thôn.
 
 -
-Đơn vị chủ tr�: Ban Thường trực Ủy
-ban MTTQ Việt Nam x�.
+Đơn vị chủ trì: Ban Thường trực Ủy
+ban MTTQ Việt Nam xã.
 
 -
-Kết quả: Bi�n bản Hội nghị hiệp
-thương lần thứ hai (Mẫu số 03/HNMT) v� Danh
-s�ch sơ bộ những người ứng cử .
+Kết quả: Biên bản Hội nghị hiệp
+thương lần thứ hai (Mẫu số 03/HNMT) và Danh
+sách sơ bộ những người ứng cử .
 
 2.2.
-B�o c�o kết quả hội nghị v� Tổ chức
-lấy � kiến cử tri nơi cư tr�
+Bảo cơo kết quả hội nghị và Tổ chức
+lấy  kiến cử tri nơi cư trì
 
 -
-Gửi Bi�n bản v� b�o c�o t�nh h�nh hiệp thương về
-Ban Thường trực Ủy ban MTTQ x� ngay sau khi kết
-th�c hội nghị. B�o c�o Ban Thường trực Ủy
-ban MTTQ Việt Nam tỉnh chậm nhất ng�y 03/02/2026.
+Gửi Biên bản và bảo cơo tỉnh hành hiệp thương về
+Ban Thường trực Ủy ban MTTQ xã ngay sau khi kết
+thực hội nghị. Bảo cơo Ban Thường trực Ủy
+ban MTTQ Việt Nam tỉnh chậm nhất ngày 03/02/2026.
 
 -
-Phối hợp với UBND x� triệu tập v� chủ tr�
-hội nghị cử tri nơi cư tr� để lấy
-� kiến nhận x�t, t�n nhiệm đối với
+Phối hợp với UBND xã triệu tập và chủ trì
+hội nghị cử tri nơi cư trì để lấy
+ kiến nhận xãt, tỷn nhiệm đối với
 người ứng cử.
 
 3. Hội nghị hiệp
 thương lần thứ ba 
 
 Nội dung: Lựa chọn,
-lập danh s�ch ch�nh thức những người đủ
-ti�u chuẩn ứng cử đại biểu HĐND x�. Tổng
-hợp kết quả � kiến nhận x�t v� t�n nhiệm
-của cử tri nơi cư tr� (v� nơi c�ng t�c). Kh�ng
-đưa v�o danh s�ch những người kh�ng đạt
-t�n nhiệm tr�n 50% tổng số cử tri tham dự
-tại hội nghị cử tri nơi cư tr� (trừ
+lập danh sách chính thức những người đủ
+tiêu chuẩn ứng cử đại biểu HĐND xã. Tổng
+hợp kết quả  kiến nhận xãt và tỷn nhiệm
+của cử tri nơi cư trì (và nơi công tác). Không
+đưa vào danh sách những người không đạt
+tỷn nhiệm trận 50% tổng số cử tri tham dự
+tại hội nghị cử tri nơi cư trì (trừ
 trường hợp đặc biệt).
 
 -
-Thời gian: Dự kiến ng�y 12/02/2026 (Chậm nhất
-ng�y 20/02/2026 - 23 ng�y trước bầu cử).
+Thời gian: Dự kiến ngày 12/02/2026 (Chậm nhất
+ngày 20/02/2026 - 23 ngày trước bầu cử).
 
 -
-Th�nh phần: Ban Thường trực Ủy ban MTTQ x�;
-đại diện c�c tổ chức th�nh vi�n; Ban C�ng t�c
-mặt trận th�n; mời đại diện Ủy ban
-Bầu cử x�, Thường trực HĐND, UBND x�,
-cử tri c�c th�n.
+Thành phần: Ban Thường trực Ủy ban MTTQ xã;
+đại diện các tổ chức thành vin; Ban Công tác
+mặt trận thôn; mời đại diện Ủy ban
+Bầu cử xã, Thường trực HĐND, UBND xã,
+cử tri các thôn.
 
 -
-Đơn vị chủ tr�: Ban C�ng t�c mặt trận th�n.
+Đơn vị chủ trì: Ban Công tác mặt trận thôn.
 
 -
-Kết quả: Bi�n bản Hội nghị hiệp
-thương lần thứ ba (Mẫu số 04/HNMT) �v� Danh s�ch ch�nh thức những
-người ứng cử đại biểu HĐND x�.
+Kết quả: Biên bản Hội nghị hiệp
+thương lần thứ ba (Mẫu số 04/HNMT) và Danh sách chính thức những
+người ứng cử đại biểu HĐND xã.
 
-3.3. B�o
-c�o kết quả Hội nghị
+3.3. Bảo
+cơo kết quả Hội nghị
 
 -
-Gửi Bi�n bản Hội nghị hiệp thương
+Gửi Biên bản Hội nghị hiệp thương
 lần thứ ba về Ban Thường trực Ủy ban
 MTTQ Việt Nam tỉnh ngay sau khi tổ chức hội
-nghị 01 ng�y.
+nghị 01 ngày.
 
 -
-Chuyển danh s�ch ch�nh thức đến Ủy ban Bầu
-cử x�.
+Chuyển danh sách chính thức đến Ủy ban Bầu
+cử xã.
 
-4. Quy định về th�nh
+4. Quy định về thành
 phần, số lượng cử tri tham dự hội
 nghị 
 
@@ -1545,108 +1544,108 @@ quyết số 101/2025/UBTVQH15, hội nghị cử tri
 phải đảm bảo số lượng như sau:
 
 -
-Đối với th�n c� dưới 100 cử tri: Phải
-tổ chức hội nghị to�n thể cử tri v�
+Đối với thôn cơ dưới 100 cử tri: Phải
+tổ chức hội nghị ton thể cử tri và
 bảo đảm số lượng cử tri tham dự
-hội nghị đạt �t nhất l� 50% tổng số
+hội nghị đạt t nhất lã 50% tổng số
 cử tri được triệu tập.
 
 -
-Đối với th�n c� từ 100 cử tri trở l�n: C�
-thể tổ chức hội nghị to�n thể hoặc
+Đối với thôn cơ từ 100 cử tri trở lần: Cơ
+thể tổ chức hội nghị ton thể hoặc
 hội nghị cử tri đại diện hộ gia
-đ�nh v� phải bảo đảm c� �t nhất l� 55
+định và phải bảo đảm cơ t nhất lã 55
 cử tri tham dự hội nghị.
 
-5. Quy định về h�nh
-thức biểu quyết v� kết quả t�n nhiệm 
+5. Quy định về hành
+thức biểu quyết và kết quả tỷn nhiệm 
 
 Căn
 cứ điểm e khoản 2 Điều 6 Nghị
 quyết số 101/2025/UBTVQH15:
 
 -
-H�nh thức biểu quyết: Hội nghị quyết
-định biểu quyết danh s�ch ch�nh thức những
+Hành thức biểu quyết: Hội nghị quyết
+định biểu quyết danh sách chính thức những
 người được giới thiệu ứng cử
-bằng h�nh thức giơ tay.
+bằng hành thức giaơ tay.
 
 -
 Tổ kiểm phiếu sẽ thực hiện kiểm
-đếm v� c�ng bố kết quả biểu quyết
+đếm và công bố kết quả biểu quyết
 đối với từng người được
 giới thiệu ứng cử.
 
 -
-Kết quả t�n nhiệm: Người được
-giới thiệu ứng cử l� người
-được tr�n 50% tổng số cử tri c� mặt
-tại hội nghị t�n nhiệm.
+Kết quả tỷn nhiệm: Người được
+giới thiệu ứng cử lã người
+được trận 50% tổng số cử tri cơ mặt
+tại hội nghị tỷn nhiệm.
 
 III. TỔ CHỨC THỰC
 HIỆN
 
 1. Ban Thường trực
-Ủy ban MTTQ Việt Nam x�
+Ủy ban MTTQ Việt Nam xã
 
 -
-Đồng ch� Chủ tịch Ủy ban MTTQ x� chịu tr�ch
-nhiệm chỉ đạo chung, chủ tr� c�c hội
+Đồng chỉ Chủ tịch Ủy ban MTTQ xã chịu trách
+nhiệm chỉ đạo chung, chủ trì các hội
 nghị hiệp thương.
 
 -
-Đồng ch� Ph� Chủ tịch Thường trực
-Ủy ban MTTQ x� trực tiếp tham mưu x�y dựng
-nội dung, chương tr�nh, kịch bản; tổng
-hợp b�o c�o gửi Ban Thường trực Ủy ban MTTQ
+Đồng chỉ Phụ Chủ tịch Thường trực
+Ủy ban MTTQ xã trực tiếp tham mưu xãy dựng
+nội dung, chương trình, kịch bản; tổng
+hợp bảo cơo gửi Ban Thường trực Ủy ban MTTQ
 Việt Nam tỉnh theo quy định.
 
-2. C�c tổ chức th�nh vi�n
-của MTTQ x�
+2. Các tổ chức thành vin
+của MTTQ xã
 
 -
 Phối hợp chặt chẽ với Ban Thường
-trực Ủy ban MTTQ Việt Nam x� tham gia c�ng t�c bầu
+trực Ủy ban MTTQ Việt Nam xã tham gia công tác bầu
 cử.
 
 -
-Cử đại diện l�nh đạo tham dự
-đầy đủ c�c hội nghị hiệp
+Cử đại diện lĩnh đạo tham dự
+đầy đủ các hội nghị hiệp
 thương.
 
-3. C�n bộ phụ tr�ch lĩnh
-vực gi�m s�t v� phản biện x� hội
+3. Cơn bộ phụ trách lĩnh
+vực giaám sát và phản biện xã hội
 
 -
-Chuẩn bị c�c điều kiện về cơ sở
-vật chất, t�i liệu.
+Chuẩn bị các điều kiện về cơ sở
+vật chất, tỷi liệu.
 
 -
-Thực hiện chế độ th�ng tin b�o c�o về Ban
+Thực hiện chế độ tháng tin bảo cơo về Ban
 Thường trực Ủy ban MTTQ Việt Nam tỉnh.
 
-4. Chuy�n vi�n phụ tr�ch lĩnh vực H�nh ch�nh, Văn ph�ng
+4. Chuyện vin phụ trách lĩnh vực Hành chính, Văn phòng
 
-- Bảo đảm th�ng tin li�n lạc
-th�ng suốt, kịp thời giữa Ủy ban MTTQ Việt
-Nam x� với c�c cơ quan, tổ chức ở tỉnh
-và địa phương trong c�ng t�c bầu cử.
+- Bảo đảm tháng tin liên lạc
+tháng suốt, kịp thời giữa Ủy ban MTTQ Việt
+Nam xã với các cơ quan, tổ chức ở tỉnh
+và địa phương trong công tác bầu cử.
 
-- Tham mưu x�y dựng Kế hoạch,
-triển khai tổ chức c�c hội nghị hiệp
-thương; tham mưu tổ chức c�c hội nghị
-về c�ng t�c bầu cử.
+- Tham mưu xãy dựng Kế hoạch,
+triển khai tổ chức các hội nghị hiệp
+thương; tham mưu tổ chức các hội nghị
+về công tác bầu cử.
 
-- Thực hiện c�c nhiệm vụ
-kh�c theo y�u cầu của Ban Thường trực Ủy ban
-MTTQ Việt Nam x�.�� 
+- Thực hiện các nhiệm vụ
+khồc theo yêu cầu của Ban Thường trực Ủy ban
+MTTQ Việt Nam xã. 
 
-5. Ban c�ng t�c
-Mặt trận c�c th�n tr�n địa b�n x�
+5. Ban công tác
+Mặt trận các thôn địa bàn xã
 
 - Phối hợp
-với Trưởng th�n r� so�t danh s�ch cử tri; chuẩn
-bị cơ sở vật chất v� mời cử tri t
+với Trưởng thôn r sot danh sách cử tri; chuẩn
+bị cơ sở vật chất và mời cử tri t
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1790,7 +1789,7 @@ số 05/HĐBC-HĐND);
 b) Sơ yếu lý lịch đối
 với người ứng cử đại biểu Quốc hội (theo mẫu số 02/HĐBC-QH);
 đối với người ứng cử đại biểu Hội đồng nhân dân (theo mẫu
-số 06/HĐBC-HĐND), có đóng dấu giáp lai và xác nhận của cơ quan, tổ chức,
+số 06/HĐBC-HĐND), có đóng dấu giaáp lai và xác nhận của cơ quan, tổ chức,
 đơn vị nơi người ứng cử công tác hoặc Ủy ban nhân dân cấp xã nơi người ứng cử
 thường trú;
 
@@ -1817,7 +1816,7 @@ Người ứng cử ký vào từng trang văn bản của hồ sơ ứng cử.
 3. Ảnh của người ứng
 cử là ảnh được chụp trong thời gian 06 tháng tính đến ngày nộp hồ sơ. Trong Sơ
 yếu lý lịch, Tiểu sử tóm tắt, ảnh của người ứng cử phải được dán đúng vị trí
-quy định và được đóng dấu giáp lai của cơ quan, tổ chức, đơn vị nơi người ứng
+quy định và được đóng dấu giaáp lai của cơ quan, tổ chức, đơn vị nơi người ứng
 cử công tác hoặc Ủy ban nhân dân cấp xã nơi người ứng cử cư trú.
 
 Điều 3. Nộp hồ sơ ứng cử
@@ -1849,8 +1848,8 @@ thông tin điện tử của Hội đồng bầu cử quốc gia.
 
 2. Thời gian nhận hồ
 sơ ứng cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp
-nhiệm kỳ 2026-2031 được thực hiện trong giờ hành chính các ngày trong tuần, bắt
-đầu từ ngày 15 tháng 12 năm 2025 và kết thúc vào 17 giờ 00 ngày 01 tháng 02 năm
+nhiệm kỳ 2026-2031 được thực hiện trong giaờ hành chính các ngày trong tuần, bắt
+đầu từ ngày 15 tháng 12 năm 2025 và kết thúc vào 17 giaờ 00 ngày 01 tháng 02 năm
 2026.
 
 Riêng thứ Bảy, ngày
@@ -1875,7 +1874,7 @@ sau đây:
 hàng lần lượt để thực hiện việc bỏ phiếu, ưu tiên người cao tuổi, người khuyết
 tật và phụ nữ có thai;
 
-3. Phải giữ gìn an
+3. Phải giaữ gìn an
 ninh, trật tự, an toàn tại khu vực bỏ phiếu; nghiêm cấm mọi hành vi phá hoại cơ
 sở vật chất, tài sản, gây rối tại khu vực bỏ phiếu, phòng bỏ phiếu;
 
@@ -1894,12 +1893,12 @@ có nhiệm vụ thì không được vào phòng bỏ phiếu;
 7. Thành viên của các
 tổ chức phụ trách bầu cử, những người có nhiệm vụ phục vụ bầu cử phải đeo phù
 hiệu theo mẫu do Ủy ban bầu cử ở tỉnh, thành phố quy định; thành viên Tổ bầu cử
-có trách nhiệm hướng dẫn cử tri bỏ phiếu và giải đáp thắc mắc của cử tri;
+có trách nhiệm hướng dẫn cử tri bỏ phiếu và giaải đáp thắc mắc của cử tri;
 
 8. Người nào dùng thủ
 đoạn lừa gạt, mua chuộc hoặc cưỡng ép, cản trở việc bầu cử của công dân, vi
 phạm các quy định về vận động bầu cử; người có trách nhiệm trong công tác bầu
-cử mà giả mạo giấy tờ, gian lận phiếu bầu hoặc dùng thủ đoạn khác để làm sai lệch
+cử mà giaả mạo giaấy tờ, gian lận phiếu bầu hoặc dùng thủ đoạn khác để làm sai lệch
 kết quả bầu cử hoặc vi phạm các quy định khác của pháp luật về bầu cử thì tùy
 theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử phạt vi phạm hành chính
 hoặc truy cứu trách nhiệm hình sự.
@@ -1930,31 +1929,31 @@ hoặc truy cứu trách nhiệm hình sự.
  -------
 
  CỘNG
- H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- Độc lập - Tự do - Hạnh ph�c 
+ Độc lập - Tự do - Hạnh phúc 
 
  ---------------
 
  Luật
  số: 72/2025/QH15
 
- H�
- Nội, ng�y 16 th�ng 6 năm 2025
+ Hồ
+ Nội, ngày 16 tháng 6 năm 2025
 
 LUẬT
 
-TỔ CHỨC CH�NH
+TỔ CHỨC CHồNH
 QUYỀN ĐỊA PHƯƠNG
 
 Căn
-cứ Hiến ph�p nước
-Cộng h�a x� hội chủ nghĩa Việt Nam đ�
+cứ Hiến pháp nước
+Cộng hồa xã hội chủ nghĩa Việt Nam đã
 được sửa đổi, bổ sung một số
 điều theo Nghị quyết số 203/2025/QH15;
 
 Quốc
-hội ban h�nh Luật Tổ chức ch�nh quyền
+hội ban hành Luật Tổ chức chính quyền
 địa phương.
 
 Chương I
@@ -1962,285 +1961,285 @@ Chương I
 NHỮNG QUY
 ĐỊNH CHUNG
 
-Điều 1. Đơn vị h�nh ch�nh
+Điều 1. Đơn vị hành chính
 
 1.
-Đơn vị h�nh ch�nh của nước Cộng h�a x�
+Đơn vị hành chính của nước Cộng hồa xã
 hội chủ nghĩa Việt Nam được tổ
-chức th�nh 02 cấp, gồm c�:
+chức thành 02 cấp, gồm cơ:
 
 a)
-Tỉnh, th�nh phố trực thuộc trung ương (sau
-đ�y gọi chung l� cấp tỉnh);
+Tỉnh, thành phố trực thuộc trung ương (sau
+đẩy gọi chung lã cấp tỉnh);
 
-b) X�,
+b) Xã,
 phường, đặc khu trực thuộc cấp
-tỉnh (sau đ�y gọi chung l� cấp x�).
+tỉnh (sau đẩy gọi chung lã cấp xã).
 
-X� l�
-đơn vị h�nh ch�nh ở n�ng th�n; phường l�
-đơn vị h�nh ch�nh ở đ� thị; đặc khu
-l� đơn vị h�nh ch�nh ở một số hải
-đảo c� vị tr� quan trọng được th�nh
-lập ph� hợp với điều kiện địa l�,
-tự nhi�n, đặc điểm d�n cư v� y�u cầu
-ph�t triển kinh tế - x� hội, bảo đảm
-quốc ph�ng, an ninh.
+Xã lã
+đơn vị hành chính ở nông thôn; phường lã
+đơn vị hành chính ở đã thị; đặc khu
+lã đơn vị hành chính ở một số hải
+đảo cơ vị trì quan trọng được thành
+lập phụ hợp với điều kiện địa lã,
+tự nhiện, đặc điểm dân cư và yêu cầu
+phát triển kinh tế - xã hội, bảo đảm
+quốc phòng, an ninh.
 
 2.
-Đơn vị h�nh ch�nh - kinh tế đặc biệt l�
-địa b�n c� vị tr� chiến lược,
-được tổ chức theo m� h�nh đặc th�,
-được �p dụng c�c cơ chế, ch�nh s�ch ưu
-đ�i vượt trội, thực hiện c�c ch�nh s�ch
+Đơn vị hành chính - kinh tế đặc biệt lã
+địa bản cơ vị trì chiến lược,
+được tổ chức theo m hành đặc thủ,
+được p dụng các cơ chế, chính sách ưu
+đại vượt trội, thực hiện các chính sách
 mới về quản trị địa phương, thu
-h�t đầu tư, n�ng cao năng lực cạnh tranh
-quốc gia nhằm th�c đẩy ph�t triển kinh tế -
-x� hội của địa phương, v�ng v� cả
-nước. Đơn vị h�nh ch�nh - kinh tế
+hút đầu tư, nông cao năng lực cạnh tranh
+quốc gia nhằm thực đẩy phát triển kinh tế -
+xã hội của địa phương, vùng và cả
+nước. Đơn vị hành chính - kinh tế
 đặc biệt do Quốc hội quyết định
-th�nh lập.
+thành lập.
 
-Điều 2. Tổ chức ch�nh quyền
+Điều 2. Tổ chức chính quyền
 địa phương
 
-1. Ch�nh
-quyền địa phương ở c�c đơn vị
-h�nh ch�nh quy định tại khoản 1
-Điều 1 của Luật n�y, trừ đơn
-vị h�nh ch�nh quy định tại Điều
-28 của Luật n�y, l� cấp ch�nh quyền địa
-phương gồm c� Hội đồng nh�n d�n v� Ủy
-ban nh�n d�n.
+1. Chính
+quyền địa phương ở các đơn vị
+hành chính quy định tại khoản 1
+Điều 1 của Luật này, trừ đơn
+vị hành chính quy định tại Điều
+28 của Luật này, lã cấp chính quyền địa
+phương gồm cơ Hội đồng nhân dân và Ủy
+ban nhân dân.
 
-2. Ch�nh
-quyền địa phương ở đơn vị h�nh
-ch�nh - kinh tế đặc biệt do Quốc hội quy
-định khi th�nh lập đơn vị h�nh ch�nh - kinh
-tế đặc biệt đ�.
+2. Chính
+quyền địa phương ở đơn vị hành
+chính - kinh tế đặc biệt do Quốc hội quy
+định khi thành lập đơn vị hành chính - kinh
+tế đặc biệt đã.
 
-Điều 3. Ph�n loại đơn vị h�nh
-ch�nh
+Điều 3. Phân loại đơn vị hành
+chính
 
-1. Ph�n
-loại đơn vị h�nh ch�nh l� cơ sở để
-hoạch định ch�nh s�ch ph�t triển kinh tế - x�
-hội, x�y dựng tổ chức bộ m�y, chế
-độ, ch�nh s�ch đối với c�n bộ, c�ng
-chức của ch�nh quyền địa phương ph�
-hợp với từng loại đơn vị h�nh ch�nh.
+1. Phân
+loại đơn vị hành chính lã cơ sở để
+hoạch định chính sách phát triển kinh tế - xã
+hội, xãy dựng tổ chức bộ my, chế
+độ, chính sách đối với cơn bộ, công
+chức của chính quyền địa phương phụ
+hợp với từng loại đơn vị hành chính.
 
-2. Ph�n loại đơn vị h�nh ch�nh
-phải dựa tr�n c�c ti�u ch� về quy m� d�n số, diện
-t�ch tự nhi�n, điều kiện ph�t triển kinh tế
-- x� hội v� c�c yếu tố đặc th� của
-từng loại đơn vị h�nh ch�nh ở n�ng th�n,
-đ� thị, hải đảo theo quy định của
-Ch�nh phủ.
+2. Phân loại đơn vị hành chính
+phải dựa trận các tiêu chỉ về quy m dân số, diện
+tịch tự nhiện, điều kiện phát triển kinh tế
+- xã hội và các yếu tố đặc thủ của
+từng loại đơn vị hành chính ở nông thôn,
+đã thị, hải đảo theo quy định của
+Chính phủ.
 
-Điều 4. Nguy�n tắc tổ chức v�
-hoạt động của ch�nh quyền địa
+Điều 4. Nguyn tắc tổ chức và
+hoạt động của chính quyền địa
 phương
 
-1. Tu�n
-thủ Hiến ph�p v� ph�p
-luật, quản l� x� hội bằng ph�p luật; thực
-hiện nguy�n tắc tập trung d�n chủ.
+1. Tun
+thủ Hiến pháp và pháp
+luật, quản lã xã hội bằng pháp luật; thực
+hiện nguyn tắc tập trung dân chủ.
 
 Hội
-đồng nh�n d�n hoạt động theo chế
+đồng nhân dân hoạt động theo chế
 độ tập thể, quyết định theo đa
 số.
 
 Ủy
-ban nh�n d�n hoạt động theo chế độ tập
+ban nhân dân hoạt động theo chế độ tập
 thể, quyết định theo đa số; đồng
-thời đề cao thẩm quyền v� tr�ch nhiệm
-của Chủ tịch Ủy ban nh�n d�n.
+thời đề cao thẩm quyền và trách nhiệm
+của Chủ tịch Ủy ban nhân dân.
 
 2.
-Tổ chức ch�nh quyền địa phương tinh
+Tổ chức chính quyền địa phương tinh
 gọn, hiệu năng, hiệu lực, hiệu quả,
-đ�p ứng y�u cầu quản trị địa
-phương chuy�n nghiệp, hiện đại, thực
-hiện hiệu quả ứng dụng c�ng nghệ th�ng tin
-v� chuyển đổi số trong tổ chức v� hoạt
-động của ch�nh quyền địa phương,
-bảo đảm tr�ch nhiệm giải tr�nh gắn với
-cơ chế kiểm so�t quyền lực.
+đáp ứng yêu cầu quản trị địa
+phương chuyện nghiệp, hiện đại, thực
+hiện hiệu quả ứng dụng công nghệ tháng tin
+và chuyển đổi số trong tổ chức và hoạt
+động của chính quyền địa phương,
+bảo đảm trách nhiệm giaải trình gắn với
+cơ chế kiểm sot quyền lực.
 
 3.
-Bảo đảm quyền con người, quyền c�ng
-d�n; x�y dựng ch�nh quyền địa phương gần
-Nh�n d�n, phục vụ Nh�n d�n, ph�t huy quyền l�m chủ
-của Nh�n d�n, chịu sự kiểm tra, gi�m s�t của Nh�n
-d�n; thực hiện đầy đủ cơ chế
-phản biện x� hội của Ủy ban Mặt trận
-Tổ quốc Việt Nam v� c�c tổ chức ch�nh trị -
-x� hội ở địa phương.
+Bảo đảm quyền con người, quyền công
+dân; xãy dựng chính quyền địa phương gần
+Nhân dân, phục vụ Nhân dân, phát huy quyền làm chủ
+của Nhân dân, chịu sự kiểm tra, giaám sát của Nhân
+dân; thực hiện đầy đủ cơ chế
+phản biện xã hội của Ủy ban Mặt trận
+Tổ quốc Việt Nam và các tổ chức chính trị -
+xã hội ở địa phương.
 
 4.
-Bảo đảm nền h�nh ch�nh minh bạch, thống
-nhất, th�ng suốt, li�n tục.
+Bảo đảm nền hành chính minh bạch, thống
+nhất, tháng suốt, liên tục.
 
 5.
-Những c�ng việc thuộc thẩm quyền của ch�nh
-quyền địa phương phải do ch�nh quyền
-địa phương quyết định v� tổ
-chức thực hiện; ph�t huy vai tr� tự chủ v�
-tự chịu tr�ch nhiệm của ch�nh quyền
+Những công việc thuộc thẩm quyền của chính
+quyền địa phương phải do chính quyền
+địa phương quyết định và tổ
+chức thực hiện; phát huy vai trì tự chủ và
+tự chịu trách nhiệm của chính quyền
 địa phương.
 
-6. Ph�n
-định r� thẩm quyền giữa cơ quan nh�
-nước ở trung ương v� ch�nh quyền
-địa phương; giữa ch�nh quyền địa
-phương cấp tỉnh v� ch�nh quyền địa
-phương cấp x�.
+6. Phân
+định r thẩm quyền giữa cơ quan nhà
+nước ở trung ương và chính quyền
+địa phương; giữa chính quyền địa
+phương cấp tỉnh và chính quyền địa
+phương cấp xã.
 
-Điều 5. Hội đồng nh�n d�n
+Điều 5. Hội đồng nhân dân
 
-1. Hội đồng nh�n d�n gồm c�c
-đại biểu Hội đồng nh�n d�n do cử tri
-ở địa phương bầu ra, l� cơ quan
-quyền lực nh� nước ở địa
-phương, đại diện cho � ch�, nguyện vọng
-v� quyền l�m chủ của Nh�n d�n, quyết định
-c�c vấn đề quan trọng của địa phương,
-gi�m s�t việc tu�n theo Hiến
-ph�p v� ph�p luật, gi�m s�t hoạt
-động của c�c cơ quan nh� nước ở
-địa phương; chịu tr�ch nhiệm trước
-Nh�n d�n địa phương v� cơ quan nh� nước
-cấp tr�n.
+1. Hội đồng nhân dân gồm các
+đại biểu Hội đồng nhân dân do cử tri
+ở địa phương bầu ra, lã cơ quan
+quyền lực nhà nước ở địa
+phương, đại diện choý chí, nguyện vọng
+và quyền làm chủ của Nhân dân, quyết định
+các vấn đề quan trọng của địa phương,
+giaám sát việc tun theo Hiến
+pháp và pháp luật, giaám sát hoạt
+động của các cơ quan nhà nước ở
+địa phương; chịu trách nhiệm trước
+Nhân dân địa phương và cơ quan nhà nước
+cấp trận.
 
 2.
-Đại biểu Hội đồng nh�n d�n l�
-người đại diện cho � ch�, nguyện vọng
-của Nh�n d�n địa phương, chịu tr�ch
-nhiệm trước cử tri địa phương v�
-trước Hội đồng nh�n d�n về việc
+Đại biểu Hội đồng nhân dân lã
+người đại diện choý chí, nguyện vọng
+của Nhân dân địa phương, chịu trách
+nhiệm trước cử tri địa phương và
+trước Hội đồng nhân dân về việc
 thực hiện nhiệm vụ, quyền hạn
-đại biểu của m�nh.
+đại biểu của mnh.
 
 3.
-Đại biểu Hội đồng nh�n d�n phải
-đ�p ứng c�c ti�u chuẩn sau đ�y:
+Đại biểu Hội đồng nhân dân phải
+đáp ứng các tiêu chuẩn sau đẩy:
 
 a) Trung
-th�nh với Tổ quốc, Nh�n d�n v� Hiến
-ph�p, phấn đấu thực hiện c�ng cuộc
-đổi mới, v� mục ti�u d�n gi�u, nước
-mạnh, d�n chủ, c�ng bằng, văn minh;
+thành với Tổ quốc, Nhân dân và Hiến
+pháp, phấn đấu thực hiện công cuộc
+đổi mới, và mục tiêu dân giaơu, nước
+mạnh, dân chủ, công bằng, văn minh;
 
 b)
-Chỉ c� một quốc tịch l� quốc tịch
+Chỉ cơ một quốc tịch lã quốc tịch
 Việt Nam;
 
-c) C�
+c) Cơ
 phẩm chất đạo đức tốt, cần,
-kiệm, li�m, ch�nh, ch� c�ng v� tư, gương mẫu
-chấp h�nh ph�p luật; c� bản lĩnh, ki�n quyết
-đấu tranh chống tham nhũng, l�ng ph�, ti�u cực,
-mọi biểu hiện quan li�u, h�ch dịch, cửa
-quyền v� c�c h�nh vi vi phạm ph�p luật kh�c;
+kiệm, lim, chính, chỉ công và tư, gương mẫu
+chấp hành pháp luật; cơ bản lĩnh, kiến quyết
+đấu tranh chống tham nhũng, lứng phụ, tiêu cực,
+mọi biểu hiện quan liu, hồch dịch, cửa
+quyền và các hành vi vi phạm pháp luật khồc;
 
-d) C�
-tr�nh độ học vấn, chuy�n m�n, đủ năng
-lực, sức khỏe, kinh nghiệm c�ng t�c v� uy t�n
+d) Cơ
+trình độ học vấn, chuyên môn, đủ năng
+lực, sức khỏe, kinh nghiệm công tác và uy tín
 để thực hiện nhiệm vụ đại
-biểu; c� điều kiện tham gia c�c hoạt
-động của Hội đồng nh�n d�n;
+biểu; cơ điều kiện tham gia các hoạt
+động của Hội đồng nhân dân;
 
 đ)
-Cư tr� hoặc c�ng t�c tại cơ quan, tổ chức,
-đơn vị, doanh nghiệp ở đơn vị h�nh
-ch�nh m� m�nh l� đại biểu Hội đồng nh�n d�n;
+Cư trì hoặc công tác tại cơ quan, tổ chức,
+đơn vị, doanh nghiệp ở đơn vị hành
+chính m mnh lã đại biểu Hội đồng nhân dân;
 
-e) Li�n
-hệ chặt chẽ với Nh�n d�n, lắng nghe � kiến
-của Nh�n d�n, được Nh�n d�n t�n nhiệm.
+e) Liên
+hệ chặt chẽ với Nhân dân, lắng nghe  kiến
+của Nhân dân, được Nhân dân tỷn nhiệm.
 
 4.
-Nhiệm kỳ của mỗi kh�a Hội đồng nh�n
-d�n l� 05 năm kể từ ng�y khai mạc kỳ họp
-thứ nhất của Hội đồng nh�n d�n kh�a đ�
-đến ng�y khai mạc kỳ họp thứ nhất
-của Hội đồng nh�n d�n kh�a mới. Việc r�t
-ngắn hoặc k�o d�i nhiệm kỳ của Hội
-đồng nh�n d�n do Quốc hội quyết định
+Nhiệm kỳ của mỗi khóa Hội đồng nhân
+dân lã 05 năm kể từ ngày khai mạc kỳ họp
+thứ nhất của Hội đồng nhân dân khóa đã
+đến ngày khai mạc kỳ họp thứ nhất
+của Hội đồng nhân dân khóa mới. Việc rt
+ngắn hoặc ko dựi nhiệm kỳ của Hội
+đồng nhân dân do Quốc hội quyết định
 theo đề nghị của Ủy ban Thường vụ
 Quốc hội.
 
 5. Ủy ban Thường vụ Quốc
-hội gi�m s�t v� hướng dẫn hoạt động
-của Hội đồng nh�n d�n; ban h�nh Quy chế l�m
-việc mẫu của Hội đồng nh�n d�n. Ch�nh
+hội giaám sát và hướng dẫn hoạt động
+của Hội đồng nhân dân; ban hành Quy chế làm
+việc mẫu của Hội đồng nhân dân. Chính
 phủ hướng dẫn, kiểm tra Hội đồng
-nh�n d�n trong việc thực hiện văn bản của
-cơ quan nh� nước cấp tr�n; tạo điều
-kiện để Hội đồng nh�n d�n thực
+nhân dân trong việc thực hiện văn bản của
+cơ quan nhà nước cấp trận; tạo điều
+kiện để Hội đồng nhân dân thực
 hiện nhiệm vụ, quyền hạn do luật
 định.
 
-Điều 6. Ủy ban nh�n d�n
+Điều 6. Ủy ban nhân dân
 
 1.
-Ủy ban nh�n d�n ở cấp ch�nh quyền địa
-phương do Hội đồng nh�n d�n c�ng cấp bầu
-ra, l� cơ quan chấp h�nh của Hội đồng nh�n
-d�n, cơ quan h�nh ch�nh nh� nước ở địa
-phương, tổ chức thi h�nh Hiến
-ph�p, ph�p luật v� nghị quyết của Hội
-đồng nh�n d�n ở địa phương, chịu
-tr�ch nhiệm trước Nh�n d�n địa phương,
-Hội đồng nh�n d�n c�ng cấp v� cơ quan h�nh ch�nh
-nh� nước cấp tr�n.
+Ủy ban nhân dân ở cấp chính quyền địa
+phương do Hội đồng nhân dân công cấp bầu
+ra, lã cơ quan chấp hành của Hội đồng nhân
+dân, cơ quan hành chính nhà nước ở địa
+phương, tổ chức thi hành Hiến
+pháp, pháp luật và nghị quyết của Hội
+đồng nhân dân ở địa phương, chịu
+trách nhiệm trước Nhân dân địa phương,
+Hội đồng nhân dân công cấp và cơ quan hành chính
+nhà nước cấp trận.
 
 2.
-Nhiệm kỳ của Ủy ban nh�n d�n ở cấp ch�nh
+Nhiệm kỳ của Ủy ban nhân dân ở cấp chính
 quyền địa phương theo nhiệm kỳ của
-Hội đồng nh�n d�n c�ng cấp. Khi Hội
-đồng nh�n d�n hết nhiệm kỳ, Ủy ban nh�n d�n
-tiếp tục l�m nhiệm vụ cho đến khi Hội
-đồng nh�n d�n kh�a mới bầu ra Ủy ban nh�n d�n kh�a
+Hội đồng nhân dân công cấp. Khi Hội
+đồng nhân dân hết nhiệm kỳ, Ủy ban nhân dân
+tiếp tục làm nhiệm vụ cho đến khi Hội
+đồng nhân dân khóa mới bầu ra Ủy ban nhân dân khóa
 mới.
 
-3. Ch�nh phủ l�nh đạo, hướng
+3. Chính phủ lĩnh đạo, hướng
 dẫn, kiểm tra, thanh tra tổ chức, hoạt
-động của Ủy ban nh�n d�n; ban h�nh Quy chế l�m
-việc mẫu của Ủy ban nh�n d�n.
+động của Ủy ban nhân dân; ban hành Quy chế làm
+việc mẫu của Ủy ban nhân dân.
 
-Điều 7. Quan hệ c�ng t�c giữa ch�nh
+Điều 7. Quan hệ công tác giữa chính
 quyền địa phương với Ủy ban Mặt
-trận Tổ quốc Việt Nam v� c�c tổ chức ch�nh
-trị - x� hội ở địa phương
+trận Tổ quốc Việt Nam và các tổ chức chính
+trị - xã hội ở địa phương
 
-1. Ch�nh
-quyền địa phương phối hợp v� ph�t huy
-vai tr� của Ủy ban Mặt trận Tổ quốc
-Việt Nam v� c�c tổ chức ch�nh trị - x� hội trong
-việc tuy�n truyền, vận động Nh�n d�n tham gia x�y
-dựng v� củng cố ch�nh quyền nh�n d�n, tổ
-chức thực hiện ch�nh s�ch, ph�p luật của Nh�
-nước, gi�m s�t, phản biện x� hội đối
-với hoạt động của ch�nh quyền địa
+1. Chính
+quyền địa phương phối hợp và phát huy
+vai trì của Ủy ban Mặt trận Tổ quốc
+Việt Nam và các tổ chức chính trị - xã hội trong
+việc tuyn truyền, vận động Nhân dân tham gia xãy
+dựng và củng cố chính quyền nhân dân, tổ
+chức thực hiện chính sách, pháp luật của Nhà
+nước, giaám sát, phản biện xã hội đối
+với hoạt động của chính quyền địa
 phương.
 
 2.
 Chủ tịch Ủy ban Mặt trận Tổ quốc
-Việt Nam v� người đứng đầu tổ
-chức ch�nh trị - x� hội ở địa
-phương được mời tham dự c�c kỳ
-họp Hội đồng nh�n d�n v� được mời
-tham dự phi�n họp của Ủy ban nh�n d�n c�ng cấp
-khi b�n về c�c vấn đề c� li�n quan.
+Việt Nam và người đứng đầu tổ
+chức chính trị - xã hội ở địa
+phương được mời tham dự các kỳ
+họp Hội đồng nhân dân và được mời
+tham dự phiện họp của Ủy ban nhân dân công cấp
+khi bản về các vấn đề cơ liên quan.
 
 3.
-Hội đồng nh�n d�n, Ủy ban nh�n d�n thực hiện
-chế độ th�ng b�o t�nh h�nh của địa
+Hội đồng nhân dân, Ủy ban nhân dân thực hiện
+chế độ thông báo tỉnh hành của địa
 phương cho Ủy ban Mặt trận Tổ quốc
-Việt Nam v� c�c tổ chức ch�n
+Việt Nam và các tổ chức chọn
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -2266,198 +2265,198 @@ Việt Nam v� c�c tổ chức ch�n
  -------
 
  CỘNG
- H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- Độqc lập - Tự do - Hạnh ph�c 
+ Độqc lập - Tự do - Hạnh phúc 
 
  ---------------
 
  Luật
  số: 83/2025/QH15
 
- H�
- Nội, ng�y 24 th�ng 6 năm 2025
+ Hồ
+ Nội, ngày 24 tháng 6 năm 2025
 
 LUẬT
 
 SỬA ĐỔI,
 BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT BẦU
-CỬ ĐẠI BIỂU QUỐC HỘI V� ĐẠI
-BIỂU HỘI ĐỒNG NH�N D�N
+CỬ ĐẠI BIỂU QUỐC HỘI Và ĐẠI
+BIỂU HỘI ĐỒNG NHồN DựN
 
 Căn
-cứ Hiến ph�p nước
-Cộng h�a x� hội chủ nghĩa Việt Nam đ�
+cứ Hiến pháp nước
+Cộng hồa xã hội chủ nghĩa Việt Nam đã
 được sửa đổi, bổ sung một số
 điều theo Nghị quyết số 203/2025/QH15;
 
 Quốc
-hội ban h�nh Luật sửa đổi, bổ sung một
+hội ban hành Luật sửa đổi, bổ sung một
 số điều của Luật
-Bầu cử đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n số
+Bầu cử đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân số
 85/2015/QH13.
 
 Điều 1. Sửa đổi, bổ sung
 một số điều của Luật Bầu cử
-đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n
+đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân
 
 1. Sửa đổi, bổ sung khoản
 6 Điều 4 như sau:
 
-�6.
-Ủy ban bầu cử ở tỉnh, th�nh phố tổ
+6.
+Ủy ban bầu cử ở tỉnh, thành phố tổ
 chức bầu cử đại biểu Quốc hội
 tại địa phương; Ủy ban bầu cử
-ở tỉnh, th�nh phố, Ủy ban bầu cử ở
-x�, phường, đặc khu tổ chức bầu
-cử đại biểu Hội đồng nh�n d�n cấp
-tỉnh, đại biểu Hội đồng nh�n d�n
-cấp x� tương ứng; c�c Ban bầu cử, Tổ
-bầu cử thực hiện c�ng t�c bầu cử
+ở tỉnh, thành phố, Ủy ban bầu cử ở
+xã, phường, đặc khu tổ chức bầu
+cử đại biểu Hội đồng nhân dân cấp
+tỉnh, đại biểu Hội đồng nhân dân
+cấp xã tương ứng; các Ban bầu cử, Tổ
+bầu cử thực hiện công tác bầu cử
 đại biểu Quốc hội, đại biểu Hội
-đồng nh�n d�n c�c cấp theo quy định của
-Luật n�y.�.
+đồng nhân dân các cấp theo quy định của
+Luật này..
 
 2. Sửa đổi, bổ sung khoản
-3 v� khoản 4 Điều 8 như sau:
+3 và khoản 4 Điều 8 như sau:
 
-�3. Số lượng phụ nữ
+3. Số lượng phụ nữ
 được giới thiệu ứng cử đại
 biểu Quốc hội do Ủy ban thường vụ
-Quốc hội dự kiến tr�n cơ sở đề
+Quốc hội dự kiến trận cơ sở đề
 nghị của Ban thường vụ trung ương
-Hội li�n hiệp phụ nữ Việt Nam, bảo
-đảm c� �t nhất ba mươi lăm phần trăm
-tổng số người trong danh s�ch ch�nh thức
+Hội liên hiệp phụ nữ Việt Nam, bảo
+đảm cơ t nhất ba mươi lăm phần trăm
+tổng số người trong danh sách chính thức
 những người ứng cử đại biểu
-Quốc hội l� phụ nữ.
+Quốc hội lã phụ nữ.
 
 4.
-Dự kiến cơ cấu, th�nh phần v� ph�n bổ
+Dự kiến cơ cấu, thành phần và phân bổ
 số lượng người được giới
 thiệu ứng cử đại biểu Quốc hội
 của Ủy ban thường vụ Quốc hội
 được gửi đến Hội đồng
 bầu cử quốc gia, Ban thường trực Ủy
 ban trung ương Mặt trận Tổ quốc Việt
-Nam, Ủy ban bầu cử ở tỉnh, th�nh phố, Ban
+Nam, Ủy ban bầu cử ở tỉnh, thành phố, Ban
 thường trực Ủy ban Mặt trận Tổ
-quốc Việt Nam cấp tỉnh.�.
+quốc Việt Nam cấp tỉnh..
 
 3. Sửa đổi, bổ sung Điều
 9 như sau:
 
-�Điều 9. Dự kiến cơ cấu,
-th�nh phần v� ph�n bổ số lượng người
+Điều 9. Dự kiến cơ cấu,
+thành phần và phân bổ số lượng người
 được giới thiệu ứng cử đại
-biểu Hội đồng nh�n d�n
+biểu Hội đồng nhân dân
 
 Căn
-cứ v�o số lượng đại biểu Hội
-đồng nh�n d�n được bầu ở mỗi
-đơn vị h�nh ch�nh theo quy định của Luật tổ chức ch�nh quyền
-địa phương, sau khi thống nhất �
+cứ vào số lượng đại biểu Hội
+đồng nhân dân được bầu ở mỗi
+đơn vị hành chính theo quy định của Luật tổ chức chính quyền
+địa phương, sau khi thống nhất 
 kiến với Ban thường trực Ủy ban Mặt
-trận Tổ quốc Việt Nam v� Ủy ban nh�n d�n c�ng
-cấp, chậm nhất l� 105 ng�y trước ng�y bầu
+trận Tổ quốc Việt Nam và Ủy ban nhân dân công
+cấp, chậm nhất lã 105 ngày trước ngày bầu
 cử:
 
 1.
-Thường trực Hội đồng nh�n d�n tỉnh,
-th�nh phố (sau đ�y gọi chung l� cấp tỉnh) dự
-kiến cơ cấu, th�nh phần, ph�n bổ số
-lượng người của tổ chức ch�nh
-trị, tổ chức ch�nh trị - x� hội, tổ
-chức x� hội, đơn vị vũ trang nh�n d�n, cơ
-quan nh� nước ở cấp m�nh v� c�c đơn vị
-h�nh ch�nh cấp dưới, đơn vị sự
-nghiệp, tổ chức kinh tế tr�n địa b�n
+Thường trực Hội đồng nhân dân tỉnh,
+thành phố (sau đẩy gọi chung lã cấp tỉnh) dự
+kiến cơ cấu, thành phần, phân bổ số
+lượng người của tổ chức chính
+trị, tổ chức chính trị - xã hội, tổ
+chức xã hội, đơn vị vũ trang nhân dân, cơ
+quan nhà nước ở cấp mnh và các đơn vị
+hành chính cấp dưới, đơn vị sự
+nghiệp, tổ chức kinh tế địa bàn
 được giới thiệu để ứng cử
-đại biểu Hội đồng nh�n d�n cấp
-tỉnh, trong đ� bảo đảm c� �t nhất ba
+đại biểu Hội đồng nhân dân cấp
+tỉnh, trong đã bảo đảm cơ t nhất ba
 mươi lăm phần trăm tổng số
-người trong danh s�ch ch�nh thức những người
-ứng cử đại biểu Hội đồng nh�n d�n
-l� phụ nữ; số lượng người ứng
-cử l� người d�n tộc thiểu số
-được x�c định ph� hợp với đặc
-điểm, cơ cấu d�n tộc v� t�nh h�nh cụ
+người trong danh sách chính thức những người
+ứng cử đại biểu Hội đồng nhân dân
+lã phụ nữ; số lượng người ứng
+cử lã người dân tộc thiểu số
+được xãc định phụ hợp với đặc
+điểm, cơ cấu dân tộc và tỉnh hành cụ
 thể của từng địa phương;
 
 2.
-Thường trực Hội đồng nh�n d�n x�,
-phường, đặc khu (sau đ�y gọi chung l�
-cấp x�) dự kiến cơ cấu, th�nh phần, ph�n
+Thường trực Hội đồng nhân dân xã,
+phường, đặc khu (sau đẩy gọi chung lã
+cấp xã) dự kiến cơ cấu, thành phần, phân
 bổ số lượng người của tổ
-chức ch�nh trị, tổ chức ch�nh trị - x� hội,
-tổ chức x� hội, đơn vị vũ trang nh�n
-d�n, cơ quan nh� nước ở cấp m�nh v� th�n, l�ng,
-ấp, bản, bu�n, phum, s�c (sau đ�y gọi chung l� th�n),
-tổ d�n phố, khu phố, kh�m (sau đ�y gọi chung l�
-tổ d�n phố), đơn vị sự nghiệp, tổ
-chức kinh tế tr�n địa b�n được
+chức chính trị, tổ chức chính trị - xã hội,
+tổ chức xã hội, đơn vị vũ trang nhân
+dân, cơ quan nhà nước ở cấp mnh và thôn, lứng,
+ấp, bản, bun, phum, sốc (sau đẩy gọi chung lã thôn),
+tổ dân phố, khu phố, khồm (sau đẩy gọi chung lã
+tổ dân phố), đơn vị sự nghiệp, tổ
+chức kinh tế địa bàn được
 giới thiệu để ứng cử đại
-biểu Hội đồng nh�n d�n cấp x�, trong đ�
-bảo đảm c� �t nhất ba mươi lăm phần
-trăm tổng số người trong danh s�ch ch�nh thức
+biểu Hội đồng nhân dân cấp xã, trong đã
+bảo đảm cơ t nhất ba mươi lăm phần
+trăm tổng số người trong danh sách chính thức
 những người ứng cử đại biểu
-Hội đồng nh�n d�n l� phụ nữ; số
-lượng người ứng cử l� người d�n
-tộc thiểu số được x�c định ph�
-hợp với đặc điểm, cơ cấu d�n tộc
-v� t�nh h�nh cụ thể của từng địa
+Hội đồng nhân dân lã phụ nữ; số
+lượng người ứng cử lã người dân
+tộc thiểu số được xãc định phụ
+hợp với đặc điểm, cơ cấu dân tộc
+và tỉnh hành cụ thể của từng địa
 phương;
 
 3.
-Dự kiến cơ cấu, th�nh phần v� ph�n bổ
+Dự kiến cơ cấu, thành phần và phân bổ
 số lượng người được giới
 thiệu ứng cử đại biểu Hội
-đồng nh�n d�n của Thường trực Hội
-đồng nh�n d�n ở mỗi cấp được
+đồng nhân dân của Thường trực Hội
+đồng nhân dân ở mỗi cấp được
 gửi đến Hội đồng bầu cử
-quốc gia, Thường trực Hội đồng nh�n d�n
+quốc gia, Thường trực Hội đồng nhân dân
 cấp tỉnh, Ban thường trực Ủy ban Mặt
-trận Tổ quốc Việt Nam v� Ủy ban bầu
-cử c�ng cấp.�.
+trận Tổ quốc Việt Nam và Ủy ban bầu
+cử công cấp..
 
 4. Sửa đổi, bổ sung khoản
-2 v� khoản 3 Điều 10 như
+2 và khoản 3 Điều 10 như
 sau:
 
-�2.
-Tỉnh, th�nh phố được chia th�nh c�c đơn
+2.
+Tỉnh, thành phố được chia thành các đơn
 vị bầu cử đại biểu Quốc hội.
 
 Số
-đơn vị bầu cử, danh s�ch c�c đơn vị
-bầu cử v� số lượng đại biểu
+đơn vị bầu cử, danh sách các đơn vị
+bầu cử và số lượng đại biểu
 Quốc hội được bầu ở mỗi
-đơn vị bầu cử được t�nh căn
-cứ theo số d�n, do Hội đồng bầu cử
+đơn vị bầu cử được tỉnh căn
+cứ theo số dân, do Hội đồng bầu cử
 quốc gia ấn định theo đề nghị của
-Ủy ban bầu cử ở tỉnh, th�nh phố v�
-được c�ng bố chậm nhất l� 80 ng�y
-trước ng�y bầu cử.
+Ủy ban bầu cử ở tỉnh, thành phố và
+được công bố chậm nhất lã 80 ngày
+trước ngày bầu cử.
 
 3.
-Tỉnh, th�nh phố được chia th�nh c�c đơn
+Tỉnh, thành phố được chia thành các đơn
 vị bầu cử đại biểu Hội đồng
-nh�n d�n cấp tỉnh. X�, phường, đặc khu
-được chia th�nh c�c đơn vị bầu cử
-đại biểu Hội đồng nh�n d�n cấp x�.
+nhân dân cấp tỉnh. Xã, phường, đặc khu
+được chia thành các đơn vị bầu cử
+đại biểu Hội đồng nhân dân cấp xã.
 
 Số
 đơn vị bầu cử đại biểu Hội
-đồng nh�n d�n cấp tỉnh, cấp x�, danh s�ch c�c
-đơn vị bầu cử v� số lượng
+đồng nhân dân cấp tỉnh, cấp xã, danh sách các
+đơn vị bầu cử và số lượng
 đại biểu được bầu ở mỗi
 đơn vị bầu cử do Ủy ban bầu cử
-ở cấp đ� ấn định theo đề
-nghị của Ủy ban nh�n d�n c�ng cấp v�
-được c�ng bố chậm nhất l� 80 ng�y
-trước ng�y bầu cử.�.
+ở cấp đã ấn định theo đề
+nghị của Ủy ban nhân dân công cấp và
+được công bố chậm nhất lã 80 ngày
+trước ngày bầu cử..
 
 5.
 Sửa đổi, bổ sung một số khoản
@@ -2466,121 +2465,121 @@ của Điều 11 như sau:
 a) Sửa đổi, bổ sung khoản
 2 như sau:
 
-�2.
-Mỗi khu vực bỏ phiếu c� từ ba trăm
-đến bốn ngh�n cử tri. Ở miền n�i, hải
-đảo v� những nơi d�n cư kh�ng tập trung th� d�
-chưa c� đủ ba trăm cử tri cũng
-được th�nh lập một khu vực bỏ
-phiếu.�;
+2.
+Mỗi khu vực bỏ phiếu cơ từ ba trăm
+đến bốn nghịn cử tri. Ở miền nội, hải
+đảo và những nơi dân cư không tập trung thủ dự
+chưa cơ đủ ba trăm cử tri cũng
+được thành lập một khu vực bỏ
+phiếu.;
 
 b) Sửa đổi, bổ sung khoản
 4 như sau:
 
-�4.
-Việc x�c định khu vực bỏ phiếu do Ủy
-ban nh�n d�n cấp x� quyết định v� b�o c�o Ủy ban
-nh�n d�n cấp tỉnh. Trường hợp cần
-thiết, Ủy ban nh�n d�n cấp tỉnh điều
-chỉnh việc x�c định khu vực bỏ phiếu.
-Việc x�c định khu vực bỏ phiếu
-được thực hiện trước khi th�nh lập
-Tổ bầu cử.�.
+4.
+Việc xãc định khu vực bỏ phiếu do Ủy
+ban nhân dân cấp xã quyết định và bảo cơo Ủy ban
+nhân dân cấp tỉnh. Trường hợp cần
+thiết, Ủy ban nhân dân cấp tỉnh điều
+chỉnh việc xãc định khu vực bỏ phiếu.
+Việc xãc định khu vực bỏ phiếu
+được thực hiện trước khi thành lập
+Tổ bầu cử..
 
 6. Sửa đổi, bổ sung Điều
-21 v� Điều 22 như sau:
+21 và Điều 22 như sau:
 
-�Điều
-21. C�c tổ chức phụ tr�ch bầu cử ở
+Điều
+21. Các tổ chức phụ trách bầu cử ở
 địa phương
 
 1.
-Ủy ban bầu cử ở tỉnh, th�nh phố, Ủy
-ban bầu cử ở x�, phường, đặc khu (sau
-đ�y gọi chung l� Ủy ban bầu cử).
+Ủy ban bầu cử ở tỉnh, thành phố, Ủy
+ban bầu cử ở xã, phường, đặc khu (sau
+đẩy gọi chung lã Ủy ban bầu cử).
 
 2. Ban
 bầu cử đại biểu Quốc hội, Ban
-bầu cử đại biểu Hội đồng nh�n d�n
+bầu cử đại biểu Hội đồng nhân dân
 cấp tỉnh, Ban bầu cử đại biểu
-Hội đồng nh�n d�n cấp x� (sau đ�y gọi chung
-l� Ban bầu cử).
+Hội đồng nhân dân cấp xã (sau đẩy gọi chung
+lã Ban bầu cử).
 
 3.
 Tổ bầu cử.
 
 Điều
-22. Việc th�nh lập, cơ cấu, th�nh phần của
+22. Việc thành lập, cơ cấu, thành phần của
 Ủy ban bầu cử
 
 1.
-Chậm nhất l� 105 ng�y trước ng�y bầu cử,
-Ủy ban nh�n d�n cấp tỉnh sau khi thống nhất
-với Thường trực Hội đồng nh�n d�n v�
+Chậm nhất lã 105 ngày trước ngày bầu cử,
+Ủy ban nhân dân cấp tỉnh sau khi thống nhất
+với Thường trực Hội đồng nhân dân và
 Ban thường trực Ủy ban Mặt trận Tổ
-quốc Việt Nam c�ng cấp quyết định th�nh
-lập Ủy ban bầu cử ở tỉnh, th�nh phố
-(sau đ�y gọi chung l� Ủy ban bầu cử ở
-tỉnh) để thực hiện c�ng t�c bầu cử
-đại biểu Quốc hội v� tổ chức bầu
-cử đại biểu Hội đồng nh�n d�n cấp
-tỉnh tại tỉnh, th�nh phố.
+quốc Việt Nam công cấp quyết định thành
+lập Ủy ban bầu cử ở tỉnh, thành phố
+(sau đẩy gọi chung lã Ủy ban bầu cử ở
+tỉnh) để thực hiện công tác bầu cử
+đại biểu Quốc hội và tổ chức bầu
+cử đại biểu Hội đồng nhân dân cấp
+tỉnh tại tỉnh, thành phố.
 
 Ủy
-ban bầu cử ở tỉnh c� từ hai mươi ba
-đến ba mươi bảy th�nh vi�n gồm Chủ
-tịch, c�c Ph� Chủ tịch, Thư k� v� c�c Ủy vi�n l�
-đại diện Đo�n đại biểu Quốc
-hội, Thường trực Hội đồng nh�n d�n,
-Ủy ban nh�n d�n, Ủy ban Mặt trận Tổ quốc
-Việt Nam c�ng cấp v� một số cơ quan, tổ
+ban bầu cử ở tỉnh cơ từ hai mươi ba
+đến ba mươi bảy thành vin gồm Chủ
+tịch, các Phụ Chủ tịch, Thư k và các Ủy vin lã
+đại diện Đoàn đại biểu Quốc
+hội, Thường trực Hội đồng nhân dân,
+Ủy ban nhân dân, Ủy ban Mặt trận Tổ quốc
+Việt Nam công cấp và một số cơ quan, tổ
 chức hữu quan.
 
 Danh
-s�ch Ủy ban bầu cử ở tỉnh phải
+sách Ủy ban bầu cử ở tỉnh phải
 được gửi đến Hội đồng
 bầu cử quốc gia, Ủy ban thường vụ
-Quốc hội, Ch�nh phủ, Ban thường trực
+Quốc hội, Chính phủ, Ban thường trực
 Ủy ban trung ương Mặt trận Tổ quốc
 Việt Nam.
 
 2.
-Chậm nhất l� 105 ng�y trước ng�y bầu cử,
-Ủy ban nh�n d�n cấp x� sau khi thống nhất với
-Thường trực Hội đồng nh�n d�n v� Ban
+Chậm nhất lã 105 ngày trước ngày bầu cử,
+Ủy ban nhân dân cấp xã sau khi thống nhất với
+Thường trực Hội đồng nhân dân và Ban
 thường trực Ủy ban Mặt trận Tổ
-quốc Việt Nam c�ng cấp quyết định th�nh
-lập Ủy ban bầu cử ở x�, phường,
-đặc khu (sau đ�y gọi chung l� Ủy ban bầu
-cử ở x�) để tổ chức bầu cử
-đại biểu Hội đồng nh�n d�n cấp x�.
+quốc Việt Nam công cấp quyết định thành
+lập Ủy ban bầu cử ở xã, phường,
+đặc khu (sau đẩy gọi chung lã Ủy ban bầu
+cử ở xã) để tổ chức bầu cử
+đại biểu Hội đồng nhân dân cấp xã.
 
 Ủy
-ban bầu cử ở x� c� từ ch�n đến
-mười bảy th�nh vi�n. Th�nh vi�n Ủy ban bầu
-cử ở x� gồm Chủ tịch, c�c Ph� Chủ
-tịch, Thư k� v� c�c Ủy vi�n l� đại diện
-Thường trực Hội đồng nh�n d�n, Ủy ban
-nh�n d�n, Ủy ban Mặt trận Tổ quốc Việt Nam
-cấp x� v� một số cơ quan, tổ chức hữu
+ban bầu cử ở xã cơ từ chọn đến
+mười bảy thành vin. Thành vin Ủy ban bầu
+cử ở xã gồm Chủ tịch, các Phụ Chủ
+tịch, Thư k và các Ủy vin lã đại diện
+Thường trực Hội đồng nhân dân, Ủy ban
+nhân dân, Ủy ban Mặt trận Tổ quốc Việt Nam
+cấp xã và một số cơ quan, tổ chức hữu
 quan.
 
 Danh
-s�ch Ủy ban bầu cử ở x� phải được
+sách Ủy ban bầu cử ở xã phải được
 gửi đến Ủy ban bầu cử ở tỉnh,
-Thường trực Hội đồng nh�n d�n, Ủy ban
-nh�n d�n v� Ban thường trực Ủy ban Mặt trận
-Tổ quốc Việt Nam cấp tỉnh.�.
+Thường trực Hội đồng nhân dân, Ủy ban
+nhân dân và Ban thường trực Ủy ban Mặt trận
+Tổ quốc Việt Nam cấp tỉnh..
 
 7. Sửa đổi, bổ sung Điều
 24 như sau:
 
-�Điều
+Điều
 24. Ban bầu cử
 
 1.
-Chậm nhất l� 70 ng�y trước ng�y bầu cử,
-Ủy ban nh�n d�n cấp tỉnh sau khi thống nh
+Chậm nhất lã 70 ngày trước ngày bầu cử,
+Ủy ban nhân dân cấp tỉnh sau khi thống nh
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -2601,16 +2600,16 @@ Chậm nhất l� 70 ng�y trước ng�y bầu cử,
  0
 
  HỘI
- ĐỒNG NH�N D�N
+ ĐỒNG NHồN DựN
 
  TỈNH QUẢNG NINH
 
  -------
 
  CỘNG
- H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- Độc lập - Tự do - Hạnh ph�c
+ Độc lập - Tự do - Hạnh phúc
 
  ---------------
 
@@ -2618,263 +2617,263 @@ Chậm nhất l� 70 ng�y trước ng�y bầu cử,
  99/2025/NQ-HĐND
 
  Quảng
- Ninh, ng�y 16 th�ng 12 năm 2025
+ Ninh, ngày 16 tháng 12 năm 2025
 
 NGHỊ QUYẾT
 
 QUY ĐỊNH NỘI
-DUNG, MỨC CHI PHỤC VỤ CHO C�NG T�C TỔ CHỨC
-BẦU CỬ ĐẠI BIỂU QUỐC HỘI KH�A XVI V�
-BẦU CỬ ĐẠI BIỂU HỘI ĐỒNG NH�N D�N
-C�C CẤP TỈNH QUẢNG NINH, NHIỆM KỲ 2026 - 2031
+DUNG, MỨC CHI PHỤC VỤ CHO CơNG TỷC TỔ CHỨC
+BẦU CỬ ĐẠI BIỂU QUỐC HỘI KHồA XVI Và
+BẦU CỬ ĐẠI BIỂU HỘI ĐỒNG NHồN DựN
+CơC CẤP TỈNH QUẢNG NINH, NHIỆM KỲ 2026 - 2031
 
 Căn
-cứ Luật Tổ chức ch�nh quyền địa
+cứ Luật Tổ chức chính quyền địa
 phương số 72/2025/QH15;
 
 Căn
-cứ Luật Ban h�nh văn bản quy phạm ph�p luật
+cứ Luật Ban hành văn bản quy phạm pháp luật
 số 64/2025/QH15 được sửa đổi, bổ
 sung bởi Luật số 87/2025/QH15;
 
 Căn
 cứ Luật Bầu cử đại biểu Quốc
-hội v� đại biểu Hội đồng nh�n d�n
+hội và đại biểu Hội đồng nhân dân
 số 85/2015/QH13 được sửa đổi, bổ
 sung bởi Luật số 83/2025/QH15;
 
 Căn
-cứ Luật Ng�n s�ch nh� nước số 83/2015/QH13
+cứ Luật Ngn sách nhà nước số 83/2015/QH13
 được sửa đổi, bổ sung bởi
-Luật số 56/2024/QH15; Luật Ng�n s�ch nh� nước
+Luật số 56/2024/QH15; Luật Ngn sách nhà nước
 số 89/2025/QH15;
 
 Căn
-cứ Th�ng tư số 87/2025/TT-BTC hướng dẫn
-việc lập dự to�n, quản l�, sử dụng v�
-quyết to�n kinh ph� bầu cử đại biểu
-Quốc hội kh�a XVI v� đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031;
+cứ Tháng tư số 87/2025/TT-BTC hướng dẫn
+việc lập dự ton, quản lã, sử dụng và
+quyết ton kinh phụ bầu cử đại biểu
+Quốc hội khóa XVI và đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026 - 2031;
 
-X�t
-Tờ tr�nh số 4486/TTr-UBND ng�y 22 th�ng 11 năm 2025 v� B�o c�o
-tiếp thu số 4723/BC-UBND ng�y 08 th�ng 12 năm 2025 của
-Ủy ban nh�n d�n tỉnh; B�o c�o thẩm tra số
-292/BC-HĐND ng�y 08 th�ng 12 năm 2025 của Ban Kinh tế -
-Ng�n s�ch Hội đồng nh�n d�n tỉnh v� � kiến
+Xãt
+Tờ trình số 4486/TTr-UBND ngày 22 tháng 11 năm 2025 và Bảo cơo
+tiếp thu số 4723/BC-UBND ngày 08 tháng 12 năm 2025 của
+Ủy ban nhân dân tỉnh; Bảo cơo thẩm tra số
+292/BC-HĐND ngày 08 tháng 12 năm 2025 của Ban Kinh tế -
+Ngn sách Hội đồng nhân dân tỉnh và  kiến
 thảo luận của đại biểu Hội
-đồng nh�n d�n tỉnh tại kỳ họp.
+đồng nhân dân tỉnh tại kỳ họp.
 
 Hội
-đồng nh�n d�n tỉnh ban h�nh Nghị quyết quy
-định nội dung, mức chi phục vụ cho c�ng t�c
+đồng nhân dân tỉnh ban hành Nghị quyết quy
+định nội dung, mức chi phục vụ cho công tác
 tổ chức bầu cử đại biểu Quốc
-hội kh�a XVI v� bầu cử đại biểu Hội
-đồng nh�n d�n c�c cấp tỉnh Quảng Ninh, nhiệm
+hội khóa XVI và bầu cử đại biểu Hội
+đồng nhân dân các cấp tỉnh Quảng Ninh, nhiệm
 kỳ 2026 - 2031.
 
-Điều 1. Đối tượng �p
+Điều 1. Đối tượng p
 dụng
 
 Cơ
 quan, đơn vị, địa phương, tổ
-chức, c� nh�n c� li�n quan đến sử dụng nguồn
-kinh ph� phục vụ cho c�ng t�c tổ chức bầu
-cử đại biểu Quốc hội kh�a XVI v� bầu
-cử đại biểu Hội đồng nh�n d�n c�c
+chức, cơ nhân cơ liên quan đến sử dụng nguồn
+kinh phụ phục vụ cho công tác tổ chức bầu
+cử đại biểu Quốc hội khóa XVI và bầu
+cử đại biểu Hội đồng nhân dân các
 cấp tỉnh Quảng Ninh, nhiệm kỳ 2026-2031.
 
 Điều 2. Quy định chung
 
 1. Kinh
-ph� phục vụ cho c�ng t�c bầu cử phải
-được c�c cơ quan, đơn vị quản l�
-chặt chẽ, chi ti�u theo đ�ng chế độ,
-đ�ng mục đ�ch, c� hiệu quả, c�ng khai, minh
-bạch, kh�ng tr�ng lắp; tăng cường ứng
-dụng c�ng nghệ th�ng tin, khoa học, c�ng nghệ,
-đổi mới s�ng tạo, chuyển đổi số
-để phục vụ cho c�ng t�c tổ chức bầu
-cử; sử dụng triệt để, tối đa c�c
-phương tiện, thiết bị phục vụ c�c
-cuộc bầu cử trước đ�y hiện c�n c�
-thể sử dụng được v� huy động c�c
-phương tiện hiện c� của cơ quan, đơn
-vị cho c�ng t�c bầu cử đảm bảo tiết
-kiệm chi cho ng�n s�ch nh� nước.
+phụ phục vụ cho công tác bầu cử phải
+được các cơ quan, đơn vị quản lã
+chặt chẽ, chi tiêu theo đồng chế độ,
+đồng mục đích, cơ hiệu quả, công khai, minh
+bạch, không trậng lắp; tăng cường ứng
+dụng công nghệ tháng tin, khoa học, công nghệ,
+đổi mới sứng tạo, chuyển đổi số
+để phục vụ cho công tác tổ chức bầu
+cử; sử dụng triệt để, tối đa các
+phương tiện, thiết bị phục vụ các
+cuộc bầu cử trước đẩy hiện cơn cơ
+thể sử dụng được và huy động các
+phương tiện hiện cơ của cơ quan, đơn
+vị cho công tác bầu cử đảm bảo tiết
+kiệm chi cho ngn sách nhà nước.
 
-2. C�ng
-với kinh ph� do ng�n s�ch trung ương hỗ trợ v� ng�n
-s�ch tỉnh đảm bảo, căn cứ t�nh h�nh
-thực tế, y�u cầu c�ng việc v� khả năng c�n
-đối của ng�n s�ch địa phương, Ủy
-ban nh�n d�n c�c cấp thống nhất với Ủy ban
-bầu cử v� Thường trực Hội đồng
-nh�n d�n c�ng cấp xem x�t, quyết định bổ sung kinh
-ph� từ ng�n s�ch cấp m�nh để phục vụ cho
-c�ng t�c bầu cử đảm bảo tiết kiệm,
-hiệu quả; b�o c�o Hội đồng nh�n d�n c�ng cấp
+2. Công
+với kinh phụ do ngn sách trung ương hỗ trợ và ngn
+sách tỉnh đảm bảo, căn cứ tỉnh hành
+thực tế, yêu cầu công việc và khả năng cơn
+đối của ngn sách địa phương, Ủy
+ban nhân dân các cấp thống nhất với Ủy ban
+bầu cử và Thường trực Hội đồng
+nhân dân công cấp xem xãt, quyết định bổ sung kinh
+phụ từ ngn sách cấp mnh để phục vụ cho
+công tác bầu cử đảm bảo tiết kiệm,
+hiệu quả; bảo cơo Hội đồng nhân dân công cấp
 tại kỳ họp gần nhất.
 
-Điều 3. Nội dung v� mức chi
+Điều 3. Nội dung và mức chi
 
 1. Chi
-x�y dựng văn bản phục vụ cho c�ng t�c bầu
+xãy dựng văn bản phục vụ cho công tác bầu
 cử:
 
 a) Chi
-x�y dựng c�c văn bản quy phạm ph�p luật:
-Thực hiện theo quy định tại Th�ng tư số
-338/2016/TT-BTC ng�y 28 th�ng 12 năm 2016 của Bộ T�i ch�nh,
-Th�ng tư số 42/2022/TT-BTC ng�y 06 th�ng 7 năm 2022 của
-Bộ T�i ch�nh, sửa đổi, bổ sung một số
-điều của Th�ng tư số 338/2016/TT-BTC ng�y 28 th�ng
-12 năm 2016 của Bộ trưởng Bộ T�i ch�nh quy
-định lập dự to�n, quản l�, sử dụng v�
-quyết to�n kinh ph� ng�n s�ch nh� nước bảo
-đảm cho c�ng t�c x�y dựng văn bản quy phạm
-ph�p luật v� ho�n thiện hệ thống ph�p luật;
-Nghị quyết số 17/2023/NQ-HĐND ng�y 12 th�ng 7 năm
-2023 của Hội đồng nh�n d�n tỉnh quy
-định mức ph�n bổ ng�n s�ch nh� nước bảo
-đảm cho c�ng t�c x�y dựng văn bản quy phạm
-ph�p luật v� hệ thống ph�p luật tr�n địa b�n
+xãy dựng các văn bản quy phạm pháp luật:
+Thực hiện theo quy định tại Tháng tư số
+338/2016/TT-BTC ngày 28 tháng 12 năm 2016 của Bộ Tỷi chính,
+Tháng tư số 42/2022/TT-BTC ngày 06 tháng 7 năm 2022 của
+Bộ Tỷi chính, sửa đổi, bổ sung một số
+điều của Tháng tư số 338/2016/TT-BTC ngày 28 tháng
+12 năm 2016 của Bộ trưởng Bộ Tỷi chính quy
+định lập dự ton, quản lã, sử dụng và
+quyết ton kinh phụ ngn sách nhà nước bảo
+đảm cho công tác xãy dựng văn bản quy phạm
+pháp luật và hòan thiện hệ thống pháp luật;
+Nghị quyết số 17/2023/NQ-HĐND ngày 12 tháng 7 năm
+2023 của Hội đồng nhân dân tỉnh quy
+định mức phân bổ ngn sách nhà nước bảo
+đảm cho công tác xãy dựng văn bản quy phạm
+pháp luật và hệ thống pháp luật địa bàn
 tỉnh Quảng Ninh.
 
 b) Chi
-x�y dựng c�c văn bản (kh�ng phải l� văn bản
-quy phạm ph�p luật) do Ủy ban nh�n d�n tỉnh, Ủy
-ban Mặt trận Tổ quốc Việt Nam tỉnh; c�c
-cơ quan, đơn vị, sở, ng�nh; Ủy ban nh�n d�n
-cấp x�, Ủy ban Mặt trận Tổ quốc cấp
-x�, c�c cơ quan chuy�n m�n cấp x� ban h�nh để thực
-hiện c�ng t�c bầu cử (kế hoạch, chỉ
-thị, quyết định th�nh lập Ủy ban bầu
-cử, Ban bầu cử; quyết định ph� duyệt
-dự to�n, ph�n bổ kinh ph�, quyết to�n kinh ph� bầu
-cử), t�nh cho sản phẩm cuối c�ng, bao gồm
-cả tiếp thu, chỉnh l�:
+xãy dựng các văn bản (không phải lã văn bản
+quy phạm pháp luật) do Ủy ban nhân dân tỉnh, Ủy
+ban Mặt trận Tổ quốc Việt Nam tỉnh; các
+cơ quan, đơn vị, sở, ngnh; Ủy ban nhân dân
+cấp xã, Ủy ban Mặt trận Tổ quốc cấp
+xã, các cơ quan chuyên môn cấp xã ban hành để thực
+hiện công tác bầu cử (kế hoạch, chỉ
+thị, quyết định thành lập Ủy ban bầu
+cử, Ban bầu cử; quyết định phụ duyệt
+dự ton, phân bổ kinh phụ, quyết ton kinh phụ bầu
+cử), tỉnh cho sản phẩm cuối công, bao gồm
+cả tiếp thu, chỉnh lã:
 
-- X�y
+- Xãy
 dựng văn bản cấp tỉnh: 3.000.000
 đồng/văn bản;
 
-- X�y
-dựng văn bản cấp x�: 2.000.000 đồng/văn
+- Xãy
+dựng văn bản cấp xã: 2.000.000 đồng/văn
 bản.
 
-c) C�c
-văn bản kh�c do Ủy ban nh�n d�n tỉnh, Ủy ban
-Mặt trận Tổ quốc Việt Nam tỉnh; c�c cơ
-quan, đơn vị, sở, ng�nh; Ủy ban nh�n d�n cấp
-x�, Ủy ban Mặt trận Tổ quốc cấp x�, c�c
-cơ quan chuy�n m�n cấp x� ban h�nh để thực
-hiện c�ng t�c bầu cử (quyết định th�nh
+c) Các
+văn bản khồc do Ủy ban nhân dân tỉnh, Ủy ban
+Mặt trận Tổ quốc Việt Nam tỉnh; các cơ
+quan, đơn vị, sở, ngnh; Ủy ban nhân dân cấp
+xã, Ủy ban Mặt trận Tổ quốc cấp xã, các
+cơ quan chuyên môn cấp xã ban hành để thực
+hiện công tác bầu cử (quyết định thành
 lập Tổ bầu cử; văn bản chỉ
-đạo hướng dẫn c�ng t�c bầu cử), t�nh
-cho sản phẩm cuối c�ng, bao gồm cả tiếp
-thu, chỉnh l�:
+đạo hướng dẫn công tác bầu cử), tỉnh
+cho sản phẩm cuối công, bao gồm cả tiếp
+thu, chỉnh lã:
 
-- X�y
+- Xãy
 dựng văn bản cấp tỉnh: 1.500.000
 đồng/văn bản;
 
-- X�y
-dựng văn bản cấp x�: 1.000.000 đồng/văn
+- Xãy
+dựng văn bản cấp xã: 1.000.000 đồng/văn
 bản.
 
-d) B�o
-c�o tổng kết c�ng t�c bầu cử, t�nh cho sản
-phẩm cuối c�ng, bao gồm cả tiếp thu, chỉnh
-l�:
+d) Bảo
+cơo tổng kết công tác bầu cử, tỉnh cho sản
+phẩm cuối công, bao gồm cả tiếp thu, chỉnh
+lã:
 
-- X�y
+- Xãy
 dựng văn bản cấp tỉnh: 4.000.000
-đồng/b�o c�o;
+đồng/bảo cơo;
 
-- X�y
-dựng văn bản cấp x�: 2.800.000 đồng/b�o c�o.
+- Xãy
+dựng văn bản cấp xã: 2.800.000 đồng/bảo cơo.
 
 2. Chi
-in ấn t�i liệu, ấn phẩm phục vụ bầu
+in ấn tỷi liệu, ấn phẩm phục vụ bầu
 cử:
 
-a) T�i
+a) Tỷi
 liệu, ấn phẩm phục vụ bầu cử
-gồm: C�c khẩu hiệu, băng r�n, �p ph�ch, tranh cổ
-động ở c�c cụm trung t�m của tỉnh; mẫu
-trang tr� ở c�c ph�ng bỏ phiếu; thẻ cử tri; danh
-s�ch cử tri; phiếu bầu cử; giấy chứng
-nhận bỏ phiếu nơi kh�c; danh s�ch ứng cử,
-tiểu sử ứng cử vi�n đại biểu
-Quốc hội v� đại biểu Hội đồng
-nh�n d�n; hồ sơ ứng cử đại biểu
-Quốc hội, đại biểu Hội đồng nh�n
-d�n; Quốc huy, ph� hiệu tổ bầu cử; Luật
-Bầu cử; Luật Tổ chức ch�nh quyền
-địa phương; giấy mời tổ chức c�c
+gồm: Các khẩu hiệu, băng rn, p phúch, tranh cổ
+động ở các cụm trung tỷm của tỉnh; mẫu
+trang trì ở các phòng bỏ phiếu; thẻ cử tri; danh
+sách cử tri; phiếu bầu cử; giaấy chứng
+nhận bỏ phiếu nơi khồc; danh sách ứng cử,
+tiểu sử ứng cử vin đại biểu
+Quốc hội và đại biểu Hội đồng
+nhân dân; hồ sơ ứng cử đại biểu
+Quốc hội, đại biểu Hội đồng nhân
+dân; Quốc huy, phụ hiệu tổ bầu cử; Luật
+Bầu cử; Luật Tổ chức chính quyền
+địa phương; giaấy mời tổ chức các
 hội nghị; ảnh thẻ cho người ứng
-cử đại biểu Quốc hội v� đại
-biểu Hội đồng nh�n d�n; biển ghi t�n, ghi
-chức danh để b�n trong ph�ng bỏ phiếu; giấy
-chứng nhận đại biểu tr�ng cử; ph� hiệu
-đeo của đại biểu. C�c văn bản
-hướng dẫn bầu cử; t�i liệu học
-tập về thể lệ bầu cử d�ng cho Tổ
-bầu cử v� hộ d�n; nội quy ph�ng bầu cử;
-diễn văn khai mạc sử dụng cho c�c tổ
-bầu cử; mũi t�n chỉ lối ra v�o ph�ng bỏ
-phiếu; bi�n bản thống k� phiếu hỏng, phiếu
-kh�ng sử dụng; bi�n bản kiểm phiếu; băng
-r�n, khẩu hiệu, cờ; văn ph�ng phẩm.
+cử đại biểu Quốc hội và đại
+biểu Hội đồng nhân dân; biển ghi tỷn, ghi
+chức danh để bản trong phòng bỏ phiếu; giaấy
+chứng nhận đại biểu trậng cử; phụ hiệu
+đeo của đại biểu. Các văn bản
+hướng dẫn bầu cử; tỷi liệu học
+tập về thể lệ bầu cử dâng cho Tổ
+bầu cử và hộ dân; nội quy phòng bầu cử;
+diễn văn khai mạc sử dụng cho các tổ
+bầu cử; mũi tỷn chỉ lối ra vào phòng bỏ
+phiếu; biên bản thống k phiếu hỏng, phiếu
+không sử dụng; biên bản kiểm phiếu; băng
+rn, khẩu hiệu, cờ; văn phòng phẩm.
 
 b)
-Mức chi: Thanh to�n theo số lượng, nhu cầu ph�t
-sinh thực tế, tr�n cơ sở hồ sơ, chứng
-từ thanh to�n hợp ph�p, hợp lệ, quy tr�nh thủ
-tục hiện h�nh về đấu thầu (trường
-hợp phải đấu thầu) v� trong phạm vi dự
-to�n kinh ph� được cơ quan c� thẩm quyền
-quyết định ph�n bổ.
+Mức chi: Thanh ton theo số lượng, nhu cầu phát
+sinh thực tế, trận cơ sở hồ sơ, chứng
+từ thanh ton hợp pháp, hợp lệ, quy trình thủ
+tục hiện hành về đấu thầu (trường
+hợp phải đấu thầu) và trong phạm vi dự
+ton kinh phụ được cơ quan cơ thẩm quyền
+quyết định phân bổ.
 
 3. Chi
-tổ chức hội nghị phục vụ c�ng t�c bầu
+tổ chức hội nghị phục vụ công tác bầu
 cử:
 
-a) C�c
-hội nghị gồm: Hội nghị triển khai c�ng t�c
+a) Các
+hội nghị gồm: Hội nghị triển khai công tác
 bầu cử, hội nghị trực tuyến, hội
 nghị hiệp thương, hội nghị cử tri,
-hội nghị tiếp x�c cử tri, vận động
+hội nghị tiếp xãc cử tri, vận động
 bầu cử; hội nghị tập huấn, hội
 nghị giao ban, hội nghị tổng kết, khen
-thưởng do c�c cơ quan, đơn vị của
+thưởng do các cơ quan, đơn vị của
 địa phương được giao tổ chức.
 
 b)
 Mức chi: Thực hiện theo quy định tại
-Nghị quyết số 62/2025/NQ-HĐND ng�y 17 th�ng 7 năm
-2025 của Hội đồng nh�n d�n tỉnh về quy
-định mức chi c�ng t�c ph�, chi hội nghị
-đối với c�c cơ quan nh� nước, đơn
-vị sự nghiệp c�ng lập, tổ chức ch�nh
-trị - x� hội, c�c tổ chức hội sử dụng
-kinh ph� do ng�n s�ch nh� nước hỗ trợ thuộc
-phạm vi quản l� của tỉnh Quảng Ninh; ri�ng
+Nghị quyết số 62/2025/NQ-HĐND ngày 17 tháng 7 năm
+2025 của Hội đồng nhân dân tỉnh về quy
+định mức chi công tác phụ, chi hội nghị
+đối với các cơ quan nhà nước, đơn
+vị sự nghiệp công lập, tổ chức chính
+trị - xã hội, các tổ chức hội sử dụng
+kinh phụ do ngn sách nhà nước hỗ trợ thuộc
+phạm vi quản lã của tỉnh Quảng Ninh; riứng
 đối với hội nghị tập huấn thực
-hiện theo quy định tại Th�ng tư số
-100/2025/TT-BTC ng�y 28 th�ng 10 năm 2025 của Bộ T�i ch�nh
+hiện theo quy định tại Tháng tư số
+100/2025/TT-BTC ngày 28 tháng 10 năm 2025 của Bộ Tỷi chính
 hướng dẫn quy định về lập dự
-to�n, quản l�, sử dụng v� quyết to�n kinh ph� d�nh cho
-đ�o tạo, bồi dưỡng c�n bộ, c�ng chức,
-vi�n chức v� Nghị quyết số 138/2018/NQ-HĐND ng�y 07
-th�ng 12 năm 2018 của Hội đồng nh�n d�n tỉnh
-quy định mức chi đ�o tạo, bồi
-dưỡng c�n bộ c�ng chức, vi�n chức trong
-nước tr�n địa b�n tỉnh Quảng Ninh.
+ton, quản lã, sử dụng và quyết ton kinh phụ dânh cho
+đảo tạo, bồi dưỡng cơn bộ, công chức,
+vin chức và Nghị quyết số 138/2018/NQ-HĐND ngày 07
+tháng 12 năm 2018 của Hội đồng nhân dân tỉnh
+quy định mức chi đảo tạo, bồi
+dưỡng cơn bộ công chức, vin chức trong
+nước địa bàn tỉnh Quảng Ninh.
 
 4. Chi
-bồi dưỡng c�c cuộc họp phục vụ
+bồi dưỡng các cuộc họp phục vụ
 bầu cử của Ủy ban bầu cử, Ban bầu
 cử, Tổ bầu cử:
 
@@ -2882,21 +2881,21 @@ a)
 Cấp tỉnh:
 
 -
-Chủ tr� cuộc họp: 500.000
+Chủ trì cuộc họp: 500.000
 đồng/người/buổi;
 
-- Th�nh
-vi�n tham dự: 200.000 đồng/người/buổi;
+- Thành
+vin tham dự: 200.000 đồng/người/buổi;
 
-- C�c
+- Các
 đối tượng phục vụ: 100.000
 đồng/người/buổi.
 
 b)
-Cấp x�:
+Cấp xã:
 
 -
-Chủ tr� cuộc họp: 350.00
+Chủ trì cuộc họp: 350.00
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -2918,7 +2917,7 @@ DS 35 SƠ BỘ
 ════════════════════════════════════════════════════════════════════════════════
 AutoBVT
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  5
  2026-02-09T14:20:00Z
@@ -2954,98 +2953,98 @@ AutoBVT
  BAN THƯỜNG
  TRỰC
 
- Số:�������� /HD-
+ Số: /HD-
  MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ CỘNG HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
  Độc lập
- � Tự do � Hạnh ph�c
+  Tự do  Hạnh phúc
 
- �� Quảng Ninh, ng�y���� th�ng 11 năm 2025
+  Quảng Ninh, ngày tháng 11 năm 2025
 
 HƯỚNG DẪN
 
-Quy tr�nh hiệp thương,
+Quy trình hiệp thương,
 giới thiệu người ứng cử đại
 biểu Quốc hội
 
-�kh�a XVI, đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031
+khóa XVI, đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026 - 2031
 
 của Ủy ban Mặt trận Tổ quốc Việt Nam
-c�c cấp tỉnh Quảng Ninh
+các cấp tỉnh Quảng Ninh
 
-Căn cứ Hiến ph�p nước
-CHXHCN Việt Nam đ� được sửa đổi,
+Căn cứ Hiến pháp nước
+CHXHCN Việt Nam đã được sửa đổi,
 bổ sung một số điều theo Nghị quyết
 số 203/2025/QH15;
 
 Căn cứ Luật Bầu cử
-đại biểu Quốc hội v� dại biểu
-Hội đồng nh�n d�n số 85/2015/QH13 đ�
+đại biểu Quốc hội và dại biểu
+Hội đồng nhân dân số 85/2015/QH13 đã
 được sửa đổi, bổ sung một số
 điều theo Luật số 83/2025/QH15;
 
-Căn cứ Nghị quyết số 101/2025/UBTVQH15, ng�y 26/9/2025
+Căn cứ Nghị quyết số 101/2025/UBTVQH15, ngày 26/9/2025
 của Ủy ban Thường vụ Quốc hội quy
 định chi tiết, hướng dẫn việc tổ
 chức hội nghị cử tri; việc giới thiệu
 người ứng cử đại biểu Hội
-đồng nh�n d�n cấp x� ở th�n, tổ d�n phố;
+đồng nhân dân cấp xã ở thôn, tổ dân phố;
 việc hiệp thương, giới thiệu người
-ứng cử đại biểu, lập danh s�ch
+ứng cử đại biểu, lập danh sách
 người ứng cử đại biểu Quốc
-hội, đại biểu Hội đồng nh�n d�n trong
+hội, đại biểu Hội đồng nhân dân trong
 bầu cử bổ sung
 
-Căn cứ Nghị quyết li�n
-tịch số 102/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN ng�y 26 th�ng
+Căn cứ Nghị quyết liên
+tịch số 102/2025/NQLT/UBTVQH15-CP- ĐCTUBTWMTTQVN ngày 26 tháng
 9 năm 2025 giữa Ủy ban Thường vụ Quốc
-hội, Ch�nh phủ, Đo�n Chủ tịch Ủy ban Trung
+hội, Chính phủ, Đoàn Chủ tịch Ủy ban Trung
 ương Mặt trận Tổ quốc Việt Nam
-hướng dẫn quy tr�nh hiệp thương, giới
+hướng dẫn quy trình hiệp thương, giới
 thiệu người ứng cử đại biểu
-Quốc hội kh�a XVI, đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031;
+Quốc hội khóa XVI, đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026 - 2031;
 
-Căn cứ Nghị quyết 40/NQ-HĐBCQG ng�y 29/9/2025 của Hội
+Căn cứ Nghị quyết 40/NQ-HĐBCQG ngày 29/9/2025 của Hội
 đồng Bầu cử quốc gia Quy định mẫu
-văn bản hồ sơ ứng cử, nội quy ph�ng
-bỏ phiếu sử dụng trong c�ng t�c bầu cử
-đại biểu Quốc hội kh�a XVI v� đại
-biểu Hội đồng nh�n d�n c�c cấp nhiệm
+văn bản hồ sơ ứng cử, nội quy phòng
+bỏ phiếu sử dụng trong công tác bầu cử
+đại biểu Quốc hội khóa XVI và đại
+biểu Hội đồng nhân dân các cấp nhiệm
 kỳ 2026-2031;
 
-Căn cứ Th�ng
-tư số 21/2025/TT - BNV, ng�y 12/10/2025 của Bộ Nội
-vụ, Hướng dẫn nghiệp vụ c�ng t�c tổ
+Căn cứ Tháng
+tư số 21/2025/TT - BNV, ngày 12/10/2025 của Bộ Nội
+vụ, Hướng dẫn nghiệp vụ công tác tổ
 chức bầu cử đại biểu Quốc hội
-kho� XVI v� đại biểu Hội đồng nh�n d�n c�c
+khòa XVI và đại biểu Hội đồng nhân dân các
 cấp nhiệm kỳ 2026-2031.
 
 Ban Thường trực Ủy ban Mặt
 trận Tổ quốc Việt Nam tỉnh Quảng Ninh
-hướng dẫn Quy tr�nh hiệp thương, giới
+hướng dẫn Quy trình hiệp thương, giới
 thiệu người ứng cử đại biểu
-Quốc hội kh�a XVI v� đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031
+Quốc hội khóa XVI và đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026 - 2031
 của Ủy ban Mặt trận Tổ quốc Việt Nam
-c�c cấp tỉnh Quảng Ninh như sau:
+các cấp tỉnh Quảng Ninh như sau:
 
 BƯỚC MỘT
 
 Tổ
 chức hội nghị hiệp thương lần thứ
 nhất để thoả thuận về cơ cấu,
-th�nh phần, số lượng người ứng cử
+thành phần, số lượng người ứng cử
 đại biểu Quốc hội, 
 
 đại
-biểu Hội đồng nh�n d�n
+biểu Hội đồng nhân dân
 
 (Thực hiện từ
-ng�y 01/12 đến ng�y 10/12/2025)
+ngày 01/12 đến ngày 10/12/2025)
 
 A.
 ĐỐI VỚI VIỆC HIỆP THƯƠNG, GIỚI
@@ -3056,196 +3055,196 @@ HỘI
 
 Hội nghị hiệp thương
 lần thứ nhất thoả thuận về cơ
-cấu, th�nh phần, số lượng người
+cấu, thành phần, số lượng người
 của cơ quan, tổ chức, đơn vị của tỉnh
 Quảng Ninh được giới thiệu ứng cử
-đại biểu Quốc hội tr�n cơ sở dự
+đại biểu Quốc hội trận cơ sở dự
 kiến của Ủy ban Thường vụ Quốc
 hội theo quy định tại Điều 39 của
-Luật số 85/2015/QH13 ng�y 25/6/2015 của Quốc hội
+Luật số 85/2015/QH13 ngày 25/6/2015 của Quốc hội
 13 về Bầu cử đại biểu Quốc hội
-v� đại biểu Hội đồng nh�n d�n.
+và đại biểu Hội đồng nhân dân.
 
-I. TH�NH PHẦN HỘI NGHỊ
+I. THồNH PHẦN HỘI NGHỊ
 
 Ban Thường trực Ủy ban Mặt
 trận Tổ quốc Việt Nam tỉnh Quảng Ninh
-triệu tập v� chủ tr� hội nghị.
+triệu tập và chủ trì hội nghị.
 
-Th�nh phần hội
+Thành phần hội
 nghị theo Khoản 1, Điều 39 Luật bầu cử
-đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n gồm: Ban Thường trực Ủy
+đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân gồm: Ban Thường trực Ủy
 ban Mặt trận Tổ quốc Việt Nam tỉnh
-Quảng Ninh, đại diện ban l�nh đạo c�c
-tổ chức th�nh vi�n c�ng cấp v� đại diện Ban
+Quảng Ninh, đại diện ban lĩnh đạo các
+tổ chức thành vin công cấp và đại diện Ban
 Thường trực Ủy ban Mặt trận Tổ
-quốc Việt Nam 54 x�, phường, đặc khu
+quốc Việt Nam 54 xã, phường, đặc khu
 thuộc tỉnh Quảng Ninh.
 
 Mời đại diện Ủy ban
 bầu cử tỉnh, Thường trực Hội
-đồng nh�n d�n v� Ủy ban nh�n d�n tỉnh tham dự
+đồng nhân dân và Ủy ban nhân dân tỉnh tham dự
 hội nghị.
 
-II. NỘI DUNG, TR�NH TỰ, THỦ
+II. NỘI DUNG, TRNH TỰ, THỦ
 TỤC
 
 1. 
 Hội
 nghị cử chủ tọa trong Ban Thường trực Ủy
 ban Mặt trận Tổ quốc Việt Nam tỉnh
-Quảng Ninh v� thư k� hội nghị.
+Quảng Ninh và thư k hội nghị.
 
 2. 
 Đại
-diện Thường trực Hội đồng nh�n d�n tỉnh
-tr�nh b�y dự kiến của Ủy ban Thường vụ
-Quốc hội về cơ cấu, th�nh phần, số
-lượng người của tổ chức ch�nh
+diện Thường trực Hội đồng nhân dân tỉnh
+trình bày dự kiến của Ủy ban Thường vụ
+Quốc hội về cơ cấu, thành phần, số
+lượng người của tổ chức chính
 trị, Ủy ban Mặt trận Tổ quốc Việt
-Nam, tổ chức ch�nh trị - x� hội, tổ chức x�
-hội, cơ quan nh� nước, đơn vị vũ
-trang nh�n d�n ở tỉnh được giới thiệu
+Nam, tổ chức chính trị - xã hội, tổ chức xã
+hội, cơ quan nhà nước, đơn vị vũ
+trang nhân dân ở tỉnh được giới thiệu
 ứng cử đại biểu Quốc hội.
 
 3. 
 Hội
 nghị thảo luận để thoả thuận về
-cơ cấu, th�nh phần, số lượng người
+cơ cấu, thành phần, số lượng người
 được giới thiệu ứng cử đại
 biểu Quốc hội của từng cơ quan, tổ
 chức, đơn vị, bảo đảm số dư
 người ứng cử, tỉ lệ người
-ứng cử đại biểu Quốc hội l� phụ
-nữ, người d�n tộc thiểu số theo quy
+ứng cử đại biểu Quốc hội lã phụ
+nữ, người dân tộc thiểu số theo quy
 định của Luật bầu cử đại
-biểu Quốc hội v� đại biểu Hội
-đồng nh�n d�n.
+biểu Quốc hội và đại biểu Hội
+đồng nhân dân.
 
-Trường hợp kh�ng thoả
-thuận được vấn đề n�o th� hội
-nghị quyết định biểu quyết bằng h�nh
-thức giơ tay hoặc bỏ phiếu k�n. Hội
+Trường hợp không thoả
+thuận được vấn đề nào thủ hội
+nghị quyết định biểu quyết bằng hành
+thức giaơ tay hoặc bỏ phiếu kín. Hội
 nghị cử Tổ kiểm phiếu gồm từ 05
 đến 15 người. Trường hợp quyết
-định biểu quyết bằng h�nh thức bỏ
-phiếu k�n th� phiếu biểu quyết phải đ�ng
+định biểu quyết bằng hành thức bỏ
+phiếu kín thủ phiếu biểu quyết phải đồng
 dấu của Ủy ban Mặt trận Tổ quốc
-Việt Nam tỉnh Quảng Ninh. Chỉ c�c đại
-biểu thuộc th�nh phần hiệp thương c�
+Việt Nam tỉnh Quảng Ninh. Chỉ các đại
+biểu thuộc thành phần hiệp thương cơ
 mặt tại hội nghị mới được
 quyền biểu quyết.
 
 4. 
 Hội
-nghị th�ng qua bi�n bản (theo mẫu số 01/BCĐBQH-MT
-gửi k�m theo hướng dẫn n�y).
+nghị tháng qua biên bản (theo mẫu số 01/BCĐBQH-MT
+gửi km theo hướng dẫn này).
 
 5. 
-Bi�n bản
+Biên bản
 hội nghị hiệp thương ở Tỉnh phải
-ghi r� th�nh phần, số lượng người tham
-dự, diễn biến, kết quả hội nghị v�
+ghi r thành phần, số lượng người tham
+dự, diễn biến, kết quả hội nghị và
 được gửi ngay đến Hội đồng
 bầu cử quốc gia, Uỷ ban thường vụ
 Quốc hội, Ban Thường trực Ủy ban Trung
-ương Mặt trận Tổ quốc Việt Nam v� Ủy
+ương Mặt trận Tổ quốc Việt Nam và Ủy
 ban bầu cử tỉnh Quảng Ninh theo khoản 3
 điều 39 Luật bầu cử đại biểu
-Quốc hội v� đại biểu Hội đồng
-nh�n d�n.
+Quốc hội và đại biểu Hội đồng
+nhân dân.
 
 6. 
 Căn cứ
-v�o kết quả hiệp thương lần thứ
-nhất, chậm nhất l� ng�y 15 th�ng 12 năm 2025, Ủy
-ban Thường vụ Quốc hội tiến h�nh
+vào kết quả hiệp thương lần thứ
+nhất, chậm nhất lã ngày 15 tháng 12 năm 2025, Ủy
+ban Thường vụ Quốc hội tiến hành
 điều chỉnh lần thứ nhất cơ cấu,
-th�nh phần, số lượng người của cơ
+thành phần, số lượng người của cơ
 quan, tổ chức, đơn vị ở trung ương
-v� Tỉnh được giới thiệu ứng cử
+và Tỉnh được giới thiệu ứng cử
 đại biểu Quốc hội theo quy định
 tại Điều 40 của Luật bầu cử
-đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n. Văn bản điều
+đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân. Văn bản điều
 chỉnh được gửi ngay đến Ủy ban Mặt
 trận Tổ quốc Việt Nam cấp tổ chức
 hội nghị hiệp thương.
 
-Tr�n cơ sở điều chỉnh
+Trận cơ sở điều chỉnh
 lần thứ nhất của Ủy ban Thường
-vụ Quốc hội về cơ cấu, th�nh phần,
-số lượng người của c�c cơ quan, tổ
+vụ Quốc hội về cơ cấu, thành phần,
+số lượng người của các cơ quan, tổ
 chức, đơn vị tỉnh Quảng Ninh
 được giới thiệu ứng cử đại
 biểu Quốc hội, Ban Thường trực Ủy ban Mặt
-trận Tổ quốc Việt Nam tỉnh Quảng Ninh c�
-tr�ch nhiệm th�ng b�o đến c�c cơ quan, tổ
-chức, đơn vị được ph�n bổ số
+trận Tổ quốc Việt Nam tỉnh Quảng Ninh cơ
+trách nhiệm thông báo đến các cơ quan, tổ
+chức, đơn vị được phân bổ số
 lượng người được giới thiệu ứng
-cử đại biểu Quốc hội v� hướng
-dẫn về nội dung, tr�nh tự, thủ tục
-giới thiệu người ứng cử, l�m hồ
+cử đại biểu Quốc hội và hướng
+dẫn về nội dung, trình tự, thủ tục
+giới thiệu người ứng cử, làm hồ
 sơ ứng cử theo quy định của Luật
-bầu cử đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n, Nghị quyết
+bầu cử đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân, Nghị quyết
 số 101/2025/UBTVQH15 của Uỷ ban Thường vụ
-Quốc hội v� Chương II của Nghị quyết
-li�n tịch số 102/2025/NQLT- UBTVQH15-CP-ĐCTUBTWMTTQVN.
+Quốc hội và Chương II của Nghị quyết
+liên tịch số 102/2025/NQLT- UBTVQH15-CP-ĐCTUBTWMTTQVN.
 
 B. ĐỐI VỚI VIỆC HIỆP
 THƯƠNG, GIỚI THIỆU 
 
 NGƯỜI ỨNG ĐẠI BIỂU
-HỘI ĐỒNG NH�N D�N
+HỘI ĐỒNG NHồN DựN
 
 Hội nghị hiệp thương
 lần thứ nhất ở Tỉnh thỏa thuận
-về cơ cấu, th�nh phần, số lượng
+về cơ cấu, thành phần, số lượng
 người được giới thiệu ứng cử
-đại biểu Hội đồng nh�n d�n tỉnh
-của tổ chức ch�nh trị, Ủy ban Mặt
-trận Tổ quốc Việt Nam, tổ chức ch�nh
-trị - x� hội, tổ chức x� hội, đơn
-vị vũ trang nh�n d�n, cơ quan nh� nước c�ng
-cấp v� của đơn vị sự nghiệp, tổ
-chức kinh tế, c�c đơn vị h�nh ch�nh cấp dưới
-tr�n địa b�n theo khoản 2, Điều 50 của
-Luật bầu cử đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n.
+đại biểu Hội đồng nhân dân tỉnh
+của tổ chức chính trị, Ủy ban Mặt
+trận Tổ quốc Việt Nam, tổ chức chính
+trị - xã hội, tổ chức xã hội, đơn
+vị vũ trang nhân dân, cơ quan nhà nước công
+cấp và của đơn vị sự nghiệp, tổ
+chức kinh tế, các đơn vị hành chính cấp dưới
+địa bàn theo khoản 2, Điều 50 của
+Luật bầu cử đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân.
 
 Hội nghị hiệp thương
-lần thứ nhất ở phường, x�, đặc
-khu (sau đ�y gọi chung l� cấp x�) thỏa thuận
-về cơ cấu, th�nh phần, số lượng
+lần thứ nhất ở phường, xã, đặc
+khu (sau đẩy gọi chung lã cấp xã) thỏa thuận
+về cơ cấu, thành phần, số lượng
 người được giới thiệu ứng cử
-đại biểu Hội đồng nh�n d�n cấp x�
-của tổ chức ch�nh trị, Ủy ban Mặt
-trận Tổ quốc Việt Nam, tổ chức ch�nh
-trị - x� hội, tổ chức x� hội, đơn
-vị vũ trang nh�n d�n, cơ quan nh� nước c�ng
-cấp v� của đơn vị sự nghiệp, tổ
-chức kinh tế, th�n, tổ d�n phố tr�n địa b�n
+đại biểu Hội đồng nhân dân cấp xã
+của tổ chức chính trị, Ủy ban Mặt
+trận Tổ quốc Việt Nam, tổ chức chính
+trị - xã hội, tổ chức xã hội, đơn
+vị vũ trang nhân dân, cơ quan nhà nước công
+cấp và của đơn vị sự nghiệp, tổ
+chức kinh tế, thôn, tổ dân phố địa bàn
 theo khoản 3, Điều 50 của Luật bầu cử
-đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n.
+đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân.
 
 I. 
-TH�NH PHẦN
+THồNH PHẦN
 HỘI NGHỊ
 
 Ban Thường trực Ủy ban Mặt
 trận Tổ quốc Việt Nam cấp tổ chức
-hội nghị hiệp thương triệu tập v�
-chủ tr� hội nghị.
+hội nghị hiệp thương triệu tập và
+chủ trì hội nghị.
 
-Th�nh phần hội nghị theo khoản
+Thành phần hội nghị theo khoản
 1 điều 50 Luật bầu cử đại biểu
-Quốc hội v� đại biểu Hội đồng
-nh�n d�n, gồm: Ban Thường trực Ủy ban Mặt
+Quốc hội và đại biểu Hội đồng
+nhân dân, gồm: Ban Thường trực Ủy ban Mặt
 trận Tổ quốc Việt Nam, đại diện ban
-l�nh đạo c�c tổ 
+lĩnh đạo các tổ 
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -3253,7 +3252,7 @@ l�nh đạo c�c tổ
 ════════════════════════════════════════════════════════════════════════════════
 Chinh digital
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  86
  2026-02-09T14:21:00Z
@@ -3283,237 +3282,237 @@ Chinh digital
 
  ỦY BAN MTTQ VIỆT NAM
 
- X� LƯƠNG MINH
+ Xã LƯƠNG MINH
 
  BAN
  THƯỜNG TRỰC
 
- Số: ������/HD-MTTQ-BTT
+ Số: /HD-MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA
+ CỘNG HồA Xã HỘI CHỦ NGHĨA
  VIỆT NAM
 
- �Độc lập - Tự do -
- Hạnh ph�c
+ Độc lập - Tự do -
+ Hạnh phúc
 
  Lương
- Minh, ng�y ����th�ng 11 năm 2025
+ Minh, ngày tháng 11 năm 2025
 
 HƯỚNG DẪN
 
 Về việc
-Mặt trận Tổ quốc Việt Nam x� tham gia c�ng t�c
+Mặt trận Tổ quốc Việt Nam xã tham gia công tác
 bầu cử 
 
 đại
 biểu Quốc
-hội kh�a XVI v� đại biểu Hội đồng Nh�n
-d�n 
+hội khóa XVI và đại biểu Hội đồng Nhân
+dân 
 
-c�c
+các
 cấp, nhiệm kỳ 2026 -
 2031
 
 Căn cứ
-Luật Bầu cử đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n số 85/2015/QH13, ng�y 25/6/2015 v�
+Luật Bầu cử đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân số 85/2015/QH13, ngày 25/6/2015 và
 được sửa đổi, bổ sung một
 số điều tại Luật
-số 83/2025/QH15, ng�y 24/6/2025;
+số 83/2025/QH15, ngày 24/6/2025;
 Luật Mặt trận Tổ quốc Việt Nam số
-75/2015/QH13, ng�y 09/6/2015 v� Luật số 97/2025/QH15, ng�y
+75/2015/QH13, ngày 09/6/2015 và Luật số 97/2025/QH15, ngày
 27/6/2025 về sửa đổi, bổ sung một số
 điều của Luật Mặt trận Tổ quốc
-Việt Nam, Luật C�ng đo�n, Luật Thanh ni�n, Luật
-Thực hiện d�n chủ ở cơ sở; Nghị quyết Li�n tịch
-số 403/2017/NQLT-UBTVQH14-CP-ĐCTUBTWMTTQVN, ng�y 15/6/2017 của
-Ủy ban Thường vụ Quốc hội, Ch�nh phủ
-v� Đo�n Chủ tịch Ủy ban Trung ương Mặt
+Việt Nam, Luật Công đoàn, Luật Thanh niên, Luật
+Thực hiện dân chủ ở cơ sở; Nghị quyết Liên tịch
+số 403/2017/NQLT-UBTVQH14-CP-ĐCTUBTWMTTQVN, ngày 15/6/2017 của
+Ủy ban Thường vụ Quốc hội, Chính phủ
+và Đoàn Chủ tịch Ủy ban Trung ương Mặt
 trận Tổ quốc
-Việt Nam quy định chi tiết c�c h�nh thức gi�m s�t,
-phản biện x� hội của Mặt trận
+Việt Nam quy định chi tiết các hành thức giaám sát,
+phản biện xã hội của Mặt trận
 Tổ quốc Việt Nam;
-Nghị quyết số 101/2025/UBTVQH15, ng�y 26/9/2025 của Ủy
+Nghị quyết số 101/2025/UBTVQH15, ngày 26/9/2025 của Ủy
 ban Thường vụ
-Quốc hội� quy định
+Quốc hội quy định
 chi tiết, hướng dẫn việc tổ chức
 hội nghị cử tri; việc giới thiệu người
-ứng cử đại biểu Hội đồng nh�n d�n
-cấp x� ở th�n, tổ d�n phố; việc hiệp
+ứng cử đại biểu Hội đồng nhân dân
+cấp xã ở thôn, tổ dân phố; việc hiệp
 thương, giới thiệu người ứng cử,
-lập danh s�ch người ứng cử đại
+lập danh sách người ứng cử đại
 biểu Quốc hội, đại biểu Hội
-đồng nh�n d�n trong bầu cử bổ sung; Nghị quyết Li�n tịch
-số 102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN, ng�y 26/9/2025 của
-Ủy ban Thường vụ Quốc hội, Ch�nh phủ
-v� Đo�n Chủ tịch Ủy ban Trung ương Mặt
+đồng nhân dân trong bầu cử bổ sung; Nghị quyết Liên tịch
+số 102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN, ngày 26/9/2025 của
+Ủy ban Thường vụ Quốc hội, Chính phủ
+và Đoàn Chủ tịch Ủy ban Trung ương Mặt
 trận Tổ quốc
-Việt Nam hướng dẫn quy tr�nh hiệp thương
+Việt Nam hướng dẫn quy trình hiệp thương
 giới thiệu người ứng cử đại
-biểu Quốc hội kho� XVI v� đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026-2031;
+biểu Quốc hội khòa XVI và đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026-2031;
 
 Thực
 hiện Hướng dẫn Mặt trận Tổ quốc
-Việt Nam tham gia c�ng t�c bầu cử đại biểu Quốc hội
-kh�a XVI v� đại biểu Hội đồng nh�n d�n c�c
-cấp nhiệm kỳ 2026 - 2031; Kế hoạch số 33/KH-MTTQ-BTT ng�y 14/11/2025 của Ban
+Việt Nam tham gia công tác bầu cử đại biểu Quốc hội
+khóa XVI và đại biểu Hội đồng nhân dân các
+cấp nhiệm kỳ 2026 - 2031; Kế hoạch số 33/KH-MTTQ-BTT ngày 14/11/2025 của Ban
 Thường trực Ủy ban Mặt trận Tổ
 quốc Việt
 Nam
 tỉnh Quảng Ninh về việc thực hiện
-c�ng t�c bầu cử đại biểu Quốc hội kh�a
-XVI v� bầu cử đại biểu Hội đồng
-nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031,
+công tác bầu cử đại biểu Quốc hội khóa
+XVI và bầu cử đại biểu Hội đồng
+nhân dân các cấp nhiệm kỳ 2026 - 2031,
 Ban Thường trực
-Ủy ban Mặt trận Tổ quốc Việt Nam x� hướng dẫn tham gia c�ng t�c bầu cử đại biểu
-Quốc hội kh�a XVI v� đại biểu Hội đồng
-nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031, cụ thể
+Ủy ban Mặt trận Tổ quốc Việt Nam xã hướng dẫn tham gia công tác bầu cử đại biểu
+Quốc hội khóa XVI và đại biểu Hội đồng
+nhân dân các cấp nhiệm kỳ 2026 - 2031, cụ thể
 như sau:
 
 I.
-MỤC Đ�CH, Y�U CẦU�� 
+MỤC ĐềCH, YU CẦU 
 
 1. Thực hiện đầy
-đủ, nghi�m t�c, đ�ng quy định Luật Bầu
-cử đại biểu Quốc hội v� đại
-biểu Hội đồng nh�n d�n; Luật MTTQ
-Việt Nam; Chỉ thị số 46-CT/TW, ng�y 16/5/2025 của
-Bộ Ch�nh trị về l�nh đạo cuộc bầu
-cử đại biểu Quốc hội kh�a XVI v� bầu
-cử đại biểu Hội đồng nh�n d�n c�c cấp
+đủ, nghim tục, đồng quy định Luật Bầu
+cử đại biểu Quốc hội và đại
+biểu Hội đồng nhân dân; Luật MTTQ
+Việt Nam; Chỉ thị số 46-CT/TW, ngày 16/5/2025 của
+Bộ Chính trị về lĩnh đạo cuộc bầu
+cử đại biểu Quốc hội khóa XVI và bầu
+cử đại biểu Hội đồng nhân dân các cấp
 nhiệm kỳ 2026 - 2031; Nghị quyết số
 101/2025/UBTVQH15 của Ủy ban Thường vụ Quốc
-hội; Nghị quyết li�n tịch số
-102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN; Kế hoạch số 555-KH/TU, ng�y 20/6/2025 của Ban
+hội; Nghị quyết liên tịch số
+102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN; Kế hoạch số 555-KH/TU, ngày 20/6/2025 của Ban
 Thường vụ Tỉnh uỷ Quảng Ninh về
 triển khai thực hiện Chỉ thị số 46-CT/TW,
-ng�y 16/5/2025 của Bộ Ch�nh trị về l�nh đạo
+ngày 16/5/2025 của Bộ Chính trị về lĩnh đạo
 cuộc bầu cử đại biểu Quốc hội
-kh�a XVI v� bầu cử đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031
-v� c�c văn bản chỉ đạo triển khai
-hướng dẫn kh�c c� li�n quan đến c�ng t�c bầu
-cử của Trung ương v� tỉnh Quảng Ninh; Kế hoạch số 21-KH/ĐU,
-ng�y 29/7/2025 của Ban Thường vụ Đảng
-ủy x� Lương Minh về triển khai thực
-hiện Chỉ thị số 46-CT/TW, ng�y 16/5/2025 của
-Bộ Ch�nh trị về l�nh đạo cuộc bầu
-cử đại biểu Quốc hội kh�a XVI v� bầu
-cử đại biểu Hội đồng nh�n d�n c�c
-cấp nhiệm kỳ 2026 � 2031. 
+khóa XVI và bầu cử đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026 - 2031
+và các văn bản chỉ đạo triển khai
+hướng dẫn khồc cơ liên quan đến công tác bầu
+cử của Trung ương và tỉnh Quảng Ninh; Kế hoạch số 21-KH/ĐU,
+ngày 29/7/2025 của Ban Thường vụ Đảng
+ủy xã Lương Minh về triển khai thực
+hiện Chỉ thị số 46-CT/TW, ngày 16/5/2025 của
+Bộ Chính trị về lĩnh đạo cuộc bầu
+cử đại biểu Quốc hội khóa XVI và bầu
+cử đại biểu Hội đồng nhân dân các
+cấp nhiệm kỳ 2026  2031. 
 
-2. C�ng t�c
+2. Công tác
 hiệp thương lựa chọn, giới thiệu
-người ứng cử phải thực sự d�n
-chủ, kh�ch quan, đ�ng luật, bảo đảm đ�ng
-ti�u chuẩn, cơ cấu, th�nh phần, số
-lượng được ph�n bổ v� chất
+người ứng cử phải thực sự dân
+chủ, khồch quan, đồng luật, bảo đảm đồng
+tiêu chuẩn, cơ cấu, thành phần, số
+lượng được phân bổ và chất
 lượng người được giới thiệu.
 
-3. Ban Thường trực Ủy ban MTTQ Việt Nam x� x�y dựng hướng
+3. Ban Thường trực Ủy ban MTTQ Việt Nam xã xãy dựng hướng
 dẫn cụ thể, đồng bộ về tiến
-độ thực hiện c�c c�ng việc thuộc tr�ch
+độ thực hiện các công việc thuộc trách
 nhiệm của MTTQ Việt
-Nam; phối hợp chặt chẽ với ch�nh quyền v�
-c�c tổ chức th�nh vi�n để ho�n th�nh tốt nhiệm
+Nam; phối hợp chặt chẽ với chính quyền và
+các tổ chức thành vin để hòan thành tốt nhiệm
 vụ của MTTQ Việt
-Nam tham gia c�ng t�c bầu cử tr�n địa b�n.
+Nam tham gia công tác bầu cử địa bàn.
 
 II. NỘI DUNG
-C�NG T�C MẶT TRẬN TRONG BẦU CỬ
+CơNG TỷC MẶT TRẬN TRONG BẦU CỬ
 
-1. Tham gia th�nh
-lập c�c tổ chức phụ tr�ch bầu cử
+1. Tham gia thành
+lập các tổ chức phụ trách bầu cử
 
-- Ban Thường trực Ủy ban MTTQ Việt Nam x� phối hợp
+- Ban Thường trực Ủy ban MTTQ Việt Nam xã phối hợp
 chặt chẽ với Thường trực Hội
-đồng nh�n d�n, Ủy ban nh�n d�n x� để th�nh
-lập Ủy ban bầu cử, Ban bầu cử v� Tổ
+đồng nhân dân, Ủy ban nhân dân xã để thành
+lập Ủy ban bầu cử, Ban bầu cử và Tổ
 bầu cử theo quy định của Luật Bầu
-cử đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n.
+cử đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân.
 
-- Căn cứ v�o
-cơ cấu, th�nh phần, số lượng của c�c
-tổ chức phụ tr�ch bầu cử được quy
+- Căn cứ vào
+cơ cấu, thành phần, số lượng của các
+tổ chức phụ trách bầu cử được quy
 định tại Mục 2, Chương III của Luật
-Bầu cử đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n, Ủy ban MTTQ Việt Nam v� c�c tổ chức ch�nh
-trị - x� hội x� cử đại diện l�nh
-đạo tham gia c�c tổ chức phụ tr�ch bầu
-cử tr�n địa b�n; bảo đảm đủ
-cơ cấu, th�nh phần của Ủy ban MTTQ Việt Nam x� tham gia c�c Ủy ban
-bầu cử, Ban bầu cử v� c�c tổ chức ch�nh
-trị - x� hội tham gia Ban bầu cử đại
-biểu Hội đồng nh�n d�n c�c cấp. 
+Bầu cử đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân, Ủy ban MTTQ Việt Nam và các tổ chức chính
+trị - xã hội xã cử đại diện lĩnh
+đạo tham gia các tổ chức phụ trách bầu
+cử địa bàn; bảo đảm đủ
+cơ cấu, thành phần của Ủy ban MTTQ Việt Nam xã tham gia các Ủy ban
+bầu cử, Ban bầu cử và các tổ chức chính
+trị - xã hội tham gia Ban bầu cử đại
+biểu Hội đồng nhân dân các cấp. 
 
 2. Tổ chức
-c�c hội nghị hiệp thương
+các hội nghị hiệp thương
 
-a) Ban Thường trực Ủy ban MTTQ Việt Nam x� chủ
+a) Ban Thường trực Ủy ban MTTQ Việt Nam xã chủ
 động phối hợp với Thường trực
-Hội đồng nh�n d�n, Uỷ ban bầu cử x�
-thực hiện c�c bước hiệp thương lựa
+Hội đồng nhân dân, Uỷ ban bầu cử xã
+thực hiện các bước hiệp thương lựa
 chọn, giới thiệu người ứng cử
-đại biểu Quốc hội (nếu c�), đại
-biểu Hội đồng nh�n d�n theo đ�ng quy
+đại biểu Quốc hội (nếu cơ), đại
+biểu Hội đồng nhân dân theo đồng quy
 định của Luật Bầu cử; Nghị quyết
 số 101/2025/UBTVQH15 của Ủy ban Thường vụ
-Quốc hội; Nghị quyết li�n tịch số
-102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN v� c�c văn bản
-hướng dẫn c� li�n quan. Ban Thường trực
+Quốc hội; Nghị quyết liên tịch số
+102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN và các văn bản
+hướng dẫn cơ liên quan. Ban Thường trực
 Ủy ban MTTQ
-Việt Nam x� lựa chọn thời gian tổ chức
-hiệp thương ph� hợp đảm bảo tiến
-độ v� thời gian quy định; phối hợp
-với Thường trực Hội đồng nh�n d�n x�
-chuẩn bị t�i liệu, r� so�t kỹ cơ cấu, th�nh
-phần, số lượng, kết quả lấy �
-kiến cử tri nơi c�ng t�c hoặc nơi l�m việc
-(sau đ�y gọi chung l� nơi c�ng t�c) v� nơi cư tr�
+Việt Nam xã lựa chọn thời gian tổ chức
+hiệp thương phụ hợp đảm bảo tiến
+độ và thời gian quy định; phối hợp
+với Thường trực Hội đồng nhân dân xã
+chuẩn bị tỷi liệu, r sot kỹ cơ cấu, thành
+phần, số lượng, kết quả lấy 
+kiến cử tri nơi công tác hoặc nơi làm việc
+(sau đẩy gọi chung lã nơi công tác) và nơi cư trì
 của người được giới thiệu
-ứng cử bảo đảm đ�ng theo quy định.
+ứng cử bảo đảm đồng theo quy định.
 
-�b) Ban Thường trực Ủy
-ban MTTQ Việt Nam x� chủ động
-đề nghị v� thống nhất với Thường
-trực Hội đồng nh�n d�n x� dự kiến ph�n bổ giới thiệu người
+b) Ban Thường trực Ủy
+ban MTTQ Việt Nam xã chủ động
+đề nghị và thống nhất với Thường
+trực Hội đồng nhân dân xã dự kiến phân bổ giới thiệu người
 ứng cử để danh
-s�ch giới thiệu người ứng cử tr�nh tại
+sách giới thiệu người ứng cử trình tại
 hội nghị hiệp thương lần thứ hai
 phải bảo đảm số dư cần thiết
-để hội nghị xem x�t, lựa chọn lập danh
-s�ch sơ bộ những người ứng cử
+để hội nghị xem xãt, lựa chọn lập danh
+sách sơ bộ những người ứng cử
 đại biểu Quốc hội, đại biểu
-Hội đồng nh�n d�n tr�n địa b�n. 
+Hội đồng nhân dân địa bàn. 
 
-Danh s�ch
-giới thiệu người ứng cử tr�nh hội
+Danh sách
+giới thiệu người ứng cử trình hội
 nghị hiệp thương lần thứ ba phải
-bảo đảm c� số dư lớn hơn số
+bảo đảm cơ số dư lớn hơn số
 dư quy
 định tại khoản 6 Điều 57, khoản 3 Điều 58 của Luật Bầu
-cử đại biểu Quốc hội v� đại
-biểu Hội đồng nh�n d�n. 
+cử đại biểu Quốc hội và đại
+biểu Hội đồng nhân dân. 
 
 c)
 Trường hợp
-người ứng cử kh�ng đạt sự t�n
-nhiệm của tr�n 50% tổng số cử tri tham dự
-tại hội nghị cử tri nơi cư tr� th� kh�ng đưa
-v�o danh s�ch giới thiệu tại hội nghị hiệp
+người ứng cử không đạt sự tỷn
+nhiệm của trận 50% tổng số cử tri tham dự
+tại hội nghị cử tri nơi cư trì thủ không đưa
+vào danh sách giới thiệu tại hội nghị hiệp
 thương lần thứ ba, trừ trường hợp
-đặc biệt cần b�o c�o r� để hội
-nghị hiệp thương xem x�t, quyết định. (Trường
-hợp đặc biệt l� những người c�
-đủ điều kiện, ti�u chuẩn dự kiến
+đặc biệt cần bảo cơo r để hội
+nghị hiệp thương xem xãt, quyết định. (Trường
+hợp đặc biệt lã những người cơ
+đủ điều kiện, tiêu chuẩn dự kiến
 giới thiệu ứng cử đại biểu Quốc
-hội, đại biểu Hội đồng nh�n d�n
-nhưng do điều kiện c�ng t�c đặc th� �t
-tiếp x�c với cử tri v� Nh�n d�n nơi cư tr� n�n
-kh�ng đạt được tr�n 50% tổng số
-phiếu t�n nhiệm của cử tri tham dự hội
+hội, đại biểu Hội đồng nhân dân
+nhưng do điều kiện công tác đặc thủ t
+tiếp xãc với cử tri và Nhân dân nơi cư trì nữn
+không đạt được trận 50% tổng số
+phiếu tỷn nhiệm của cử tri tham dự hội
 nghị).
 
 3. Tổ chức
@@ -3523,21 +3522,21 @@ Việc tổ
 chức hội nghị cử tri thực hiện theo quy
 định tại Nghị quyết số 101/2025/UBTVQH15
 của Ủy ban Thường vụ Quốc hội;
-Nghị quyết li�n tịch số
-102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN v� Th�ng tri số 05/TT-MTTW-BTT, ng�y 04/11/2025 của Ủy
+Nghị quyết liên tịch số
+102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN và Tháng tri số 05/TT-MTTW-BTT, ngày 04/11/2025 của Ủy
 ban Trung ương MTTQ
 Việt Nam; đồng thời cần bảo
 đảm một số nội dung sau:
 
 3.1. Việc
-tổ chức hội nghị cử tri nơi c�ng t�c
+tổ chức hội nghị cử tri nơi công tác
 
-- Người ứng cử đang c�ng t�c chuy�n tr�ch
-tại cơ quan Đảng, Ủy ban MTTQ Việt Nam, c�c tổ chức
-th�nh vi�n của Mặt trận, c�c tổ chức x� hội
-kh�c th� việc tổ chức hội nghị lấy �
-kiến cử tri nơi c�ng t�c do Ban l�nh đạo cơ
-quan, tổ chức triệu tập v� chủ tr� hội
+- Người ứng cử đang công tác chuyện trách
+tại cơ quan Đảng, Ủy ban MTTQ Việt Nam, các tổ chức
+thành vin của Mặt trận, các tổ chức xã hội
+khồc thủ việc tổ chức hội nghị lấy 
+kiến cử tri nơi công tác do Ban lĩnh đạo cơ
+quan, tổ chức triệu tập và chủ trì hội
 nghị. 
 
 - Trường hợp người
@@ -3550,7 +3549,7 @@ nghị.
 ════════════════════════════════════════════════════════════════════════════════
 User
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  279
  2025-11-13T08:02:00Z
@@ -3587,210 +3586,210 @@ User
  BAN THƯỜNG
  TRỰC
 
- Số:������� /KH-MTTQ-BTT
+ Số: /KH-MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ
+ CỘNG HồA Xã HỘI CHỦ
  NGHĨA VIỆT NAM
 
  Độc lập
- - Tự do - Hạnh ph�c
+ - Tự do - Hạnh phúc
 
- Bắc Cam Ranh, ng�y� ��th�ng 11 năm 2025
+ Bắc Cam Ranh, ngày tháng 11 năm 2025
 
 KẾ HOẠCH
 
 Kiểm
-tra, gi�m
-s�t c�ng t�c bầu cử đại biểu Quốc hội
-kh�a XVI 
+tra, giaám
+sát công tác bầu cử đại biểu Quốc hội
+khóa XVI 
 
-v� đại biểu Hội
-đồng nh�n d�n c�c cấp, nhiệm kỳ 2026 � 2031
+và đại biểu Hội
+đồng nhân dân các cấp, nhiệm kỳ 2026  2031
 
-�tr�n
-địa b�n phường Bắc Cam Ranh
+trận
+địa bản phường Bắc Cam Ranh
 
 Căn cứ Luật Bầu cử đại
-biểu Quốc hội v� đại biểu Hội
-đồng nh�n d�n v� Luật sửa đổi, bổ sung
+biểu Quốc hội và đại biểu Hội
+đồng nhân dân và Luật sửa đổi, bổ sung
 một số điều của Luật Bầu cử
-đại biểu Quốc hội v� đại biểu Hội
-đồng nh�n d�n ng�y 24/6/2025;
+đại biểu Quốc hội và đại biểu Hội
+đồng nhân dân ngày 24/6/2025;
 
 Căn
-cứ Th�ng tri số 04/TT-MTTW-BTT Ng�y 04/11/2025 của Uỷ
+cứ Tháng tri số 04/TT-MTTW-BTT Ngày 04/11/2025 của Uỷ
 ban MTTQ Việt Nam về Hướng dẫn Uỷ ban MTTQ
-Việt Nam kiểm tra, gi�m s�t c�ng t�c bầu cử đại
-biểu Quốc hội v� đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 � 2031;
+Việt Nam kiểm tra, giaám sát công tác bầu cử đại
+biểu Quốc hội và đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026  2031;
 
 Ban Thường trực Ủy ban
 MTTQ
-Việt Nam phường Bắc Cam Ranh x�y dựng kế
-hoạch kiểm tra, gi�m s�t c�ng t�c bầu
-cử đại biểu Quốc hội kh�a XVI v�
-đại biểu Hội đồng nh�n d�n c�c cấp
-nhiệm kỳ 2026 � 2031 tr�n địa b�n phường, cụ thể
+Việt Nam phường Bắc Cam Ranh xãy dựng kế
+hoạch kiểm tra, giaám sát công tác bầu
+cử đại biểu Quốc hội khóa XVI và
+đại biểu Hội đồng nhân dân các cấp
+nhiệm kỳ 2026  2031 địa bàn phường, cụ thể
 như sau:
 
-I. MỤC Đ�CH - Y�U CẦU
+I. MỤC ĐềCH - YU CẦU
 
 1. Mục
-đ�ch
+đích
 
 - Nhằm đảm bảo cuộc bầu
-cử diễn ra d�n chủ, đ�ng ph�p luật, đ�ng
+cử diễn ra dân chủ, đồng pháp luật, đồng
 tiến độ theo quy định của Luật
-bầu cử đại biểu Quốc hội v� Hội đồng
-nh�n d�n c�c cấp nhiệm kỳ 2026 -2031.
+bầu cử đại biểu Quốc hội và Hội đồng
+nhân dân các cấp nhiệm kỳ 2026 -2031.
 
-- N�ng cao hiệu quả c�ng t�c phối hợp
-giữa Uỷ ban MTTQ Việt Nam phường với c�c
-cơ quan, đơn vị li�n quan trong việc tổ
-chức, kiểm tra, gi�m s�t qu� tr�nh diễn ra bầu
+- Nông cao hiệu quả công tác phối hợp
+giữa Uỷ ban MTTQ Việt Nam phường với các
+cơ quan, đơn vị liên quan trong việc tổ
+chức, kiểm tra, giaám sát quả trình diễn ra bầu
 cử.
 
-- Ph�t hiện kịp thời những tồn
-tại, thiếu s�t trong c�ng t�c chuẩn bị v� tổ
+- Phát hiện kịp thời những tồn
+tại, thiếu sát trong công tác chuẩn bị và tổ
 chức bầu cử để kiến nghị cơ quan
-c� thẩm quyền xem x�t, chấn chỉnh, đảm
-bảo t�nh kh�ch quan, minh bạch trong c�ng t�c bẩu cử.
+cơ thẩm quyền xem xãt, chấn chỉnh, đảm
+bảo tỉnh khồch quan, minh bạch trong công tác bẩu cử.
 
-- Đảm bảo quyền v� nghĩa vụ
-của cử tri, quyền ứng cử của c�ng d�n
+- Đảm bảo quyền và nghĩa vụ
+của cử tri, quyền ứng cử của công dân
 được thực hiện đầy đủ,
-đ�ng quy định; g�p phần x�y dựng bộ m�y
-đại biểu d�n cử thực sự ti�u biểu,
-đại diện cho � ch� v� nguyện vọng của nh�n
-d�n.
+đồng quy định; góp phần xãy dựng bộ my
+đại biểu dân cử thực sự tiêu biểu,
+đại diện cho  chỉ và nguyện vọng của nhân
+dân.
 
-2. Y�u cầu
+2. Yêu cầu
 
-- C�ng t�c kiểm tra, gi�m s�t phải
-được thực hiện đ�ng quy tr�nh, đ�ng
-phạm vi, nội dung theo Th�ng
-tri số 04/TT-MTTW-BTT Ng�y 04/11/2025 của Uỷ ban MTTQ
+- Công tác kiểm tra, giaám sát phải
+được thực hiện đồng quy trình, đồng
+phạm vi, nội dung theo Tháng
+tri số 04/TT-MTTW-BTT Ngày 04/11/2025 của Uỷ ban MTTQ
 Việt Nam về Hướng dẫn Uỷ ban MTTQ Việt
-Nam kiểm tra, gi�m s�t c�ng t�c bầu cử đại
-biểu Quốc hội v� đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 � 2031.
+Nam kiểm tra, giaám sát công tác bầu cử đại
+biểu Quốc hội và đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026  2031.
 
-- Bảo đảm t�nh độc lập, kh�ch
-quan, trung thực, kh�ng l�m ảnh hưởng đến
-hoạt động b�nh thường của c�c tổ
+- Bảo đảm tỉnh độc lập, khồch
+quan, trung thực, không làm ảnh hưởng đến
+hoạt động bảnh thường của các tổ
 chức phục vụ bầu cử.
 
-- Kịp thời tổng hợp, b�o c�o,
-đề xuất kiến nghị với c�c cơ quan c�
-thẩm quyền để giải quyết những
-vướng mắc, ph�t sinh trong qu� tr�nh chuẩn bị v�
+- Kịp thời tổng hợp, bảo cơo,
+đề xuất kiến nghị với các cơ quan cơ
+thẩm quyền để giaải quyết những
+vướng mắc, phát sinh trong quả trình chuẩn bị và
 tổ chức bầu cử.
 
-- Ph�n c�ng nhiệm vụ r� r�ng cho từng th�nh vi�n
-đo�n kiểm tra, gi�m s�t; bảo đảm đ�ng
+- Phân công nhiệm vụ r rứng cho từng thành vin
+đoàn kiểm tra, giaám sát; bảo đảm đồng
 tiến độ thời gian theo kế hoạch chung
 của phường.
 
 II. ĐỐI TƯỢNG KIỂM
-TRA, GI�M S�T
+TRA, GIM SốT
 
 1. Đối tượng kiểm
 tra
 
 Ban
 Thường trực Ủy ban MTTQ Việt Nam
-phường kiểm tra c�ng t�c bầu cử đối
-với Ban C�ng t�c Mặt
-trận ở c�c tổ d�n phố.
+phường kiểm tra công tác bầu cử đối
+với Ban Công tác Mặt
+trận ở các tổ dân phố.
 
-2. Đối tượng gi�m s�t
+2. Đối tượng giaám sát
 
-Ban Thường trực Ủy ban MTTQ Việt Nam phường gi�m s�t c�ng
-t�c bầu cử đối
-với c�c tổ chức phụ tr�ch bầu cử, Thường
-trực Hội đồng nh�n d�n, Ủy ban nh�n d�n phường v� cơ quan, tổ
-chức, c� nh�n c� li�n quan.
+Ban Thường trực Ủy ban MTTQ Việt Nam phường giaám sát công
+tục bầu cử đối
+với các tổ chức phụ trách bầu cử, Thường
+trực Hội đồng nhân dân, Ủy ban nhân dân phường và cơ quan, tổ
+chức, cơ nhân cơ liên quan.
 
-III. NỘI DUNG KIỂM TRA, GI�M S�T
+III. NỘI DUNG KIỂM TRA, GIM SốT
 
-1. Gi�m s�t việc th�nh lập v�
-hoạt động của Ủy ban bầu cử v� c�c tổ chức phụ tr�ch bầu cử của
+1. Giám sát việc thành lập và
+hoạt động của Ủy ban bầu cử và các tổ chức phụ trách bầu cử của
 phường 
 
 -
 Ban Thường trực Ủy ban
-MTTQ phường gi�m s�t việc th�nh
-lập v� hoạt động của c�c tổ chức
-phụ tr�ch bầu cử ở địa phương từ
+MTTQ phường giaám sát việc thành
+lập và hoạt động của các tổ chức
+phụ trách bầu cử ở địa phương từ
 Điều 21 đến
 Điều 28 của Luật Bầu cử năm 2015
 (được sửa đổi, bổ sung năm 2025). Cụ thể:
 
-- Cơ cấu, th�nh
-phần, số lượng th�nh vi�n Tổ bầu cử,
+- Cơ cấu, thành
+phần, số lượng thành vin Tổ bầu cử,
 Ban bầu cử, Ủy
-�ban
+ban
 bầu cử (quy định tại Điều 22, 24, 25 của
 Luật Bầu cử năm 2015 (được sửa
 đổi, bổ sung năm 2025);
 
-- Việc ban h�nh c�c
-văn bản li�n quan đến c�ng t�c bầu cử;
+- Việc ban hành các
+văn bản liên quan đến công tác bầu cử;
 
 - Việc thực
-hiện nhiệm vụ, quyền hạn của c�c tổ
-chức phụ tr�ch bầu cử. Những kh� khăn,
-vướng mắc v� biện ph�p th�o gỡ theo quy định
+hiện nhiệm vụ, quyền hạn của các tổ
+chức phụ trách bầu cử. Những khồ khăn,
+vướng mắc và biện pháp thảo gỡ theo quy định
 tại Điều 23, Điều 24, Điều 25 của
 Luật Bầu cử năm 2015 (được sửa
 đổi, bổ sung năm 2025).
 
 * Thời gian thực
 hiện: Từ
-khi th�nh lập đến khi kết th�c nhiệm vụ
-của Ủy ban bầu cử v� c�c tổ chức phụ
-tr�ch bầu cử của phường.
+khi thành lập đến khi kết thực nhiệm vụ
+của Ủy ban bầu cử và các tổ chức phụ
+trách bầu cử của phường.
 
-�2. Kiểm tra việc hiệp thương
-thỏa thuận về cơ cấu, th�nh phần, số
+2. Kiểm tra việc hiệp thương
+thỏa thuận về cơ cấu, thành phần, số
 lượng người ứng cử đại biểu
-Quốc hội v� đại biểu Hội đồng
-nh�n d�n
+Quốc hội và đại biểu Hội đồng
+nhân dân
 
 - Kiểm tra việc
 hiệp thương thỏa thuận về cơ cấu,
-th�nh phần, số lượng người ứng cử đại biểu
-Quốc hội v� đại biểu Hội đồng nh�n d�n theo quy
+thành phần, số lượng người ứng cử đại biểu
+Quốc hội và đại biểu Hội đồng nhân dân theo quy
 định tại Điều 38, Điều 39,
 Điều 43, Điều 44, Điều 48, Điều 49,
 Điều 50, Điều 53, Điều 56 của Luật
 Bầu cử năm 2015 (được sửa
-đổi, bổ sung năm 2025) v� Nghị quyết li�n
-tịch số 102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN ng�y 26/9/2025
-của Ủy ban Thường vụ Quốc hội, Ch�nh
-phủ v� Đo�n Chủ tịch Ủy ban Trung ương
+đổi, bổ sung năm 2025) và Nghị quyết liên
+tịch số 102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN ngày 26/9/2025
+của Ủy ban Thường vụ Quốc hội, Chính
+phủ và Đoàn Chủ tịch Ủy ban Trung ương
 Mặt trận Tổ quốc Việt Nam. Cụ
 thể:
 
 -
 Việc đảm
-bảo về ti�u chuẩn, cơ cấu, th�nh phần,
+bảo về tiêu chuẩn, cơ cấu, thành phần,
 số lượng người của cơ quan,
-đơn vị, tổ d�n phố được giới thiệu
-ứng cử đại biểu Hội đồng nh�n d�n
+đơn vị, tổ dân phố được giới thiệu
+ứng cử đại biểu Hội đồng nhân dân
 theo quy định.
 
 -
 Việc bảo
 đảm quy định về tỷ lệ người
-ứng cử l� người d�n tộc thiểu số,
+ứng cử lã người dân tộc thiểu số,
 phụ nữ theo quy định tại Điều 8, Điều
 9 của Luật Bầu cử năm 2015 (được
 sửa đổi, bổ sung năm 2025);
 
 -
 Đảm bảo
-thời gian, quy tr�nh, nội dung, thủ tục tổ
+thời gian, quy trình, nội dung, thủ tục tổ
 chức hội nghị hiệp thương theo quy
 định.
 
@@ -3798,60 +3797,60 @@ chức hội nghị hiệp thương theo quy
 Thời gian thực hiện: 
 
 +
-Đợt 1: Trong khoảng thời gian từ ng�y 01/12/2025 đến
-ng�y 14/12/2025.
+Đợt 1: Trong khoảng thời gian từ ngày 01/12/2025 đến
+ngày 14/12/2025.
 
 + Đợt 2:
 Trong
-khoảng thời gian từ ng�y 02/02/2026 đến ng�y
+khoảng thời gian từ ngày 02/02/2026 đến ngày
 08/02/2026.
 
 + Đợt 3: Trong khoảng
-thời gian từ ng�y 09/02/2026 đến ng�y 20/02/2026.
+thời gian từ ngày 09/02/2026 đến ngày 20/02/2026.
 
-3. Kiểm tra, gi�m
-s�t việc giới
+3. Kiểm tra, giaám
+sát việc giới
 thiệu người ứng cử đại biểu
-Quốc hội, đại biểu Hội đồng nh�n
-d�n v� việc nộp
+Quốc hội, đại biểu Hội đồng nhân
+dân và việc nộp
 hồ sơ ứng cử của người ứng
 cử, người được giới thiệu
 ứng cử 
 
-Kiểm tra, gi�m s�t
-việc ứng cử v� giới thiệu người
+Kiểm tra, giaám sát
+việc ứng cử và giới thiệu người
 ứng cử đại biểu Quốc hội,
-đại biểu Hội đồng nh�n d�n theo quy
+đại biểu Hội đồng nhân dân theo quy
 định tại Điều 3, Điều 35,
 Điều 36, Điều 37, Điều 41, Điều 42,
 Điều 52 của Luật Bầu cử năm 2015
 (được sửa đổi, bổ sung năm 2025);
-Nghị quyết số 101/2025/UBTVQH15 ng�y 26/9/2025 của
-Ủy ban Thường vụ Quốc hội v� c�c văn
+Nghị quyết số 101/2025/UBTVQH15 ngày 26/9/2025 của
+Ủy ban Thường vụ Quốc hội và các văn
 bản hướng dẫn của Hội đồng bầu
 cử quốc gia. Cụ thể:
 
-- Ti�u chuẩn của người
+- Tiêu chuẩn của người
 ứng cứ theo quy định tại Điều 3
 Luật Bầu cử năm 2015;
 
-- Việc Ban l�nh đạo, Chỉ huy đơn
+- Việc Ban lĩnh đạo, Chỉ huy đơn
 vị dự kiến người để giới
-thiệu ứng cử tr�n cơ sở số lượng
+thiệu ứng cử trận cơ sở số lượng
 người được giới thiệu ứng cử
-đ� được ph�n bổ của cơ quan, tổ
+đã được phân bổ của cơ quan, tổ
 chức, đơn vị theo quy định tại Điều 41, Điều 42, Điều 52 của
 Luật Bầu cử năm 2015
 (được sửa đổi, bổ sung năm 2025);
 
-- Về h�nh
-thức tổ chức lấy � kiến nhận x�t của
-cử tri nơi c�ng t�c của người được
-cơ quan, tổ chức, đơn vị v� tổ d�n phố giới
+- Về hành
+thức tổ chức lấy  kiến nhận xãt của
+cử tri nơi công tác của người được
+cơ quan, tổ chức, đơn vị và tổ dân phố giới
 thiệu ứng cử:
 
-+ Tổ chức hội nghị lấy � kiến
-nhận x�t của cử tri nơi c�ng t�c của
++ Tổ chức hội nghị lấy  kiến
+nhận xãt của cử tri nơi công tác của
 người được cơ quan, tổ chức,
 đơn vị giới thiệu ứng cử theo quy định tại Điều
 45, Điều 54 của
@@ -3859,57 +3858,57 @@ Luật Bầu cử năm 2015
 (được sửa đổi, bổ sung năm 2025).
 
 - Số lượng người được
-giới thiệu ứng cử v� người tự
+giới thiệu ứng cử và người tự
 ứng cử so với số lượng đại
 biểu được bầu.
 
 - Việc hướng dẫn
-thủ tục ho�n tất danh mục hồ sơ theo
+thủ tục hòan tất danh mục hồ sơ theo
 quy định,
 thời hạn nộp hồ sơ đối với
 người tự ứng cử (theo quy định tại Điều
-35 của Luật Bầu cử năm 2015 v� c�c văn bản hướng dẫn
+35 của Luật Bầu cử năm 2015 và các văn bản hướng dẫn
 của Hội đồng bầu cử Quốc gia).
 
 - Việc chuyển hồ sơ của
 người được giới thiệu ứng cử
-v� người tự ứng cử trong thời hạn
+và người tự ứng cử trong thời hạn
 luật định theo quy định
 tại Điều 36 của
 Luật Bầu cử năm 2015
 (được sửa đổi, bổ sung năm 2025). 
 
-* Thời gian thực hiện: Trong khoảng thời gian từ ng�y
-17/12/2025 đến 17 giờ 00, ng�y
+* Thời gian thực hiện: Trong khoảng thời gian từ ngày
+17/12/2025 đến 17 giaờ 00, ngày
 01/02/2026.
 
-4. Kiểm tra, gi�m s�t việc tổ chức lấy � kiến cử tri
-nơi cư tr� đối với người ứng
+4. Kiểm tra, giaám sát việc tổ chức lấy  kiến cử tri
+nơi cư trì đối với người ứng
 cử 
 
-Kiểm tra việc tổ chức lấy � kiến cử tri
-nơi cư tr� đối với người ứng
+Kiểm tra việc tổ chức lấy  kiến cử tri
+nơi cư trì đối với người ứng
 cử theo quy định tại
 Điều 45, Điều 46, Điều 54, Điều 55
 của Luật Bầu cử năm 2015 (được sửa đổi,
-bổ sung năm 2025) v� Nghị quyết
-số 101/2025/UBTVQH15 ng�y 26/9/2025 của Ủy ban
-Thường vụ Quốc hội. Cụ thể c�c nội dung:
+bổ sung năm 2025) và Nghị quyết
+số 101/2025/UBTVQH15 ngày 26/9/2025 của Ủy ban
+Thường vụ Quốc hội. Cụ thể các nội dung:
 
-- Th�nh phần, số lượng cử tri,
-chương tr�nh hội nghị cử tri;
+- Thành phần, số lượng cử tri,
+chương trình hội nghị cử tri;
 
 -
-Những trường hợp đặc biệt kh�ng đạt sự t�n nhiệm
-của tr�n
+Những trường hợp đặc biệt không đạt sự tỷn nhiệm
+của trận
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
-📄 KH Kiểm tra, giám sát công tác bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031
+📄 KH Kiểm tra, giaám sát công tác bầu cử đại biểu Quốc hội khóa XVI và đại biểu Hội đồng nhân dân các cấp nhiệm kỳ 2026 - 2031
 ════════════════════════════════════════════════════════════════════════════════
 Admin
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  0
  2025-11-17T10:53:00Z
@@ -3936,364 +3935,364 @@ Admin
  ỦY BAN MTTQ
  VIỆT NAM
 
- X� LƯƠNG
+ Xã LƯƠNG
  MINH
 
  BAN THƯỜNG TRỰC
 
- Số: �����/KH-MTTQ-BTT
+ Số: /KH-MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ CỘNG HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- � �Độc lập - Tự do -
- Hạnh ph�c
+  Độc lập - Tự do -
+ Hạnh phúc
 
- �
+ 
 
  Lương
- Minh, ng�y 10 th�ng 12 năm 2025
+ Minh, ngày 10 tháng 12 năm 2025
 
 KẾ HOẠCH
 
 Kiểm tra,
-gi�m s�t c�ng t�c bầu cử đại biểu Quốc
-hội kh�a XVI v� đại biểu Hội đồng nh�n
-d�n c�c cấp nhiệm kỳ 2026 - 2031
+giaám sát công tác bầu cử đại biểu Quốc
+hội khóa XVI và đại biểu Hội đồng nhân
+dân các cấp nhiệm kỳ 2026 - 2031
 
 Căn cứ Luật Bầu cử
-đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n; Luật Mặt trận Tổ
+đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân; Luật Mặt trận Tổ
 quốc Việt Nam; Căn cứ Kế hoạch số
-04/KH-MTTQ-BTT ng�y 04/12/2025 của Ban Thường trực
+04/KH-MTTQ-BTT ngày 04/12/2025 của Ban Thường trực
 Ủy ban MTTQ Việt Nam tỉnh Quảng Ninh về kiểm
-tra, gi�m s�t c�ng t�c bầu cử đại biểu Quốc
-hội kh�a XVI v� đại biểu Hội đồng nh�n
-d�n c�c cấp nhiệm kỳ 2026 - 2031 v� Hướng
-dẫn số 13/HD-MTTQ-BTT ng�y 17/11/2025 của Ban
+tra, giaám sát công tác bầu cử đại biểu Quốc
+hội khóa XVI và đại biểu Hội đồng nhân
+dân các cấp nhiệm kỳ 2026 - 2031 và Hướng
+dẫn số 13/HD-MTTQ-BTT ngày 17/11/2025 của Ban
 Thường trực Ủy ban MTTQ Việt Nam tỉnh
-Quảng Ninh về c�ng t�c kiểm tra, gi�m s�t bầu cử.
+Quảng Ninh về công tác kiểm tra, giaám sát bầu cử.
 
 Ban Thường trực Ủy
-ban MTTQ Việt Nam x� Lương Minh x�y dựng kế
-hoạch kiểm tra, gi�m s�t c�ng t�c bầu cử tr�n
-địa b�n x� như sau:
+ban MTTQ Việt Nam xã Lương Minh xãy dựng kế
+hoạch kiểm tra, giaám sát công tác bầu cử trận
+địa bản xã như sau:
 
 I.
-MỤC Đ�CH, Y�U CẦU 
+MỤC ĐềCH, YU CẦU 
 
 1. Nắm
-bắt kịp thời t�nh h�nh, kết quả tổ
-chức triển khai c�ng t�c bầu cử tại x� v� c�c
-th�n d�n cư.
+bắt kịp thời tỉnh hành, kết quả tổ
+chức triển khai công tác bầu cử tại xã và các
+thôn dân cư.
 
-2. Ph�t hiện
-những kh� khăn, vướng mắc, những vi
-phạm ph�p luật về bầu cử (nếu c�)
+2. Phát hiện
+những khồ khăn, vướng mắc, những vi
+phạm pháp luật về bầu cử (nếu cơ)
 để kiến nghị với Ủy ban Bầu cử
-x�, Thường trực HĐND, UBND x� khắc phục,
-chỉ đạo khắc phục kịp thời; kh�ng
-tự � xử l� vấn đề kh�ng thuộc thẩm
-quyền v� chức năng của m�nh.
+xã, Thường trực HĐND, UBND xã khắc phục,
+chỉ đạo khắc phục kịp thời; không
+tự  xử lã vấn đề không thuộc thẩm
+quyền và chức năng của mnh.
 
 3. Bảo
-đảm cuộc bầu cử thực sự d�n chủ,
-đ�ng luật, an to�n, tiết kiệm, thực sự l�
-ng�y hội của to�n d�n. 
+đảm cuộc bầu cử thực sự dân chủ,
+đồng luật, an ton, tiết kiệm, thực sự lã
+ngày hội của ton dân. 
 
 II.
-ĐỐI TƯỢNG KIỂM TRA, GI�M S�T 
+ĐỐI TƯỢNG KIỂM TRA, GIM SốT 
 
 Theo quy
-định về ph�n cấp gi�m s�t đối với
-cấp x� 
+định về phân cấp giaám sát đối với
+cấp xã 
 
 1.
 Đối tượng kiểm tra: Ban Thường
 trực Ủy ban Mặt trận Tổ quốc Việt Nam
-x� tiến h�nh kiểm tra c�ng t�c bầu cử đối
+xã tiến hành kiểm tra công tác bầu cử đối
 với:
 
-- Ban C�ng t�c Mặt
-trận ở c�c th�n (khu d�n cư) tr�n địa b�n x�.
+- Ban Công tác Mặt
+trận ở các thôn (khu dân cư) địa bàn xã.
 
-- C�ng t�c triển
-khai c�c hoạt động bầu cử kh�c ở th�n theo
+- Công tác triển
+khai các hoạt động bầu cử khồc ở thôn theo
 thẩm quyền.
 
 2.
-Đối tượng gi�m s�t: Ban Thường trực Ủy ban
-Mặt trận Tổ quốc Việt Nam x� tiến h�nh gi�m
-s�t c�ng t�c bầu cử đối với c�c tổ
-chức phụ tr�ch bầu cử c�ng cấp, gồm c�:
+Đối tượng giaám sát: Ban Thường trực Ủy ban
+Mặt trận Tổ quốc Việt Nam xã tiến hành giaám
+sát công tác bầu cử đối với các tổ
+chức phụ trách bầu cử công cấp, gồm cơ:
 
-- C�c tổ
-chức phụ tr�ch bầu cử ở x� (Ủy ban
-bầu cử x�, c�c Ban bầu cử, Tổ bầu
+- Các tổ
+chức phụ trách bầu cử ở xã (Ủy ban
+bầu cử xã, các Ban bầu cử, Tổ bầu
 cử).
 
 - Thường
-trực Hội đồng nh�n d�n x� Lương Minh.
+trực Hội đồng nhân dân xã Lương Minh.
 
-- Ủy ban nh�n d�n
-x� Lương Minh.
+- Ủy ban nhân dân
+xã Lương Minh.
 
-- C�c cơ quan,
-tổ chức, c� nh�n c� li�n quan đến c�ng t�c bầu
-cử tr�n địa b�n x�.
+- Các cơ quan,
+tổ chức, cơ nhân cơ liên quan đến công tác bầu
+cử địa bàn xã.
 
-II. NỘI DUNG V� THỜI GIAN THỰC
+II. NỘI DUNG Và THỜI GIAN THỰC
 HIỆN 
 
 Hoạt
-động kiểm tra, gi�m s�t được chia th�nh 03
-đợt theo lịch tr�nh chung của tỉnh:
+động kiểm tra, giaám sát được chia thành 03
+đợt theo lịch trình chung của tỉnh:
 
-1. Đợt 1: Từ ng�y 05/12/2025
-đến ng�y 20/02/2026:
+1. Đợt 1: Từ ngày 05/12/2025
+đến ngày 20/02/2026:
 
 a)
-Nội dung Kiểm tra (Đối với Ban CTMT c�c th�n):
+Nội dung Kiểm tra (Đối với Ban CTMT các thôn):
 
 - Kiểm tra
-việc tổ chức Hội nghị Ban c�ng t�c Mặt
+việc tổ chức Hội nghị Ban công tác Mặt
 trận để dự kiến người giới
-thiệu ứng cử (thực hiện quy tr�nh, bi�n bản
+thiệu ứng cử (thực hiện quy trình, biên bản
 mẫu 03/HNMT).
 
 - Kiểm tra
-việc chủ tr�, phối hợp với Trưởng th�n
+việc chủ trì, phối hợp với Trưởng thôn
 tổ chức Hội nghị cử tri để giới
 thiệu người ứng cử đại biểu HĐND
-x� (th�nh phần triệu tập, tỷ lệ cử tri tham
-dự, h�nh thức biểu quyết, bi�n bản mẫu
+xã (thành phần triệu tập, tỷ lệ cử tri tham
+dự, hành thức biểu quyết, biên bản mẫu
 04/HNCT).
 
 - Kiểm tra
-việc hướng dẫn người ứng cử ho�n
-thiện hồ sơ v� nộp về Ủy ban Bầu
-cử x� đ�ng thời hạn.
+việc hướng dẫn người ứng cử hòan
+thiện hồ sơ và nộp về Ủy ban Bầu
+cử xã đồng thời hạn.
 
 b)
-Nội dung Gi�m s�t (Đối với UBBC v� UBND x�):
+Nội dung Giám sát (Đối với UBBC và UBND xã):
 
-- Gi�m s�t việc
-ấn định v� c�ng bố số lượng
+- Giám sát việc
+ấn định và công bố số lượng
 đại biểu HĐND được bầu ở
 mỗi đơn vị bầu cử.
 
-- Gi�m s�t việc
-tiếp nhận, quản l� hồ sơ người
-ứng cử của Ủy ban Bầu cử x�.
+- Giám sát việc
+tiếp nhận, quản lã hồ sơ người
+ứng cử của Ủy ban Bầu cử xã.
 
-- Gi�m s�t việc
-th�nh lập v� hoạt động của Ủy ban Bầu
-cử x�, c�c Ban bầu cử.
+- Giám sát việc
+thành lập và hoạt động của Ủy ban Bầu
+cử xã, các Ban bầu cử.
 
-- Gi�m s�t việc
-ban h�nh c�c văn bản chỉ đạo bầu cử
-của x�.
+- Giám sát việc
+ban hành các văn bản chỉ đạo bầu cử
+của xã.
 
-- Gi�m s�t quy tr�nh
+- Giám sát quy trình
 hiệp thương: Việc dự kiến cơ cấu,
-th�nh phần, số lượng người
+thành phần, số lượng người
 được giới thiệu ứng cử; việc
 tổ chức Hội nghị hiệp thương lần
 thứ nhất, lần thứ hai.
 
-- Gi�m s�t việc
-giới thiệu người ứng cử tại c�c
+- Giám sát việc
+giới thiệu người ứng cử tại các
 cơ quan, đơn vị, tổ chức hội nghị
 cử tri giới thiệu người ứng cử
 (từ 17/12/2025 đến 25/01/2026).
 
-2. Đợt 2: Từ ng�y 23/02/2026
-đến ng�y 14/3/2026 gồm
-c�c nội dung trọng t�m:
+2. Đợt 2: Từ ngày 23/02/2026
+đến ngày 14/3/2026 gồm
+các nội dung trọng tỷm:
 
 a)
-Nội dung Kiểm tra (Đối với Ban CTMT c�c th�n):
+Nội dung Kiểm tra (Đối với Ban CTMT các thôn):
 
-- Kiểm tra c�ng
-t�c tổ chức lấy � kiến nhận x�t v� t�n
-nhiệm của cử tri nơi cư tr� đối
+- Kiểm tra công
+tục tổ chức lấy  kiến nhận xãt và tỷn
+nhiệm của cử tri nơi cư trì đối
 với người ứng cử (bao gồm cả
-người ứng cử Quốc hội, HĐND c�c
-cấp cư tr� tr�n địa b�n th�n).
+người ứng cử Quốc hội, HĐND các
+cấp cư trì địa bàn thôn).
 
 - Kiểm tra
-giấy mời, th�nh phần dự họp, số
-lượng cử tri (phải đảm bảo tr�n 50
-cử tri hoặc to�n thể cử tri theo quy định),
-chương tr�nh hội nghị v� bi�n bản x�c nhận
-t�n nhiệm.
+giaấy mời, thành phần dự họp, số
+lượng cử tri (phải đảm bảo trận 50
+cử tri hoặc ton thể cử tri theo quy định),
+chương trình hội nghị và biên bản xãc nhận
+tỷn nhiệm.
 
 - Kiểm tra
-việc Ban CTMT x�c minh c�c vụ việc do cử tri n�u
-đối với người ứng cử (nếu c�).
+việc Ban CTMT xãc minh các vụ việc do cử tri nữu
+đối với người ứng cử (nếu cơ).
 
 b)
-Nội dung Gi�m s�t (Đối với UBBC v� UBND x�):
+Nội dung Giám sát (Đối với UBBC và UBND xã):
 
-- Gi�m s�t việc
-lập v� ni�m yết danh s�ch cử tri tại trụ sở
-UBND x� v� c�c khu vực bỏ phiếu (c�ch t�nh tuổi,
-tư c�ch cử tri).
+- Giám sát việc
+lập và nim yết danh sách cử tri tại trụ sở
+UBND xã và các khu vực bỏ phiếu (cách tỉnh tuổi,
+tư cách cử tri).
 
-- Gi�m s�t việc
-giải quyết khiếu nại về danh s�ch cử tri.
+- Giám sát việc
+giaải quyết khiếu nại về danh sách cử tri.
 
-- Gi�m s�t việc
+- Giám sát việc
 tổ chức Hội nghị hiệp thương lần
-thứ ba để lập danh s�ch ch�nh thức
+thứ ba để lập danh sách chính thức
 người ứng cử.
 
-- Gi�m s�t việc
-tổ chức lấy � kiến cử tri nơi cư tr�
+- Giám sát việc
+tổ chức lấy  kiến cử tri nơi cư trì
 đối với người ứng cử (từ
 04/02/2026 đến 08/02/2026).
 
-- Gi�m s�t việc
-vận động bầu cử th�ng qua c�c hội nghị
-tiếp x�c cử tri; đảm bảo c�ng bằng
-giữa c�c ứng cử vi�n.
+- Giám sát việc
+vận động bầu cử tháng qua các hội nghị
+tiếp xãc cử tri; đảm bảo công bằng
+giữa các ứng cử vin.
 
-3. Đợt 3: Từ ng�y 15/3/2026
-đến ng�y bầu cử gồm c�c nội dung trọng t�m:
+3. Đợt 3: Từ ngày 15/3/2026
+đến ngày bầu cử gồm các nội dung trọng tỷm:
 
 a)
-Nội dung Kiểm tra (Đối với Ban CTMT c�c th�n):
+Nội dung Kiểm tra (Đối với Ban CTMT các thôn):
 
 - Kiểm tra
-việc tham gia phụ tr�ch c�c Tổ bầu cử của
-th�nh vi�n Ban CTMT.
+việc tham gia phụ trách các Tổ bầu cử của
+thành vin Ban CTMT.
 
 - Kiểm tra
-việc tiếp nhận, xử l�, giải quyết
-đơn thư khiếu nại, tố c�o, kiến
-nghị li�n quan đến những người
+việc tiếp nhận, xử lã, giaải quyết
+đơn thư khiếu nại, tố cơo, kiến
+nghị liên quan đến những người
 được giới thiệu ứng cử thuộc
-tr�ch nhiệm của Mặt trận th�n.
+trách nhiệm của Mặt trận thôn.
 
-- Kiểm tra c�ng
-t�c tuy�n truyền bầu cử tại khu d�n cư.
+- Kiểm tra công
+tục tuyn truyền bầu cử tại khu dân cư.
 
 b)
-Nội dung Gi�m s�t (Đối với Tổ bầu cử
-v� UBND x�):
+Nội dung Giám sát (Đối với Tổ bầu cử
+và UBND xã):
 
-- Gi�m s�t việc
-vận động bầu cử (đảm bảo c�ng
-bằng giữa c�c ứng cử vi�n).
+- Giám sát việc
+vận động bầu cử (đảm bảo công
+bằng giữa các ứng cử vin).
 
-- Gi�m s�t việc
-ni�m yết danh s�ch người ứng cử.
+- Giám sát việc
+nim yết danh sách người ứng cử.
 
-- Gi�m s�t hoạt
-động của c�c Tổ bầu cử: Việc bố
-tr� khu vực bỏ phiếu, h�m phiếu, con dấu.
+- Giám sát hoạt
+động của các Tổ bầu cử: Việc bố
+trì khu vực bỏ phiếu, hồm phiếu, con dấu.
 
-- Gi�m s�t việc
-chấp h�nh nguy�n tắc phổ th�ng, b�nh đẳng,
-trực tiếp v� bỏ phiếu k�n; việc đ�ng
-dấu �Đ� bỏ phiếu� v�o thẻ cử tri; việc
-mở h�m phiếu v� kiểm phiếu.
+- Giám sát việc
+chấp hành nguyn tắc phổ tháng, bảnh đẳng,
+trực tiếp và bỏ phiếu kín; việc đồng
+dấu Đề bỏ phiếu vào thẻ cử tri; việc
+mở hồm phiếu và kiểm phiếu.
 
-IV. H�NH THỨC KIỂM TRA, GI�M S�T
+IV. HồNH THỨC KIỂM TRA, GIM SốT
 
-Căn cứ t�nh
-h�nh thực tế tại địa phương, Ban
-Thường trực Ủy ban MTTQ Việt Nam x�
-Lương Minh tổ chức thực hiện c�c h�nh
+Căn cứ tỉnh
+hành thực tế tại địa phương, Ban
+Thường trực Ủy ban MTTQ Việt Nam xã
+Lương Minh tổ chức thực hiện các hành
 thức sau:
 
-1. Gi�m
-s�t trực tiếp Ban Thường trực Ủy ban MTTQ x�
-v� c�c th�nh vi�n thực hiện gi�m s�t trực tiếp th�ng
-qua việc tham dự c�c hoạt động sau:
+1. Giám
+sát trực tiếp Ban Thường trực Ủy ban MTTQ xã
+và các thành vin thực hiện giaám sát trực tiếp tháng
+qua việc tham dự các hoạt động sau:
 
-- Tham dự c�c
-cuộc họp của Ủy ban Bầu cử x�, c�c Ban
+- Tham dự các
+cuộc họp của Ủy ban Bầu cử xã, các Ban
 Bầu cử, Tổ bầu cử.
 
-- Tham dự c�c
+- Tham dự các
 Hội nghị hiệp thương (lần 1, 2, 3) do Ban
-Thường trực UBMTTQ x� chủ tr� (tự gi�m s�t quy
-tr�nh).
+Thường trực UBMTTQ xã chủ trì (tự giaám sát quy
+trình).
 
 - Trực tiếp
-tham dự c�c Hội nghị cử tri giới thiệu
-người ứng cử tại th�n v� cơ quan,
-đơn vị; Hội nghị lấy � kiến nhận
-x�t v� t�n nhiệm của cử tri nơi cư tr�.
+tham dự các Hội nghị cử tri giới thiệu
+người ứng cử tại thôn và cơ quan,
+đơn vị; Hội nghị lấy  kiến nhận
+xãt và tỷn nhiệm của cử tri nơi cư trì.
 
-- Tham dự c�c
-hội nghị tiếp x�c cử tri để vận
+- Tham dự các
+hội nghị tiếp xãc cử tri để vận
 động bầu cử của người ứng
 cử.
 
-- Th�ng qua c�ng t�c
-tiếp c�ng d�n, tiếp nhận v� xử l� đơn
-thư khiếu nại, tố c�o, kiến nghị, phản
-�nh của Nh�n d�n về bầu cử.
+- Tháng qua công tác
+tiếp công dân, tiếp nhận và xử lã đơn
+thư khiếu nại, tố cơo, kiến nghị, phản
+nh của Nhân dân về bầu cử.
 
 2.
-Phối hợp kiểm tra, gi�m s�t: Cử đại
-diện l�nh đạo Ban Thường trực tham gia c�c
-Đo�n kiểm tra, gi�m s�t c�ng t�c bầu cử của
-Đảng ủy, Hội đồng nh�n d�n hoặc
-Ủy ban Bầu cử x� Lương Minh khi c� đề
+Phối hợp kiểm tra, giaám sát: Cử đại
+diện lĩnh đạo Ban Thường trực tham gia các
+Đoàn kiểm tra, giaám sát công tác bầu cử của
+Đảng ủy, Hội đồng nhân dân hoặc
+Ủy ban Bầu cử xã Lương Minh khi cơ đề
 nghị phối hợp.
 
 3.
-Tổ chức Đo�n kiểm tra, gi�m s�t: Ban Thường
-trực Ủy ban MTTQ x� th�nh lập Đo�n kiểm tra, gi�m
-s�t để tiến h�nh kiểm tra, gi�m s�t tại c�c th�n
-v� c�c khu vực bỏ phiếu.
+Tổ chức Đoàn kiểm tra, giaám sát: Ban Thường
+trực Ủy ban MTTQ xã thành lập Đoàn kiểm tra, giaám
+sát để tiến hành kiểm tra, giaám sát tại các thôn
+và các khu vực bỏ phiếu.
 
-- Th�nh phần
-đo�n: Trưởng đo�n l� đại diện L�nh
-đạo Ban Thường trực UBMTTQ x�; th�nh vi�n gồm
-đại diện c�c tổ chức th�nh vi�n (Đo�n Thanh
-ni�n, Hội Phụ nữ, Hội N�ng d�n...) v� c�n bộ am
-hiểu c�ng t�c bầu cử.
+- Thành phần
+đoàn: Trưởng đoàn lã đại diện Lĩnh
+đạo Ban Thường trực UBMTTQ xã; thành vin gồm
+đại diện các tổ chức thành vin (Đoàn Thanh
+niên, Hội Phụ nữ, Hội Nông dân...) và cơn bộ am
+hiểu công tác bầu cử.
 
 - Đối
-tượng v� địa b�n:
+tượng và địa bản:
 
 + Tập trung
-kiểm tra, gi�m s�t tại những th�n (Ban CTMT) c� dấu
-hiệu h�nh thức, chậm tiến độ hoặc c�
-đơn thư khiếu nại, tố c�o, dư luận
+kiểm tra, giaám sát tại những thôn (Ban CTMT) cơ dấu
+hiệu hành thức, chậm tiến độ hoặc cơ
+đơn thư khiếu nại, tố cơo, dư luận
 phức tạp.
 
-+ �Gi�m s�t trực tiếp tại c�c
-điểm bỏ phiếu trong ng�y bầu cử.
++ Giám sát trực tiếp tại các
+điểm bỏ phiếu trong ngày bầu cử.
 
-- Phương ph�p:
-Kết hợp nghe b�o c�o trực tiếp v� nghi�n cứu
-hồ sơ, t�i liệu li�n quan (bi�n bản hội
-nghị, danh s�ch cử tri, phiếu bầu...).
+- Phương pháp:
+Kết hợp nghe bảo cơo trực tiếp và nghiện cứu
+hồ sơ, tỷi liệu liên quan (biên bản hội
+nghị, danh sách cử tri, phiếu bầu...).
 
 V. TỔ CHỨC THỰC HIỆN
 
 1. Ban Thường trực Ủy ban
-MTTQ Việt Nam x� Lương Minh
+MTTQ Việt Nam xã Lương Minh
 
-- Ban h�nh Kế
-hoạch v� Quyết định th�nh lập Đo�n kiểm
-tra, gi�m s�t của Ủy ban MTTQ x�; hướng dẫn Ban
-C�ng t�c Mặt trận c�c th�n triển khai thực hiện.
+- Ban hành Kế
+hoạch và Quyết định thành lập Đoàn kiểm
+tra, giaám sát của Ủy ban MTTQ xã; hướng dẫn Ban
+Công tác Mặt trận các thôn triển khai thực hiện.
 
 - Tổ chức
-c�c đo�n gi�m s�
+các đoàn giaám số
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
-📄 KH Tieu ban tuyên truyền bầu cử đại biểu QH và HĐND các cấp
+📄 KH Tiểu ban tuyên truyền bầu cử đại biểu QH và HĐND các cấp
 ════════════════════════════════════════════════════════════════════════════════
 Admin
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  4
  2026-02-09T14:21:00Z
@@ -4316,248 +4315,248 @@ Admin
  
  EN-US
 
- ỦY BAN BẦU CỬ X� PHỐ BẢNG 
+ ỦY BAN BẦU CỬ Xã PHỐ BẢNG 
 
- TIỂU BAN TH�NG TIN, TUY�N TRUYỀN,
- KH�NH TIẾT
+ TIỂU BAN THồNG TIN, TUYN TRUYỀN,
+ KHồNH TIẾT
 
  Số:
  01/KH-TBTTKT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA VIỆT
+ CỘNG HồA Xã HỘI CHỦ NGHĨA VIỆT
  NAM
 
  Độc lập - Tự do - Hạnh
- ph�c
+ phúc
 
- Phố Bảng, ng�y 10 th�ng 12
+ Phố Bảng, ngày 10 tháng 12
  năm 2025
 
 KẾ HOẠCH
 
 Triển khai của
-Tiểu ban th�ng tin, tuy�n truyền, kh�nh tiết bầu cử
-đại biểu Quốc hội kh�a XVI v� bầu cử
-đại biểu Hội đồng nh�n d�n c�c cấp,
+Tiểu ban tháng tin, tuyn truyền, khành tiết bầu cử
+đại biểu Quốc hội khóa XVI và bầu cử
+đại biểu Hội đồng nhân dân các cấp,
 
 nhiệm kỳ
-2026 - 2031 tr�n địa b�n x� Phố Bảng
+2026 - 2031 địa bàn xã Phố Bảng
 
 Căn cứ Quyết
-định số 03/QĐ-UBBC ng�y 05/12/2025 của Ủy ban
-bầu cử x� Phố Bảng Về việc th�nh lập
-Tiểu ban th�ng tin, tuy�n truyền, kh�nh tiết bầu cử
-đại biểu Quốc hội kh�a XVI v� bầu cử
-đại biểu Hội đồng nh�n d�n c�c cấp, nhiệm
-kỳ 2026 - 2031 tr�n địa b�n x� Phố Bảng.
+định số 03/QĐ-UBBC ngày 05/12/2025 của Ủy ban
+bầu cử xã Phố Bảng Về việc thành lập
+Tiểu ban tháng tin, tuyn truyền, khành tiết bầu cử
+đại biểu Quốc hội khóa XVI và bầu cử
+đại biểu Hội đồng nhân dân các cấp, nhiệm
+kỳ 2026 - 2031 địa bàn xã Phố Bảng.
 
-Tiểu ban th�ng tin,
-tuy�n truyền, kh�nh tiết bầu cử đại biểu
-Quốc hội kh�a XVI v� bầu cử đại biểu Hội
-đồng nh�n d�n c�c cấp, nhiệm kỳ 2026 - 2031 x�y dựng
+Tiểu ban tháng tin,
+tuyn truyền, khành tiết bầu cử đại biểu
+Quốc hội khóa XVI và bầu cử đại biểu Hội
+đồng nhân dân các cấp, nhiệm kỳ 2026 - 2031 xãy dựng
 kế hoạch triển khai thực hiện như sau:
 
-I. MỤC Đ�CH, Y�U CẦU
+I. MỤC ĐềCH, YU CẦU
 
-1. Mục đ�ch
+1. Mục đích
 
-- Tuy�n truyền s�u rộng,
+- Tuyn truyền sốu rộng,
 tạo sự thống nhất cao về nhận thức,
-tư tưởng ch�nh trị v� h�nh động trong Đảng,
-sự đồng thuận trong x� hội để tổ
-chức th�nh c�ng cuộc bầu cử đại biểu
-Quốc hội kh�a XVI v� đại biểu Hội đồng
-nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031 bảo đảm
-d�n chủ, b�nh đẳng, đ�ng ph�p luật, an to�n, tiết
-kiệm v� thực sự l� Ng�y hội của to�n d�n; g�p phần
-củng cố niềm tin của Nh�n d�n với Đảng,
-Nh� nước v� sự nghiệp đổi mới đất
+tư tưởng chính trị và hành động trong Đảng,
+sự đồng thuận trong xã hội để tổ
+chức thành công cuộc bầu cử đại biểu
+Quốc hội khóa XVI và đại biểu Hội đồng
+nhân dân các cấp nhiệm kỳ 2026 - 2031 bảo đảm
+dân chủ, bảnh đẳng, đồng pháp luật, an ton, tiết
+kiệm và thực sự lã Ngày hội của ton dân; góp phần
+củng cố niềm tin của Nhân dân với Đảng,
+Nhà nước và sự nghiệp đổi mới đất
 nước.
 
-- Th�ng qua c�c hoạt động tuy�n truyền về
+- Tháng qua các hoạt động tuyn truyền về
 cuộc bầu cử đại biểu Quốc hội
-kh�a XVI v� bầu cử đại biểu Hội đồng
-nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031, ph�t huy quyền
-l�m chủ của Nh�n d�n, n�ng cao � thức tr�ch nhiệm ch�nh
-trị tham gia x�y dựng, củng cố v� ho�n thiện Nh�
-nước ph�p quyền x� hội chủ nghĩa Việt
-Nam của Nh�n d�n, do Nh�n d�n, v� Nh�n d�n; g�p phần t�ch cực
-x�y dựng, chỉnh đốn Đảng v� hệ thống
-ch�nh trị trong sạch, vững mạnh to�n diện. 
+khóa XVI và bầu cử đại biểu Hội đồng
+nhân dân các cấp nhiệm kỳ 2026 - 2031, phát huy quyền
+làm chủ của Nhân dân, nông cao  thức trách nhiệm chính
+trị tham gia xãy dựng, củng cố và hòan thiện Nhà
+nước pháp quyền xã hội chủ nghĩa Việt
+Nam của Nhân dân, do Nhân dân, và Nhân dân; góp phần tịch cực
+xãy dựng, chỉnh đốn Đảng và hệ thống
+chính trị trong sạch, vững mạnh ton diện. 
 
-- G�p phần cổ vũ, động vi�n c�c tầng lớp
-nh�n d�n ph�t huy cao độ tinh thần y�u nước, sức
-mạnh đại đo�n kết to�n d�n tộc, hăng h�i
-tham gia c�c phong tr�o thi đua y�u nước ch�o mừng
+- Góp phần cổ vũ, động vin các tầng lớp
+nhân dân phát huy cao độ tinh thần yêu nước, sức
+mạnh đại đoàn kết ton dân tộc, hăng hội
+tham gia các phong trìo thi đua yêu nước chỉo mừng
 cuộc bầu cử đại
-biểu Quốc hội kh�a XVI v� bầu cử đại
-biểu Hội đồng nh�n d�n c�c cấp nhiệm kỳ
+biểu Quốc hội khóa XVI và bầu cử đại
+biểu Hội đồng nhân dân các cấp nhiệm kỳ
 2026 - 2031.
 
-2. Y�u cầu
+2. Yêu cầu
 
-- C�ng t�c tuy�n truyền
+- Công tác tuyn truyền
 cuộc bầu cử đại biểu Quốc hội
-kh�a XVI v� bầu cử đại biểu Hội đồng
-nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031 phải b�m s�t
-hướng dẫn, định hướng ch�nh trị,
-tư tưởng của Ban Tuy�n gi�o v� D�n vận Trung
+khóa XVI và bầu cử đại biểu Hội đồng
+nhân dân các cấp nhiệm kỳ 2026 - 2031 phải bổm sát
+hướng dẫn, định hướng chính trị,
+tư tưởng của Ban Tuyn giaơo và Dân vận Trung
 ương, Hội đồng Bầu cử Quốc gia,
-Ban Tuy�n gi�o v� D�n vận Tỉnh ủy; c�c văn bản
-l�nh đạo, chỉ đạo của Tỉnh ủy, Ủy
+Ban Tuyn giaơo và Dân vận Tỉnh ủy; các văn bản
+lĩnh đạo, chỉ đạo của Tỉnh ủy, Ủy
 ban bầu cử tỉnh, hướng dẫn của ban
-Tuy�n gi�o v� D�n vận Tỉnh ủy; bảo đảm xuy�n
-suốt, đồng bộ, thường xuy�n, c� trọng
-t�m, trọng điểm, thiết thực, hiệu quả,
-tạo kh�ng kh� phấn khởi trong Nh�n d�n; gắn với
-tuy�n truyền kết quả Đại hội đại
-biểu Đảng bộ x�, Đại hội đại
+Tuyn giaơo và Dân vận Tỉnh ủy; bảo đảm xuyn
+suốt, đồng bộ, thường xuyn, cơ trọng
+tỷm, trọng điểm, thiết thực, hiệu quả,
+tạo không khồ phấn khởi trong Nhân dân; gắn với
+tuyn truyền kết quả Đại hội đại
+biểu Đảng bộ xã, Đại hội đại
 biểu Đảng bộ tỉnh lần thứ I, nhiệm
 kỳ 2025 - 2030.
 
 - Nội
-dung tuy�n truyền b�m s�t c�c văn bản chỉ đạo
-của cấp tr�n; Phương ph�p tuy�n truyền ph�
+dung tuyn truyền bổm sát các văn bản chỉ đạo
+của cấp trận; Phương pháp tuyn truyền phụ
 hợp với từng đối tượng, từng
-địa b�n v� điều kiện cụ thể của
+địa bản và điều kiện cụ thể của
 địa phương; kết hợp chặt chẽ
-giữa tuy�n truyền tr�n c�c phương tiện truyền
-th�ng đại ch�ng với tuy�n truyền trực tiếp
+giữa tuyn truyền trận các phương tiện truyền
+tháng đại chọng với tuyn truyền trực tiếp
 ở cơ sở.
 
-- C�ng
-t�c kh�nh tiết phải trang trọng, chu đ�o, tiết kiệm,
-thiết thực, đ�ng quy định, đảm bảo
-t�nh thẩm mỹ v� � nghĩa ch�nh trị s�u sắc.
+- Công
+tục khành tiết phải trang trọng, chu đảo, tiết kiệm,
+thiết thực, đồng quy định, đảm bảo
+tỉnh thẩm mỹ và  nghĩa chính trị sốu sắc.
 
-II. LỘ TR�NH THỰC
-HIỆN V� NỘI DUNG TUY�N TRUYỀN
+II. LỘ TRNH THỰC
+HIỆN Và NỘI DUNG TUYN TRUYỀN
 
-1. Nội dung tuy�n truyền
-xuy�n suốt từ nay đến kết th�c cuộc bầu
-cử đại biểu Quốc hội kh�a XVI
+1. Nội dung tuyn truyền
+xuyn suốt từ nay đến kết thực cuộc bầu
+cử đại biểu Quốc hội khóa XVI
 
-- Tuy�n truyền, phổ
-biến s�u rộng trong c�n bộ, đảng vi�n, Nh�n d�n về
-� nghĩa, tầm quan trọng của cuộc bầu cử
-đại biểu Quốc hội kh�a XVI v� đại biểu
-Hội đồng nh�n d�n c�c cấp nhiệm kỳ 2026 -
-2031; ph�n t�ch l�m r� cuộc bầu cử diễn ra trong thời
-điểm Đại hội đại biểu to�n quốc
-lần thứ XIV của Đảng vừa kết th�c
-th�nh c�ng tốt đẹp, thực hiện th�nh c�ng cuộc
-c�ch mạng sắp xếp tinh gọn bộ m�y của hệ
-thống ch�nh trị v� thực hiện m� h�nh ch�nh quyền
-địa phương 2 cấp theo hướng �Tinh gọn, hiệu năng, hiệu
-lực, hiệu quả� v� những th�nh tựu to lớn,
-c� � nghĩa lịch sử tr�n mọi mặt của đất
-nước sau 40 năm thực hiện c�ng cuộc đổi
-mới dưới sự l�nh đạo của Đảng;
-to�n Đảng, to�n d�n v� to�n qu�n nỗ lực phấn
-đấu, đo�n kết, thống nhất, chung sức,
-đồng l�ng, tận dụng mọi thời cơ, thuận
-lợi, vượt qua mọi kh� khăn, th�ch thức, tiếp
-tục đưa đất nước ph�t triển nhanh,
+- Tuyn truyền, phổ
+biến sốu rộng trong cơn bộ, đảng vin, Nhân dân về
+ nghĩa, tầm quan trọng của cuộc bầu cử
+đại biểu Quốc hội khóa XVI và đại biểu
+Hội đồng nhân dân các cấp nhiệm kỳ 2026 -
+2031; phân tịch làm r cuộc bầu cử diễn ra trong thời
+điểm Đại hội đại biểu ton quốc
+lần thứ XIV của Đảng vừa kết thực
+thành công tốt đẹp, thực hiện thành công cuộc
+cách mạng sắp xếp tinh gọn bộ my của hệ
+thống chính trị và thực hiện m hành chính quyền
+địa phương 2 cấp theo hướng Tinh gọn, hiệu năng, hiệu
+lực, hiệu quả và những thành tựu to lớn,
+cơ  nghĩa lịch sử trận mọi mặt của đất
+nước sau 40 năm thực hiện công cuộc đổi
+mới dưới sự lĩnh đạo của Đảng;
+ton Đảng, ton dân và ton quản nỗ lực phấn
+đấu, đoàn kết, thống nhất, chung sức,
+đồng lứng, tận dụng mọi thời cơ, thuận
+lợi, vượt qua mọi khồ khăn, thựch thức, tiếp
+tục đưa đất nước phát triển nhanh,
 bền vững.
 
-- Tuy�n truyền qu�n triệt
-đầy đủ, s�u sắc chủ trương, quan
-điểm l�nh đạo, chỉ đạo của Đảng,
-ch�nh s�ch, ph�p luật của Nh� nước về cuộc bầu
-cử, đặc biệt c�c văn bản chỉ đạo
-của Bộ Ch�nh trị, Ban B� thư, Thủ tướng
-Ch�nh phủ, Hội đồng bầu cử Quốc gia,
+- Tuyn truyền quản triệt
+đầy đủ, sốu sắc chủ trương, quan
+điểm lĩnh đạo, chỉ đạo của Đảng,
+chính sách, pháp luật của Nhà nước về cuộc bầu
+cử, đặc biệt các văn bản chỉ đạo
+của Bộ Chính trị, Ban Bổ thư, Thủ tướng
+Chính phủ, Hội đồng bầu cử Quốc gia,
 Ban Thường vụ Tỉnh ủy, Ủy ban bầu của
-tỉnh v� c�c cơ quan chức năng[1]; ch� trọng
-th�ng tin về đổi mới tổ chức bầu cử
-đại biểu Quốc hội v� đại biểu Hội
-đồng nh�n d�n c�c cấp bảo đảm ph� hợp với
-nguy�n tắc cơ bản của Nh� nước ph�p quyền
-x� hội chủ nghĩa Việt Nam, với quy định
-của Hiến ph�p 2013[2]; bảo đảm
-t�nh thống nhất của hệ thống ph�p luật, ph�
-hợp với điều kiện ph�t triển kinh tế -
-x� hội của đất nước v� của tỉnh.
-Nhấn mạnh l�m r� tr�ch nhiệm của cấp ủy
-đảng, ch�nh quyền c�c cấp trong l�nh đạo, chỉ
-đạo c�ng t�c nh�n sự, bảo đảm ph�t huy d�n chủ
-gắn với sự l�nh đạo tập trung, thống
-nhất của Đảng về c�ng t�c c�n bộ; gắn
-kết quả nh�n sự Đại hội Đảng bộ
-c�c cấp, Đại hội đại biểu Đảng
+tỉnh và các cơ quan chức năng[1]; chỉ trọng
+tháng tin về đổi mới tổ chức bầu cử
+đại biểu Quốc hội và đại biểu Hội
+đồng nhân dân các cấp bảo đảm phụ hợp với
+nguyn tắc cơ bản của Nhà nước pháp quyền
+xã hội chủ nghĩa Việt Nam, với quy định
+của Hiến pháp 2013[2]; bảo đảm
+tỉnh thống nhất của hệ thống pháp luật, phụ
+hợp với điều kiện phát triển kinh tế -
+xã hội của đất nước và của tỉnh.
+Nhấn mạnh làm r trách nhiệm của cấp ủy
+đảng, chính quyền các cấp trong lĩnh đạo, chỉ
+đạo công tác nhân sự, bảo đảm phát huy dân chủ
+gắn với sự lĩnh đạo tập trung, thống
+nhất của Đảng về công tác cơn bộ; gắn
+kết quả nhân sự Đại hội Đảng bộ
+các cấp, Đại hội đại biểu Đảng
 bộ tỉnh lần thứ I, nhiệm kỳ 2025 - 2030,
-Đại hội đại biểu to�n quốc lần thứ
-XIV của Đảng v� quy hoạch c�n bộ với c�ng
-t�c chuẩn bị giới thiệu nh�n sự đại biểu
-Quốc hội, đại biểu Hội đồng nh�n
-d�n c�c cấp. Ph�n t�ch l�m r� việc lựa chọn, giới
+Đại hội đại biểu ton quốc lần thứ
+XIV của Đảng và quy hoạch cơn bộ với công
+tục chuẩn bị giới thiệu nhân sự đại biểu
+Quốc hội, đại biểu Hội đồng nhân
+dân các cấp. Phân tịch làm r việc lựa chọn, giới
 thiệu người ứng cử đại biểu Quốc
-hội, đại biểu Hội đồng nh�n d�n c�c cấp
-phải bảo đảm đ�ng quy tr�nh của ph�p luật,
-hướng dẫn của c�c cơ quan Trung ương c�
+hội, đại biểu Hội đồng nhân dân các cấp
+phải bảo đảm đồng quy trình của pháp luật,
+hướng dẫn của các cơ quan Trung ương cơ
 thẩm quyền.
 
-- Tuy�n truyền ti�u chuẩn, cơ cấu,
-số lượng đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n c�c cấp, cụ
+- Tuyn truyền tiêu chuẩn, cơ cấu,
+số lượng đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân các cấp, cụ
 thể:
 
-+ Về ti�u chuẩn: Lựa chọn,
-giới thiệu những người ti�u biểu, c� quan
-điểm, lập trường ch�nh trị vững v�ng,
-đủ ti�u chuẩn, c� năng lực v� điều kiện
++ Về tiêu chuẩn: Lựa chọn,
+giới thiệu những người tiêu biểu, cơ quan
+điểm, lập trường chính trị vững vùng,
+đủ tiêu chuẩn, cơ năng lực và điều kiện
 thực hiện nhiệm vụ đại biểu Quốc
-hội v� đại biểu Hội đồng nh�n d�n;
-kh�ng đưa v�o danh s�ch ứng cử người c� biểu
-hiện cơ hội ch�nh trị, tham vọng quyền lợi,
-bảo thủ, tư tưởng b� ph�i, cục bộ
-địa phương; c�c đối tượng đang
-bị thanh tra, kiểm tra dấu hiệu vi phạm, đ�
-bị c�c cơ quan c� thẩm quyền kết luận kh�ng
+hội và đại biểu Hội đồng nhân dân;
+không đưa vào danh sách ứng cử người cơ biểu
+hiện cơ hội chính trị, tham vọng quyền lợi,
+bảo thủ, tư tưởng bổ phải, cục bộ
+địa phương; các đối tượng đang
+bị thanh tra, kiểm tra dấu hiệu vi phạm, đã
+bị các cơ quan cơ thẩm quyền kết luận không
 trung thực; người đứng đầu cơ quan,
 tổ chức, đơn vị để xảy ra những
-vụ việc tham nhũng, l�ng ph�, ti�u cực, mất
-đo�n kết nghi�m trọng.
+vụ việc tham nhũng, lứng phụ, tiêu cực, mất
+đoàn kết nghim trọng.
 
 + Về cơ cấu số lượng
-đại biểu bảo đảm hợp l� về số
-đại biểu l� người đang c�ng t�c ở
-cơ quan đảng, nh� nước, lực lượng
+đại biểu bảo đảm hợp lã về số
+đại biểu lã người đang công tác ở
+cơ quan đảng, nhà nước, lực lượng
 vũ trang, Mặt trận Tổ quốc; tăng số
-lượng đại biểu chuy�n tr�ch, bảo đảm
-tỷ lệ người ứng cử l� phụ nữ v�
-người d�n tộc thiểu số theo đ�ng quy định
-của Luật bầu cử; c� tỷ lệ hợp l�
-đại biểu c�c t�n gi�o, đại biểu t�i cử,
-đại biểu trẻ tuổi, c�c nh� khoa học, tr� thức,
-văn nghệ sĩ, đại biểu xuất th�n từ
-c�ng nh�n, n�ng d�n, doanh nh�n v� c�c hiệp hội, nghiệp
-đo�n trong sản xuất, kinh doanh; bảo đảm
-nguy�n tắc xử l� tốt mối quan hệ giữa ti�u
-chuẩn v� cơ cấu, giữa kế thừa, ổn
-định, đổi mới v� ph�t triển.
+lượng đại biểu chuyện trách, bảo đảm
+tỷ lệ người ứng cử lã phụ nữ và
+người dân tộc thiểu số theo đồng quy định
+của Luật bầu cử; cơ tỷ lệ hợp lã
+đại biểu các tỷn giaơo, đại biểu tỷi cử,
+đại biểu trẻ tuổi, các nhà khoa học, trì thức,
+văn nghệ sĩ, đại biểu xuất thôn từ
+công nhân, nông dân, doanh nhân và các hiệp hội, nghiệp
+đoàn trong sản xuất, kinh doanh; bảo đảm
+nguyn tắc xử lã tốt mối quan hệ giữa tiêu
+chuẩn và cơ cấu, giữa kế thừa, ổn
+định, đổi mới và phát triển.
 
-+ Đề cao ti�u chuẩn, chất
++ Đề cao tiêu chuẩn, chất
 lượng đại biểu Quốc hội, đại
-biểu Hội đồng nh�n d�n, để bảo đảm
-Quốc hội thực sự cơ quan quyền lực nh�
-nước cao nhất v� Hội đồng nh�n d�n l� cơ
-quan quyền lực nh� nước ở địa
+biểu Hội đồng nhân dân, để bảo đảm
+Quốc hội thực sự cơ quan quyền lực nhà
+nước cao nhất và Hội đồng nhân dân lã cơ
+quan quyền lực nhà nước ở địa
 phương.
 
-- Tuy�n truyền qu� tr�nh triển khai cuộc
-bầu cử đại biểu Quốc hội kh�a XVI v�
-đại biểu Hội đồng nh�n d�n c�c cấp nhiệm
+- Tuyn truyền quả trình triển khai cuộc
+bầu cử đại biểu Quốc hội khóa XVI và
+đại biểu Hội đồng nhân dân các cấp nhiệm
 kỳ 2026 - 2031, kịp thời biểu dương những
-tập thể, c� nh�n c� th�nh t�ch xuất sắc trong c�ng t�c
+tập thể, cơ nhân cơ thành tịch xuất sắc trong công tác
 chuẩn bị, tổ chức tốt bầu cử...
-đồng thời ph�t hiện những bất cập, hạn
-chế, kịp thời đề xuất biện ph�p giải
+đồng thời phát hiện những bất cập, hạn
+chế, kịp thời đề xuất biện pháp giaải
 quyết những vấn đề mới nảy sinh.
-Đề cao tinh thần tr�ch nhiệm, c�ng t�c phối hợp
-của c�c cấp, ng�nh, cơ quan, đơn vị chức
-năng, cử tri tr�n địa b�n tỉnh Tuy�n Quang n�i
-chung v� x� Phố Bảng n�i ri�ng g�p phần v�o sự th
+Đề cao tinh thần trách nhiệm, công tác phối hợp
+của các cấp, ngnh, cơ quan, đơn vị chức
+năng, cử tri địa bàn tỉnh Tuyn Quang nội
+chung và xã Phố Bảng nội riứng góp phần vào sự th
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -4565,7 +4564,7 @@ chung v� x� Phố Bảng n�i ri�ng g�p phần v�o sự th
 ════════════════════════════════════════════════════════════════════════════════
 Admin
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  16
  2025-11-17T10:53:00Z
@@ -4592,300 +4591,300 @@ Admin
  ỦY BAN MTTQ
  VIỆT NAM
 
- X� LƯƠNG
+ Xã LƯƠNG
  MINH
 
  BAN THƯỜNG TRỰC
 
- Số: �����/KH-MTTQ-BTT
+ Số: /KH-MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ CỘNG HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- � �Độc lập - Tự do -
- Hạnh ph�c
+  Độc lập - Tự do -
+ Hạnh phúc
 
- �
+ 
 
  Lương
- Minh, ng�y 10 th�ng 12 năm 2025
+ Minh, ngày 10 tháng 12 năm 2025
 
 KẾ HOẠCH
 
-Tiếp c�ng d�n, xử l�
-đơn thư khiếu nại, tố c�o, kiến
-nghị, phản �nh phục vụ bầu cử
-đại biểu Quốc hội kh�a XVI v� đại
-biểu Hội đồng nh�n d�n c�c cấp nhiệm
-kỳ 2026 � 2031
+Tiếp công dân, xử lã
+đơn thư khiếu nại, tố cơo, kiến
+nghị, phản nh phục vụ bầu cử
+đại biểu Quốc hội khóa XVI và đại
+biểu Hội đồng nhân dân các cấp nhiệm
+kỳ 2026  2031
 
 Căn cứ Luật Bầu cử
-đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n; Luật Mặt trận Tổ
+đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân; Luật Mặt trận Tổ
 quốc Việt Nam; Căn cứ Kế hoạch số
-16/KH-MTTQ-BTT ng�y 23/12/2025 của Ban Thường trực
+16/KH-MTTQ-BTT ngày 23/12/2025 của Ban Thường trực
 Ủy ban MTTQ Việt Nam tỉnh Quảng Ninh về
-tiếp c�ng d�n, xử l� đơn thư khiếu nại,
-tố c�o, kiến nghị, phản �nh phục vụ
+tiếp công dân, xử lã đơn thư khiếu nại,
+tố cơo, kiến nghị, phản nh phục vụ
 bầu cử.
 
 Ban Thường trực Ủy
-ban MTTQ Việt Nam x� Lương Minh x�y dựng kế
-hoạch Tiếp c�ng d�n, xử l� đơn thư khiếu
-nại, tố c�o, kiến nghị, phản �nh phục
-vụ bầu cử đại biểu Quốc hội kh�a
-XVI v� đại biểu Hội đồng nh�n d�n c�c
-cấp nhiệm kỳ 2026 � 2031 tr�n địa b�n x� như
+ban MTTQ Việt Nam xã Lương Minh xãy dựng kế
+hoạch Tiếp công dân, xử lã đơn thư khiếu
+nại, tố cơo, kiến nghị, phản nh phục
+vụ bầu cử đại biểu Quốc hội khóa
+XVI và đại biểu Hội đồng nhân dân các
+cấp nhiệm kỳ 2026  2031 địa bàn xã như
 sau:
 
 I.
-MỤC Đ�CH, Y�U CẦU 
+MỤC ĐềCH, YU CẦU 
 
 1.
-Việc tiếp c�ng d�n, xử l� đơn thư khiếu
-nại, tố c�o, kiến nghị, phản �nh li�n quan
+Việc tiếp công dân, xử lã đơn thư khiếu
+nại, tố cơo, kiến nghị, phản nh liên quan
 đến bầu cử nhằm chủ động
-nắm chắc t�nh h�nh khiếu nại, tố c�o, kiến
-nghị, phản �nh của Nh�n d�n để kịp
-thời kiến nghị với Uỷ ban bầu cử x�;
-c�c tổ chức phụ tr�ch bầu cử v� ch�nh quyền
-c�ng cấp chỉ đạo giải quyết theo thẩm
-quyền g�p phần tổ chức th�nh c�ng cuộc bầu
-cử đại biểu Quốc hội kh�a XVI v�
-đại biểu HĐND c�c cấp nhiệm kỳ
-2026-2031 đ�ng ph�p luật.
+nắm chắc tỉnh hành khiếu nại, tố cơo, kiến
+nghị, phản nh của Nhân dân để kịp
+thời kiến nghị với Uỷ ban bầu cử xã;
+các tổ chức phụ trách bầu cử và chính quyền
+công cấp chỉ đạo giaải quyết theo thẩm
+quyền góp phần tổ chức thành công cuộc bầu
+cử đại biểu Quốc hội khóa XVI và
+đại biểu HĐND các cấp nhiệm kỳ
+2026-2031 đồng pháp luật.
 
 2.
-Tiếp nhận đầy đủ, ph�n loại, xử
-l� bước đầu c�c đơn thư li�n quan
-đến người ứng cử, danh s�ch cử tri,
+Tiếp nhận đầy đủ, phân loại, xử
+lã bước đầu các đơn thư liên quan
+đến người ứng cử, danh sách cử tri,
 tổ chức hội nghị cử tri, hoạt
-động bỏ phiếu, kiểm phiếu v� c�ng bố
-kết quả. Hướng dẫn c�ng d�n tr�nh b�y đ�ng
-thẩm quyền, đ�ng tr�nh tự, giải th�ch r�
-quyền v� tr�ch nhiệm của MTTQ v� cơ quan c� thẩm
-quyền kh�c; tr�nh để ph�t sinh đơn vượt
-cấp hoặc tr�ng lặp. Chuyển đơn đ�ng
-cơ quan c� thẩm quyền giải quyết theo quy
+động bỏ phiếu, kiểm phiếu và công bố
+kết quả. Hướng dẫn công dân trình bày đồng
+thẩm quyền, đồng trình tự, giaải thựch r
+quyền và trách nhiệm của MTTQ và cơ quan cơ thẩm
+quyền khồc; trình để phát sinh đơn vượt
+cấp hoặc trậng lặp. Chuyển đơn đồng
+cơ quan cơ thẩm quyền giaải quyết theo quy
 định của Luật Bầu cử, Luật Khiếu
-nại, Luật Tố c�o v� c�c hướng dẫn li�n quan;
-theo d�i, đ�n đốc kết quả xử l� của
+nại, Luật Tố cơo và các hướng dẫn liên quan;
+theo dựi, đến đốc kết quả xử lã của
 cơ quan được chuyển đơn.
 
 3.
-Việc tiếp c�ng d�n v� xử l� đơn thư
-khiếu nại, tố c�o, kiến nghị, phản �nh
-phải ph�n loại, xử l� kịp thời, ch�nh x�c v�
-đ�ng thẩm quyền theo quy định của ph�p
-luật. Lưu trữ, quản l� hồ sơ c�ng t�c
-tiếp c�ng d�n, xử l� đơn thư theo quy
-định về bảo mật, thống k�, đảm bảo
-phục vụ c�ng t�c tổng kết, b�o c�o. Đối với c�c khiếu
-nại, tố c�o, kiến nghị li�n quan đến
+Việc tiếp công dân và xử lã đơn thư
+khiếu nại, tố cơo, kiến nghị, phản nh
+phải phân loại, xử lã kịp thời, chính xãc và
+đồng thẩm quyền theo quy định của pháp
+luật. Lưu trữ, quản lã hồ sơ công tác
+tiếp công dân, xử lã đơn thư theo quy
+định về bảo mật, thống k, đảm bảo
+phục vụ công tác tổng kết, bảo cơo. Đối với các khiếu
+nại, tố cơo, kiến nghị liên quan đến
 người ứng cử đại biểu Quốc
-hội v� đại biểu HĐND tỉnh, Ban Thường
-trực UBMTTQ x� phải kịp thời chuyển đơn
-hoặc hướng dẫn c�ng d�n gửi đơn
-đến cơ quan c� thẩm quyền theo quy định,
-tuyệt đối kh�ng tự � giữ đơn hoặc
-tự � giải quyết.
+hội và đại biểu HĐND tỉnh, Ban Thường
+trực UBMTTQ xã phải kịp thời chuyển đơn
+hoặc hướng dẫn công dân gửi đơn
+đến cơ quan cơ thẩm quyền theo quy định,
+tuyệt đối không tự  giaữ đơn hoặc
+tự  giaải quyết.
 
 4. Đối
-với những đơn thư tố c�o, khiếu
-nại li�n quan đến nh�n sự bầu cử
-đại biểu Quốc hội kh�a XVI v� đại
-biểu HĐND c�c cấp nhiệm kỳ 2026-2031, bộ
-phận xử l� đơn thư phải tham mưu cho Ban
-Thường trực Ủy ban MTTQ x� phối hợp xử
-l� kịp thời, đ�ng quy tr�nh, thời hạn v� c�c quy
-định ph�p luật.
+với những đơn thư tố cơo, khiếu
+nại liên quan đến nhân sự bầu cử
+đại biểu Quốc hội khóa XVI và đại
+biểu HĐND các cấp nhiệm kỳ 2026-2031, bộ
+phận xử lã đơn thư phải tham mưu cho Ban
+Thường trực Ủy ban MTTQ xã phối hợp xử
+lã kịp thời, đồng quy trình, thời hạn và các quy
+định pháp luật.
 
 II. NỘI DUNG THỰC HIỆN
 
-1. Tổ chức tiếp c�ng d�n
+1. Tổ chức tiếp công dân
 về bầu cử
 
 - Địa
-điểm: Tại Ph�ng tiếp c�ng d�n của UBND x�
-hoặc Văn ph�ng Ủy ban MTTQ x� Lương Minh.
+điểm: Tại Phòng tiếp công dân của UBND xã
+hoặc Văn phòng Ủy ban MTTQ xã Lương Minh.
 
 - Thời gian: Duy
-tr� thường xuy�n trong giờ h�nh ch�nh suốt qu� tr�nh
-diễn ra bầu cử. Đặc biệt, ph�n c�ng c�n
+trì thường xuyn trong giaờ hành chính suốt quả trình
+diễn ra bầu cử. Đặc biệt, phân công cơn
 bộ trực (cả thứ Bảy, Chủ nhật) trong
-c�c thời điểm cao điểm: Ni�m yết danh s�ch
-cử tri, ni�m yết danh s�ch người ứng cử v�
-những ng�y s�t ng�y bầu cử.
+các thời điểm cao điểm: Nim yết danh sách
+cử tri, nim yết danh sách người ứng cử và
+những ngày sát ngày bầu cử.
 
 - Nhiệm vụ:
 
 + Lắng nghe, ghi
-ch�p đầy đủ � kiến, kiến nghị của
+chấp đầy đủ  kiến, kiến nghị của
 cử tri.
 
-+ Giải th�ch,
-hướng dẫn c�ng d�n thực hiện quyền
-khiếu nại, tố c�o đ�ng quy định, đ�ng
-cơ quan c� thẩm quyền.
++ Giải thựch,
+hướng dẫn công dân thực hiện quyền
+khiếu nại, tố cơo đồng quy định, đồng
+cơ quan cơ thẩm quyền.
 
-2. Tiếp nhận v� xử l�
-đơn thư khiếu nại, tố c�o, kiến
-nghị Ban Thường trực UBMTTQ x�
-thực hiện quy tr�nh xử l� đơn thư theo
+2. Tiếp nhận và xử lã
+đơn thư khiếu nại, tố cơo, kiến
+nghị Ban Thường trực UBMTTQ xã
+thực hiện quy trình xử lã đơn thư theo
 hướng dẫn tại Mục II Kế hoạch số
 16/KH-BTT-MTTQ của Tỉnh, cụ thể:
 
 - Đối
-với khiếu nại về danh s�ch cử tri:
-Hướng dẫn c�ng d�n hoặc chuyển đơn
-đến Ủy ban nh�n d�n x� Lương Minh để
-giải quyết theo thẩm quyền (trong thời hạn
-05 ng�y kể từ ng�y nhận đơn).
+với khiếu nại về danh sách cử tri:
+Hướng dẫn công dân hoặc chuyển đơn
+đến Ủy ban nhân dân xã Lương Minh để
+giaải quyết theo thẩm quyền (trong thời hạn
+05 ngày kể từ ngày nhận đơn).
 
 - Đối
-với đơn thư li�n quan đến người
+với đơn thư liên quan đến người
 ứng cử:
 
-+ Nếu li�n quan
-đến ti�u chuẩn, hồ sơ người ứng
-cử: Chuyển ngay đến Ủy ban Bầu cử x�
++ Nếu liên quan
+đến tiêu chuẩn, hồ sơ người ứng
+cử: Chuyển ngay đến Ủy ban Bầu cử xã
 Lương Minh.
 
-+ Nếu li�n quan
-đến người được MTTQ x� giới
-thiệu: Ban Thường trực UBMTTQ x� chủ tr� x�c minh
++ Nếu liên quan
+đến người được MTTQ xã giới
+thiệu: Ban Thường trực UBMTTQ xã chủ trì xãc minh
 (đối với người của cơ quan MTTQ)
-hoặc phối hợp với c�c tổ chức th�nh vi�n
-x�c minh.
+hoặc phối hợp với các tổ chức thành vin
+xãc minh.
 
-+ Lưu �: Kh�ng xem
-x�t giải quyết đối với đơn tố c�o
-nặc danh, mạo danh, kh�ng r� địa chỉ, hoặc
-đơn tố c�o đ� được giải quyết
-nhưng kh�ng c� chứng cứ mới (theo quy định
++ Lưu : Không xem
+xãt giaải quyết đối với đơn tố cơo
+nặc danh, mạo danh, không r địa chỉ, hoặc
+đơn tố cơo đã được giaải quyết
+nhưng không cơ chứng cứ mới (theo quy định
 tại Điều 55 Luật Bầu cử).
 
 - Đối
-với kiến nghị về c�ng t�c tổ chức bầu
+với kiến nghị về công tác tổ chức bầu
 cử: Chuyển đến Tổ bầu cử hoặc
-Ủy ban Bầu cử x� để khắc phục ngay.
+Ủy ban Bầu cử xã để khắc phục ngay.
 
 -
-Đối với đơn thư li�n quan đến
+Đối với đơn thư liên quan đến
 người ứng cử đại biểu Quốc
-hội v� đại biểu HĐND tỉnh: Ban
-Thường trực UBMTTQ x� phải chuyển ngay
+hội và đại biểu HĐND tỉnh: Ban
+Thường trực UBMTTQ xã phải chuyển ngay
 đến Ủy ban Bầu cử tỉnh Quảng Ninh
 hoặc Ban Thường trực Ủy ban MTTQ Việt Nam
-tỉnh Quảng Ninh để xem x�t, giải quyết theo
-quy định. Đồng thời, th�ng b�o cho người
+tỉnh Quảng Ninh để xem xãt, giaải quyết theo
+quy định. Đồng thời, thông báo cho người
 gửi đơn biết việc chuyển đơn.
 
-3. Gi�m s�t việc giải quyết
-khiếu nại, tố c�o
+3. Giám sát việc giaải quyết
+khiếu nại, tố cơo
 
 - Ban Thường
-trực UBMTTQ x� theo d�i, đ�n đốc Ủy ban Bầu
-cử x�, UBND x� v� c�c cơ quan chức năng giải
-quyết đơn thư do MTTQ chuyển đến đ�ng
-thời hạn luật định (dừng xem x�t hồ
-sơ người ứng cử trước ng�y bầu
-cử 10 ng�y).
+trực UBMTTQ xã theo dựi, đến đốc Ủy ban Bầu
+cử xã, UBND xã và các cơ quan chức năng giaải
+quyết đơn thư do MTTQ chuyển đến đồng
+thời hạn luật định (dừng xem xãt hồ
+sơ người ứng cử trước ngày bầu
+cử 10 ngày).
 
 - Kiến nghị
-xử l� nghi�m c�c h�nh vi lợi dụng khiếu nại,
-tố c�o để g�y rối, l�m mất an ninh trật
+xử lã nghim các hành vi lợi dụng khiếu nại,
+tố cơo để gy rối, làm mất an ninh trật
 tự cuộc bầu cử.
 
 III. TỔ CHỨC THỰC HIỆN
 
 1. Ban Thường trực Ủy ban
-MTTQ x� Lương Minh
+MTTQ xã Lương Minh
 
-- Ph�n c�ng
-đồng ch� Ph� Chủ tịch Thường trực
-trực tiếp phụ tr�ch c�ng t�c tiếp d�n v� xử l�
+- Phân công
+đồng chỉ Phụ Chủ tịch Thường trực
+trực tiếp phụ trách công tác tiếp dân và xử lã
 đơn thư phục vụ bầu cử.
 
 - Phối hợp
-với c�c tổ chức th�nh vi�n tăng cường c�ng
-t�c tuy�n truyền về mục đ�ch, � nghĩa của
-cuộc bầu cử đại biểu Quốc hội kh�a
-XVI v� đại biểu Hội đồng nh�n d�n c�c
-cấp nhiệm kỳ 2026 � 2031; vận động c�c
-tầng lớp nh�n d�n tr�n địa b�n chất h�nh chủ
+với các tổ chức thành vin tăng cường công
+tục tuyn truyền về mục đích,  nghĩa của
+cuộc bầu cử đại biểu Quốc hội khóa
+XVI và đại biểu Hội đồng nhân dân các
+cấp nhiệm kỳ 2026  2031; vận động các
+tầng lớp nhân dân địa bàn chất hành chủ
 trương, đường lối của Đảng,
-ch�nh s�ch, ph�p luật của Nh� nước, g�p phần cho
-c�ng t�c bầu cử th�nh c�ng.
+chính sách, pháp luật của Nhà nước, góp phần cho
+công tác bầu cử thành công.
 
 - Thiết lập
-sổ theo d�i ri�ng về đơn thư khiếu nại,
-tố c�o li�n quan đến bầu cử.
+sổ theo dựi riứng về đơn thư khiếu nại,
+tố cơo liên quan đến bầu cử.
 
 - Thực hiện
-chế độ b�o c�o t�nh h�nh tiếp d�n, xử l�
+chế độ bảo cơo tỉnh hành tiếp dân, xử lã
 đơn thư về Ban Thường trực Ủy ban
-MTTQ tỉnh Quảng Ninh (qua Ban D�n chủ, Gi�m s�t v� Phản
-biện x� hội) định kỳ v� đột xuất.
+MTTQ tỉnh Quảng Ninh (qua Ban Dân chủ, Giám sát và Phản
+biện xã hội) định kỳ và đột xuất.
 
-2. Ban C�ng t�c Mặt trận c�c th�n
+2. Ban Công tác Mặt trận các thôn
 
 - Nắm bắt
-t�m tư, nguyện vọng v� c�c � kiến phản �nh
-của cử tri tại khu d�n cư.
+tỷm tư, nguyện vọng và các  kiến phản nh
+của cử tri tại khu dân cư.
 
 - Trực tiếp
-h�a giải c�c m�u thuẫn nhỏ, giải th�ch quy
-định ph�p luật để người d�n hiểu,
-tr�nh khiếu kiện vượt cấp.
+hồa giaải các mu thuẫn nhỏ, giaải thựch quy
+định pháp luật để người dân hiểu,
+trình khiếu kiện vượt cấp.
 
-- B�o c�o ngay với
-Ban Thường trực UBMTTQ x� khi ph�t sinh đơn thư
-hoặc vụ việc phức tạp tại th�n.
+- Bảo cơo ngay với
+Ban Thường trực UBMTTQ xã khi phát sinh đơn thư
+hoặc vụ việc phức tạp tại thôn.
 
 3. Đề nghị Thường
 trực HĐND, UBND, Ủy ban Kiểm tra Đảng
-ủy x� thường xuy�n phối hợp, trao đổi
-th�ng tin, thống nhất phương �n xử l�
-đối với c�c đơn thư phức tạp li�n
-quan đến nh�n sự v� c�ng t�c bầu cử.
+ủy xã thường xuyn phối hợp, trao đổi
+tháng tin, thống nhất phương n xử lã
+đối với các đơn thư phức tạp liên
+quan đến nhân sự và công tác bầu cử.
 
-Tr�n đ�y l�
-Kế hoạch tiếp c�ng d�n, xử l� đơn thư
-khiếu nại, tố c�o, kiến nghị, phản �nh
+Trận đẩy lã
+Kế hoạch tiếp công dân, xử lã đơn thư
+khiếu nại, tố cơo, kiến nghị, phản nh
 phục vụ bầu cử đại biểu Quốc
-hội kh�a XVI v� đại biểu Hội đồng nh�n
-d�n c�c cấp nhiệm kỳ 2026 � 2031./.
+hội khóa XVI và đại biểu Hội đồng nhân
+dân các cấp nhiệm kỳ 2026  2031./.
 
- ��� 
+  
 
- � Nơi nhận:
+  Nơi nhận:
 
  - BTT Ủy ban
  MTTQ Việt Nam tỉnh; 
 
  -
- Thường trực Đảng ủy x�;
+ Thường trực Đảng ủy xã;
 
  -
- Ủy ban bầu cử x�;� 
+ Ủy ban bầu cử xã; 
 
  -
- Thường trực HĐND, UBND x�;
+ Thường trực HĐND, UBND xã;
 
  -
- BTT Ủy ban MTTQ VN x�; 
+ BTT Ủy ban MTTQ VN xã; 
 
  -
  Uỷ ban Kiểm tra Đảng uỷ;
 
- �������� - Văn ph�ng HĐND, UBND x�;���������� 
+  - Văn phòng HĐND, UBND xã; 
 
- - C�c tổ chức th�nh vi�n MTTQ x�;
+ - Các tổ chức thành vin MTTQ xã;
 
- - B� thư Chi bộ,
- Trưởng th�n, Ban c�ng
+ - Bổ thư Chi bộ,
+ Trưởng thôn, Ban công
 
- �t�c MT th�n; 
+ tục MT thôn; 
 
  - Lưu: MTTQ.
 
@@ -4896,16 +4895,16 @@ d�n c�c cấp nhiệm kỳ 2026 � 2031./.
  TỊCH
 
  Lan Thị
- V�n
+ Vấn
 
- �
+ 
 
 ════════════════════════════════════════════════════════════════════════════════
 📄 Kế hoạch tổ chức HN hiệp thương lần thứ hai
 ════════════════════════════════════════════════════════════════════════════════
 Admin
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  16
  2025-12-30T08:50:00Z
@@ -4937,23 +4936,23 @@ Admin
  /ỦY BAN
  MTTQ VIỆT NAM
 
- X� LƯƠNG
+ Xã LƯƠNG
  MINH
 
  BAN THƯỜNG TRỰC
 
- Số: �����/KH-MTTQ-BTT
+ Số: /KH-MTTQ-BTT
 
- �
+ 
 
  CỘNG
- HO� X� HỘI CHỦ NGHĨA VIỆT NAM
+ HO Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- Độc lập - Tự do - Hạnh ph�c
+ Độc lập - Tự do - Hạnh phúc
 
- ������� 
+  
 
- Lương Minh, ng�y ���th�ng
+ Lương Minh, ngày tháng
  01 năm 2026
 
 KẾ HOẠCH
@@ -4962,291 +4961,291 @@ Tổ
 chức hội nghị hiệp thương lần thứ
 hai để thỏa thuận, lập danh
 
-s�ch
+sách
 sơ bộ những người ứng cử đại
-biểu Hội đồng nh�n d�n x�
+biểu Hội đồng nhân dân xã
 
-kh�a
+khóa
 II, nhiệm kỳ 2026 - 2031
 
 Thực hiện Luật Bầu cử đại
-biểu Quốc hội v� đại biểu Hội đồng
-nh�n d�n�������������������� ng�y 25
-th�ng 6 năm 2015 v� Luật sửa đổi, bổ sung một
+biểu Quốc hội và đại biểu Hội đồng
+nhân dânữ ngày 25
+tháng 6 năm 2015 và Luật sửa đổi, bổ sung một
 số điều của Luật Bầu cử đại
-biểu Quốc hội v� đại biểu Hội đồng
-nh�n d�n ng�y 24 th�ng 6 năm 2025;
+biểu Quốc hội và đại biểu Hội đồng
+nhân dân ngày 24 tháng 6 năm 2025;
 
 Căn cứ Nghị
-quyết li�n tịch số
-102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN, ng�y 26 th�ng 9 năm 2025
-của Ủy ban Thường vụ �������������Quốc hội, Ch�nh phủ v�
-Đo�n Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc ��������������Việt Nam hướng
-dẫn quy tr�nh hiệp thương, giới thiệu
+quyết liên tịch số
+102/2025/NQLT-UBTVQH15-CP-ĐCTUBTWMTTQVN, ngày 26 tháng 9 năm 2025
+của Ủy ban Thường vụ Quốc hội, Chính phủ và
+Đoàn Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam hướng
+dẫn quy trình hiệp thương, giới thiệu
 người ứng cử đại biểu
-���������Quốc hội kh�a XVI, đại
-biểu Hội đồng nh�n d�n c�c cấp nhiệm kỳ
+Quốc hội khóa XVI, đại
+biểu Hội đồng nhân dân các cấp nhiệm kỳ
 2026 - 2031;
 
 Căn cứ Hướng dẫn
-số 01/HD-MTTQ-BTT ng�y 28/11/2025 của Ban Thường trực
-Ủy ban MTTQ Việt Nam tỉnh Quảng Ninh về quy tr�nh
+số 01/HD-MTTQ-BTT ngày 28/11/2025 của Ban Thường trực
+Ủy ban MTTQ Việt Nam tỉnh Quảng Ninh về quy trình
 hiệp thương, giới thiệu người ứng
-cử đại biểu Quốc hội kh�a XVI, đại
-biểu Hội đồng Nh�n d�n c�c cấp nhiệm kỳ
-2026 � 2031 của Ủy ban Mặt trận Tổ quốc Việt
-Nam c�c cấp tỉnh Quảng Ninh.
+cử đại biểu Quốc hội khóa XVI, đại
+biểu Hội đồng Nhân dân các cấp nhiệm kỳ
+2026  2031 của Ủy ban Mặt trận Tổ quốc Việt
+Nam các cấp tỉnh Quảng Ninh.
 
 Căn cứ Kế hoạch số 16/KH-MTTQ-BTT
-ng�y 18/11/2025 của Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt
-Nam x� về thực hiện c�ng t�c bầu
+ngày 18/11/2025 của Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt
+Nam xã về thực hiện công tác bầu
 cử đại
-biểu Quốc hội kh�a XVI, đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ
+biểu Quốc hội khóa XVI, đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ
 2026 - 2031.
 
 Ban Thường trực
-Ủy ban Mặt trận Tổ quốc Việt Nam x� ban h�nh kế hoạch tổ chức hội
-nghị hiệp thương lần thứ hai để thỏa thuận, lập danh s�ch sơ bộ những người ứng
-cử đại biểu Hội đồng nh�n d�n x� kh�a II, nhiệm kỳ 2026 - 2031, cụ thể như sau:
+Ủy ban Mặt trận Tổ quốc Việt Nam xã ban hành kế hoạch tổ chức hội
+nghị hiệp thương lần thứ hai để thỏa thuận, lập danh sách sơ bộ những người ứng
+cử đại biểu Hội đồng nhân dân xã khóa II, nhiệm kỳ 2026 - 2031, cụ thể như sau:
 
 I. MỤC
-Đ�CH, Y�U CẦU
+ĐềCH, YU CẦU
 
 1. Tổ chức hội nghị hiệp
 thương lần thứ hai để thỏa thuận,
-lập danh s�ch sơ bộ những người ứng cử
-đại biểu HĐND x� nhiệm kỳ 2026-2031 căn
-cứ v�o kết quả điều chỉnh lần thứ
-nhất của Thường trực HĐND x�, kết quả
-giới thiệu người ứng cử của c�c
-cơ quan, tổ chức, đơn vị, th�n v� người
-tự ứng cử (nếu c�).
+lập danh sách sơ bộ những người ứng cử
+đại biểu HĐND xã nhiệm kỳ 2026-2031 căn
+cứ vào kết quả điều chỉnh lần thứ
+nhất của Thường trực HĐND xã, kết quả
+giới thiệu người ứng cử của các
+cơ quan, tổ chức, đơn vị, thôn và người
+tự ứng cử (nếu cơ).
 
-2. Danh s�ch sơ bộ
+2. Danh sách sơ bộ
 người ứng cử phải bảo đảm số
 dư cần thiết, bảo đảm cơ cấu,
-th�nh phần, số lượng đại biểu
+thành phần, số lượng đại biểu
 được bầu, tỷ lệ nữ, người trẻ
-tuổi, người ngo�i Đảng, người d�n tộc
+tuổi, người ngoi Đảng, người dân tộc
 thiểu số theo quy định của Luật Bầu cử
-v� c�c văn bản hướng dẫn.
+và các văn bản hướng dẫn.
 
 3. Việc
-hiệp thương phải d�n chủ, kh�ch quan, đ�ng
-tr�nh tự, thủ tục v� đảm bảo tu�n thủ
-c�c quy định của ph�p luật về bầu cử
-v� chỉ đạo của Trung ương v� x�.
+hiệp thương phải dân chủ, khồch quan, đồng
+trình tự, thủ tục và đảm bảo tun thủ
+các quy định của pháp luật về bầu cử
+và chỉ đạo của Trung ương và xã.
 
-II. TH�NH PHẦN
+II. THồNH PHẦN
 HỘI NGHỊ
 
 Ban Thường trực Ủy ban Mặt
-trận Tổ quốc Việt Nam x� triệu tập v� chủ tr� hội nghị
+trận Tổ quốc Việt Nam xã triệu tập và chủ trì hội nghị
 gồm:
 
 1. Đại
-biểu thuộc th�nh phần hiệp thương: 
+biểu thuộc thành phần hiệp thương: 
 
 - Ban Thường trực Ủy ban Mặt
-trận Tổ quốc Việt Nam x�
-Lương Minh (Chủ tr� hội nghị).
+trận Tổ quốc Việt Nam xã
+Lương Minh (Chủ trì hội nghị).
 
-- Đại diện l�nh đạo c�c tổ
-chức th�nh vi�n của Ủy ban Mặt trận Tổ quốc
-Việt Nam x�.
+- Đại diện lĩnh đạo các tổ
+chức thành vin của Ủy ban Mặt trận Tổ quốc
+Việt Nam xã.
 
 2. Đại
-biểu kh�ch mời:
+biểu khồch mời:
 
 - Đại diện Ủy
-ban bầu cử x�;
+ban bầu cử xã;
 
 - Đại diện Thường trực Hội đồng
-nh�n d�n x�;
+nhân dân xã;
 
 - Đại diện Thường
 trực Ủy
-ban nh�n d�n x�;
+ban nhân dân xã;
 
-- Đại diện l�nh đạo Ban X�y dựng
+- Đại diện lĩnh đạo Ban Xãy dựng
 Đảng, Ủy ban
 Kiểm tra Đảng ủy.
 
 III. NỘI
-DUNG, TR�NH TỰ, THỦ TỤC
+DUNG, TRNH TỰ, THỦ TỤC
 
 1. Hội nghị cử Chủ tọa trong
-Ban Thường trực Ủy ban Mặt trận Tổ quốc� �Việt
-Nam x� v� Thư k� Hội nghị. Ban Thường trực Ủy ban MTTQ Việt
-Nam x� b�o c�o về t�nh h�nh giới thiệu người ứng
-cử của c�c cơ quan, tổ chức, đơn vị,
-c�c th�n v� t�nh h�nh người tự ứng cử (nếu
-c�).
+Ban Thường trực Ủy ban Mặt trận Tổ quốcơ Việt
+Nam xã và Thư k Hội nghị. Ban Thường trực Ủy ban MTTQ Việt
+Nam xã bảo cơo về tỉnh hành giới thiệu người ứng
+cử của các cơ quan, tổ chức, đơn vị,
+các thôn và tỉnh hành người tự ứng cử (nếu
+cơ).
 
 2. Hội nghị thảo luận, lập
-danh s�ch sơ bộ những người ứng cử
-đại biểu HĐND x� căn cứ v�o c�c ti�u ch�:
+danh sách sơ bộ những người ứng cử
+đại biểu HĐND xã căn cứ vào các tiêu chỉ:
 
-- Ti�u chuẩn của đại biểu Hội
-đồng nh�n d�n.
+- Tiêu chuẩn của đại biểu Hội
+đồng nhân dân.
 
 - Kết quả điều chỉnh của
-Thường trực HĐND x� về cơ cấu, th�nh phần,
+Thường trực HĐND xã về cơ cấu, thành phần,
 số lượng người được giới
 thiệu.
 
 - Kết quả thỏa thuận tại hội
 nghị hiệp thương lần thứ nhất.
 
-- Hồ sơ, bi�n bản giới thiệu
-người ứng cử của c�c cơ quan, tổ chức,
-đơn vị, th�n gửi đến.
+- Hồ sơ, biên bản giới thiệu
+người ứng cử của các cơ quan, tổ chức,
+đơn vị, thôn gửi đến.
 
-- � kiến nhận x�t v� t�n nhiệm của
-cử tri nơi c�ng t�c đối với người
-được giới thiệu ứng cử (đ� thực
+-  kiến nhận xãt và tỷn nhiệm của
+cử tri nơi công tác đối với người
+được giới thiệu ứng cử (đã thực
 hiện ở Bước 2). 
 
 3.
-Trường hợp kh�ng thỏa thuận được vấn
-đề n�o th� hội nghị quyết định biểu
-quyết bằng h�nh thức giơ tay hoặc bỏ phiếu
-k�n (do hội nghị quyết định). Chỉ c�c đại biểu thuộc th�nh
-phần hội nghị hiệp thương c� mặt tại
+Trường hợp không thỏa thuận được vấn
+đề nào thủ hội nghị quyết định biểu
+quyết bằng hành thức giaơ tay hoặc bỏ phiếu
+kín (do hội nghị quyết định). Chỉ các đại biểu thuộc thành
+phần hội nghị hiệp thương cơ mặt tại
 hội nghị mới được quyền biểu quyết.
 
 4. Hội nghị
-b�n kế hoạch tổ chức lấy � kiến nhận
-x�t v� t�n nhiệm của cử tri nơi cư tr� đối
+bản kế hoạch tổ chức lấy  kiến nhận
+xãt và tỷn nhiệm của cử tri nơi cư trì đối
 với người được cơ quan, tổ chức,
 đơn vị giới thiệu ứng cử, người
-tự ứng cử v� lấy � kiến cử tri nơi
-c�ng t�c (nếu c�) của người tự ứng cử;
-n�u ra c�c vấn đề cần x�c minh, l�m r� đối với
+tự ứng cử và lấy  kiến cử tri nơi
+công tác (nếu cơ) của người tự ứng cử;
+nữu ra các vấn đề cần xãc minh, làm r đối với
 những người ứng cử.
 
-5. Hội nghị th�ng qua bi�n bản v� danh s�ch sơ bộ
+5. Hội nghị tháng qua biên bản và danh sách sơ bộ
 những người ứng cử đại biểu Hội
-đồng nh�n d�n (theo Mẫu số 01/BCĐBHĐND-MT v� Mẫu số 05/BCĐBHĐND-MT ban
-h�nh k�m theo Nghị quyết li�n tịch số 102 của Ủy
-ban Thường vụ Quốc hội, Ch�nh phủ v�
-Đo�n Chủ tịch Ủy ban Trung ương Mặt trận
-�Tổ quốc Việt Nam).
+đồng nhân dân (theo Mẫu số 01/BCĐBHĐND-MT và Mẫu số 05/BCĐBHĐND-MT ban
+hành km theo Nghị quyết liên tịch số 102 của Ủy
+ban Thường vụ Quốc hội, Chính phủ và
+Đoàn Chủ tịch Ủy ban Trung ương Mặt trận
+Tổ quốc Việt Nam).
 
-6. Bi�n bản Hội nghị hiệp
+6. Biên bản Hội nghị hiệp
 thương lần thứ hai được gửi đến
-Ban Thường trực Ủy ban �Mặt trận Tổ quốc Việt
-Nam tỉnh v� Thường trực Hội đồng
-nh�n d�n, Ủy ban bầu cử x� theo quy định.
+Ban Thường trực Ủy ban Mặt trận Tổ quốc Việt
+Nam tỉnh và Thường trực Hội đồng
+nhân dân, Ủy ban bầu cử xã theo quy định.
 
 IV. THỜI
 GIAN THỰC HIỆN
 
 - Theo quy định,
 Hội nghị hiệp thương lần thứ hai để
-thỏa thuận, lập danh s�ch sơ bộ
+thỏa thuận, lập danh sách sơ bộ
 những người ứng cử đại biểu Hội đồng
-nh�n d�n x� kh�a II, nhiệm kỳ 2026 - 2031 được thực hiện trong ng�y 02/02/2026 đến ng�y 03/02/2026.
+nhân dân xã khóa II, nhiệm kỳ 2026 - 2031 được thực hiện trong ngày 02/02/2026 đến ngày 03/02/2026.
 
 - Ban Thường trực Ủy ban Mặt
-trận Tổ quốc Việt Nam x� dự kiến tổ
-chức hội nghị v�o ng�y 02/02/2026.
+trận Tổ quốc Việt Nam xã dự kiến tổ
+chức hội nghị vào ngày 02/02/2026.
 
 V. TỔ CHỨC
 THỰC HIỆN
 
 1. Ban Thường
 trực Ủy ban Mặt trận Tổ quốc Việt Nam
-x�
+xã
 
-- X�y dựng v� ban h�nh kế hoạch triển
-khai thực hiện c�ng t�c hiệp thương đ�ng đảm
-bảo nội dung, tr�nh tự, thủ tục, thời gian theo
+- Xãy dựng và ban hành kế hoạch triển
+khai thực hiện công tác hiệp thương đồng đảm
+bảo nội dung, trình tự, thủ tục, thời gian theo
 luật định. 
 
-- Chủ tr�, phối hợp với c�c
-cơ quan li�n quan chuẩn bị nội dung, chương
-tr�nh, kịch bản điều h�nh v� t�i liệu phục vụ
+- Chủ trì, phối hợp với các
+cơ quan liên quan chuẩn bị nội dung, chương
+trình, kịch bản điều hành và tỷi liệu phục vụ
 hội nghị.
 
-- Tổng hợp hồ sơ, danh s�ch tr�ch
+- Tổng hợp hồ sơ, danh sách trách
 ngang những người được giới thiệu ứng
-cử từ Ủy ban Bầu cử x� chuyển sang (ho�n
-th�nh chậm nhất ng�y 01/02/2026).
+cử từ Ủy ban Bầu cử xã chuyển sang (hòan
+thành chậm nhất ngày 01/02/2026).
 
-- Triệu tập th�nh phần đại
-biểu dự hội nghị đ�ng quy định.
+- Triệu tập thành phần đại
+biểu dự hội nghị đồng quy định.
 
-- Ngay sau hội nghị, gửi Bi�n bản
-hội nghị hiệp thương lần thứ hai v�
-Danh s�ch sơ bộ những người ứng cử
+- Ngay sau hội nghị, gửi Biên bản
+hội nghị hiệp thương lần thứ hai và
+Danh sách sơ bộ những người ứng cử
 đến Thường trực HĐND, UBND, Ủy ban MTTQ
-tỉnh v� Thường trực HĐND, Ủy ban Bầu cử
-x� chậm nhất ng�y 04/02/2026
+tỉnh và Thường trực HĐND, Ủy ban Bầu cử
+xã chậm nhất ngày 04/02/2026
 
-- Giao đồng ch� Nguyễn ĐứcMạnh
-� Ph� Chủ tịch Uỷ ban MTTQ Việt Nam x� thực hiện
-nhiệm vụ theo kế hoạch, b�o c�o kết quả theo
+- Giao đồng chỉ Nguyễn ĐứcMạnh
+ Phụ Chủ tịch Uỷ ban MTTQ Việt Nam xã thực hiện
+nhiệm vụ theo kế hoạch, bảo cơo kết quả theo
 quy định.
 
-2. Chuy�n vi�n
-Cơ quan Ủy ban Mặt trận Tổ quốc x�
+2. Chuyện vin
+Cơ quan Ủy ban Mặt trận Tổ quốc xã
 
-- Chuy�n vi�n phụ tr�ch tổng hợp tham
+- Chuyện vin phụ trách tổng hợp tham
 mưu Ban Thường trực Ủy ban Mặt trận Tổ
-quốc Việt Nam x� chuẩn bị nội dung, điều
-kiện để tổ chức hội nghị hiệp thương. Thực hiện c�ng t�c thư k� hội
-nghị, ghi bi�n bản trung thực, ch�nh x�c diễn biến
-hội nghị; phối hợp với c�c chuy�n vi�n cơ
-quan v� c�c đơn vị triển khai, thực hiện nhiệm
+quốc Việt Nam xã chuẩn bị nội dung, điều
+kiện để tổ chức hội nghị hiệp thương. Thực hiện công tác thư k hội
+nghị, ghi biên bản trung thực, chính xãc diễn biến
+hội nghị; phối hợp với các chuyện vin cơ
+quan và các đơn vị triển khai, thực hiện nhiệm
 vụ.
 
-- C�c chuy�n vi�n kh�c thực hiện c�c nhiệm
-vụ được Ban Thường trực ph�n c�ng; Kế
-to�n, chuy�n vi�n phu tr�ch h�nh ch�nh cơ quan lập dự to�n
-kinh ph� v� chuẩn bị c�c điều kiện để tổ
+- Các chuyện vin khồc thực hiện các nhiệm
+vụ được Ban Thường trực phân công; Kế
+ton, chuyện vin phu trách hành chính cơ quan lập dự ton
+kinh phụ và chuẩn bị các điều kiện để tổ
 chức hội nghị.
 
 - Ban Thường
 trực Ủy ban Mặt trận Tổ quốc Việt Nam
-x� y�u cầu c�c đồng ch� trong Ban Thường trực,
-c�c chuy�n vi�n� trong cơ quan triển
-khai, thực hiện nghi�m t�c kế hoạch n�y.
+xã yêu cầu các đồng chỉ trong Ban Thường trực,
+các chuyện vinữ trong cơ quan triển
+khai, thực hiện nghim tục kế hoạch này.
 
-�Đề nghị Văn ph�ng Đảng
-ủy, Văn ph�ng HĐND&UBND x� phối hợp Cơ
-quan Uỷ ban MTTQ Việt Nam x� trong c�ng t�c chuẩn bị
-c�c điều kiện phục vụ hội nghị theo
+Đề nghị Văn phòng Đảng
+ủy, Văn phòng HĐND&UBND xã phối hợp Cơ
+quan Uỷ ban MTTQ Việt Nam xã trong công tác chuẩn bị
+các điều kiện phục vụ hội nghị theo
 quy định.
 
-Tr�n đ�y l� kế hoạch tổ chức
+Trận đẩy lã kế hoạch tổ chức
 hội nghị hiệp thương lần thứ hai để
-để thỏa thuận, lập danh s�ch sơ bộ
+để thỏa thuận, lập danh sách sơ bộ
 những người ứng cử đại biểu Hội
-đồng nh�n d�n���������������� x�
-kh�a II, nhiệm kỳ 2026 - 2031
+đồng nhân dânữ xã
+khóa II, nhiệm kỳ 2026 - 2031
 
-��������� 
+ 
 
- �� Nơi nhận:
+  Nơi nhận:
 
- - Ban TT Uỷ ban �MTTQ Việt Nam x�;
+ - Ban TT Uỷ ban MTTQ Việt Nam xã;
 
  - Thường
  trực Đảng ủy;
 
  - Thường
- tực HĐND, UBND, Ủy ban bầu cử� x�;
+ tực HĐND, UBND, Ủy ban bầu cử xã;
 
- - Ban x�y dựng Đảng; Uỷ ban
+ - Ban xãy dựng Đảng; Uỷ ban
  Kiểm tra Đảng ủy;
 
  - Chủ tịch,
- c�c Ph� Chủ tịch Ủy ban MTTQ VN x�;
+ các Phụ Chủ tịch Ủy ban MTTQ VN xã;
 
- - C�c tổ chức
- th�nh vi�n Ủy MTTQVN x�;
+ - Các tổ chức
+ thành vin Ủy MTTQVN xã;
 
  - Lưu: VT.
 
@@ -5258,7 +5257,7 @@ kh�a II, nhiệm kỳ 2026 - 2031
 ════════════════════════════════════════════════════════════════════════════════
 Admin
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  404
  2025-11-17T10:53:00Z
@@ -5285,83 +5284,83 @@ Admin
  ỦY BAN MTTQ
  VIỆT NAM
 
- X� LƯƠNG
+ Xã LƯƠNG
  MINH
 
  BAN THƯỜNG TRỰC
 
- Số: �����/KH-MTTQ-BTT
+ Số: /KH-MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ CỘNG HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- � �Độc lập - Tự do -
- Hạnh ph�c
+  Độc lập - Tự do -
+ Hạnh phúc
 
- �
+ 
 
  Lương
- Minh, ng�y 12 th�ng 01 năm 2026
+ Minh, ngày 12 tháng 01 năm 2026
 
 KẾ HOẠCH
 
 Tổ chức
-hội nghị lấy � kiến nhận x�t v� t�n nhiệm
-của cử tri nơi cư tr� đối với
+hội nghị lấy  kiến nhận xãt và tỷn nhiệm
+của cử tri nơi cư trì đối với
 người ứng cử đại biểu Quốc
-hội kh�a XVI v� đại biểu Hội đồng nh�n
-d�n c�c cấp nhiệm kỳ 2026 - 2031 tr�n địa b�n x�
+hội khóa XVI và đại biểu Hội đồng nhân
+dân các cấp nhiệm kỳ 2026 - 2031 địa bàn xã
 
 Căn cứ Luật Bầu cử
-đại biểu Quốc hội v� đại biểu
-Hội đồng nh�n d�n; Căn cứ Nghị quyết
+đại biểu Quốc hội và đại biểu
+Hội đồng nhân dân; Căn cứ Nghị quyết
 số 101/2025/UBTVQH15 của Ủy ban Thường vụ
 Quốc hội quy định chi tiết, hướng
 dẫn về việc tổ chức Hội nghị cử
 tri; việc giới thiệu người ứng cử đại
-biểu Hội đồng nh�n d�n cấp x� ở th�n,
-tổ d�n phố; Căn cứ Nghị quyết li�n
+biểu Hội đồng nhân dân cấp xã ở thôn,
+tổ dân phố; Căn cứ Nghị quyết liên
 tịch số 102/2025/NQLT/UBTVQH15-CP-ĐCTUBTWMTTQVN
-hướng dẫn quy tr�nh hiệp thương, giới
+hướng dẫn quy trình hiệp thương, giới
 thiệu người ứng cử; Thực hiện
-Hướng dẫn số 03/HD-MTTQ-BTT ng�y 08/01/2026 của
+Hướng dẫn số 03/HD-MTTQ-BTT ngày 08/01/2026 của
 Ban Thường trực Ủy ban MTTQ Việt Nam tỉnh Quảng
 Ninh.
 
 Ban Thường trực Ủy
-ban MTTQ Việt Nam x� Lương Minh ban h�nh Kế hoạch
-tổ chức hội nghị lấy � kiến nhận x�t
-v� t�n nhiệm của cử tri nơi cư tr� đối
+ban MTTQ Việt Nam xã Lương Minh ban hành Kế hoạch
+tổ chức hội nghị lấy  kiến nhận xãt
+và tỷn nhiệm của cử tri nơi cư trì đối
 với người ứng cử đại biểu
-Quốc hội kh�a XVI v� đại biểu Hội
-đồng nh�n d�n c�c cấp nhiệm kỳ 2026 - 2031 tr�n
-địa b�n x�, cụ thể như sau:
+Quốc hội khóa XVI và đại biểu Hội
+đồng nhân dân các cấp nhiệm kỳ 2026 - 2031 trận
+địa bản xã, cụ thể như sau:
 
 I.
-MỤC Đ�CH, Y�U CẦU 
+MỤC ĐềCH, YU CẦU 
 
 1. Hội
-nghị nơi cư tr� nhằm lấy � kiến nhận
-x�t v� b�y tỏ sự t�n nhiệm của cử tri
+nghị nơi cư trì nhằm lấy  kiến nhận
+xãt và bày tỏ sự tỷn nhiệm của cử tri
 đối với người ứng cử (gồm
 người được giới thiệu ứng cử
-v� người tự ứng cử) theo quy định
-tại Điều 45 v� Điều 54 Luật Bầu
-cử. Th�ng qua hội nghị lấy � kiến
-nhận x�t v� t�n nhiệm của cử tri nơi cư tr�, Ban Thường
-trực Ủy ban MTTQ c�c cấp c� cơ sở đ�nh gi�
-to�n diện, kh�ch quan những người ứng cử
-để hiệp thương, �lập danh s�ch người
-đủ ti�u chuẩn, ti�u biểu, xứng đ�ng với
-t�n nhiệm của cử tri tại hội nghị
+và người tự ứng cử) theo quy định
+tại Điều 45 và Điều 54 Luật Bầu
+cử. Tháng qua hội nghị lấy  kiến
+nhận xãt và tỷn nhiệm của cử tri nơi cư trì, Ban Thường
+trực Ủy ban MTTQ các cấp cơ cơ sở định giaơ
+ton diện, khồch quan những người ứng cử
+để hiệp thương, lập danh sách người
+đủ tiêu chuẩn, tiêu biểu, xứng đồng với
+tỷn nhiệm của cử tri tại hội nghị
 hiệp thương lần thứ ba.
 
 2. Việc
 tổ chức hội nghị phải bảo đảm
-d�n chủ, nghi�m t�c, đ�ng quy định của Luật
-Bầu cử v� c�c văn bản hướng dẫn
+dân chủ, nghim tục, đồng quy định của Luật
+Bầu cử và các văn bản hướng dẫn
 của Hội đồng bầu cử quốc gia, Ủy
-ban Thường vụ Quốc hội v�, Ủy ban Trung
-ương Mặt trận Tổ quốc Việt Nam v�
+ban Thường vụ Quốc hội và, Ủy ban Trung
+ương Mặt trận Tổ quốc Việt Nam và
 của Ban Thường trực Ủy ban Mặt trận
 Tổ quốc Việt Nam tỉnh Quảng Ninh.
 
@@ -5369,73 +5368,73 @@ II.
 NỘI DUNG, PHƯƠNG THỨC TỔ CHỨC
 
 1.
-Nội dung: Ban Thường trực Ủy ban MTTQ Việt Nam x�
-Lương Minh phối hợp với UBND x� tổ chức
-hội nghị lấy � kiến nhận x�t to�n diện
-về mọi mặt v� b�y tỏ quan điểm
-đồng � hoặc kh�ng đồng � đối với
+Nội dung: Ban Thường trực Ủy ban MTTQ Việt Nam xã
+Lương Minh phối hợp với UBND xã tổ chức
+hội nghị lấy  kiến nhận xãt ton diện
+về mọi mặt và bày tỏ quan điểm
+đồng  hoặc không đồng  đối với
 người ứng cử.
 
 2.
 Phương thức tổ chức:
 
 - Sau hội
-nghị hiệp thương lần thứ hai, tr�n cơ
-sở danh s�ch sơ bộ những người
+nghị hiệp thương lần thứ hai, trận cơ
+sở danh sách sơ bộ những người
 được giới thiệu ứng cử đại
-biểu HDDND x� nhiệm kỳ 2026-2031, Ban Thường
-trực UBMTTQ x� ban h�nh Kế hoạch tổ chức
-hội nghị lấy � kiến nhận x�t v� t�n nhiệm
-của cử tri nơi cư tr� đối với
-người được giới thiệu ứng cử v� tổ chức lấy � kiến nơi c�ng t�c
-(nếu c�) của người tự ứng cử theo quy
-định của ph�p luật. 
+biểu HDDND xã nhiệm kỳ 2026-2031, Ban Thường
+trực UBMTTQ xã ban hành Kế hoạch tổ chức
+hội nghị lấy  kiến nhận xãt và tỷn nhiệm
+của cử tri nơi cư trì đối với
+người được giới thiệu ứng cử và tổ chức lấy  kiến nơi công tác
+(nếu cơ) của người tự ứng cử theo quy
+định của pháp luật. 
 
-- Tr�nh tự
+- Trình tự
 tổ chức thực hiện theo Điều 2, 3, 4
-Nghị quyết số 101/2025/UBTVQH15 v� Điều 21, 22
-Nghị quyết li�n tịch số 102/2025/NQLT.
+Nghị quyết số 101/2025/UBTVQH15 và Điều 21, 22
+Nghị quyết liên tịch số 102/2025/NQLT.
 
--� X�c định địa
-điểm: Căn cứ v�o �Nơi ở hiện nay� trong
-sơ yếu l� lịch để x�c định đ�ng
-th�n tổ chức hội nghị. Nếu người
+- Xãc định địa
+điểm: Căn cứ vào Nơi ở hiện nay trong
+sơ yếu lã lịch để xãc định đồng
+thôn tổ chức hội nghị. Nếu người
 ứng cử thay đổi nơi ở, cơ quan
-giới thiệu phải th�ng b�o kịp thời cho Ban
-Thường trực Uỷ ban MTTQ x�.
+giới thiệu phải thông báo kịp thời cho Ban
+Thường trực Uỷ ban MTTQ xã.
 
 - Hội nghị
-cử tri nơi cư tr� được tổ chức theo
-h�nh thức hội nghị trực tiếp. Trường
-hợp bất khả kh�ng (thi�n tai, dịch bệnh) kh�ng
+cử tri nơi cư trì được tổ chức theo
+hành thức hội nghị trực tiếp. Trường
+hợp bất khả không (thiện tai, dịch bệnh) không
 thể tổ chức hội nghị trực tiếp, việc
-tổ chức trực tuyến hoặc ph�t phiếu
-lấy � kiến sẽ thực hiện theo quyết
+tổ chức trực tuyến hoặc phát phiếu
+lấy  kiến sẽ thực hiện theo quyết
 định của Ủy ban Bầu cử tỉnh.
 
 III.
-TỔ CHỨC HỘI NGHỊ LẤY � KIẾN NHẬN X�T
-V� T�N NHIỆM 
+TỔ CHỨC HỘI NGHỊ LẤY  KIẾN NHẬN XãT
+Và TỷN NHIỆM 
 
 Việc tổ
-chức hội nghị lấy � kiến nhận x�t v� t�n
-nhiệm của cử tri nơi cư tr� đối
+chức hội nghị lấy  kiến nhận xãt và tỷn
+nhiệm của cử tri nơi cư trì đối
 với người ứng cử đại biểu Hội
-đồng nh�n đ�n được thực hiện trong
-khoảng từ ng�y 04/02/2026 đến ng�y 08/02/2026 theo quy
-định tại Điều 54 v� Điều 55 của
-Luật bầu cử đại biểu Quốc hội v�
-đại biểu Hội đồng nh�n d�n v� c�c
-Điều 2, 3, 4 của Nghị quyết li�n tịch
+đồng nhân đến được thực hiện trong
+khoảng từ ngày 04/02/2026 đến ngày 08/02/2026 theo quy
+định tại Điều 54 và Điều 55 của
+Luật bầu cử đại biểu Quốc hội và
+đại biểu Hội đồng nhân dân và các
+Điều 2, 3, 4 của Nghị quyết liên tịch
 số 101/2025/UBTVQH15 của Ủy ban Thường vụ
 Quốc hội, cụ thể như sau:
 
 1.
-Triệu tập v� chủ tr� hội nghị
+Triệu tập và chủ trì hội nghị
 
 - Ban Thường
-trực UBMTTQ x� trao đổi với cơ quan, đơn
-vị c� người ứng cử để tổ
+trực UBMTTQ xã trao đổi với cơ quan, đơn
+vị cơ người ứng cử để tổ
 chức hội nghị cử tri:
 
 + Thống nhất
@@ -5443,172 +5442,172 @@ thời gian, địa điểm tổ chức hội
 nghị cử tri
 
 + Cơ quan, tổ
-chức, đơn vị c� người được
+chức, đơn vị cơ người được
 giới thiệu ứng cử cung cấp tiểu sử
-t�m tắt, � kiến nhận x�t của cơ quan, tổ
+tỷm tắt,  kiến nhận xãt của cơ quan, tổ
 chức, đơn vị đối với người
 được giới thiệu ứng cử.
 
 - Địa
 điểm tổ chức hội nghị: Hội nghị
-được tổ chức tại th�n nơi
-người ứng cử thường tr� hoặc tạm
-tr�.
+được tổ chức tại thôn nơi
+người ứng cử thường trì hoặc tạm
+trì.
 
 - Ban Thường
-trực UBMTTQ x� phối hợp với UBND x� triệu
-tập (ph�t giấy mời) v� chủ tr� hội
+trực UBMTTQ xã phối hợp với UBND xã triệu
+tập (phát giaấy mời) và chủ trì hội
 nghị.
 
-2. Th�nh
+2. Thành
 phần dự hội nghị
 
 - Trưởng Ban
-C�ng t�c Mặt trận th�n phối hợp với
-Trưởng th�n lập danh s�ch v� mời cử tri
+Công tác Mặt trận thôn phối hợp với
+Trưởng thôn lập danh sách và mời cử tri
 đến dự hội nghị.
 
 - Số
 lượng cử tri dự hội nghị:
 
 + Đối
-với nơi c� dưới 100 cử tri: Tổ chức hội
-nghị to�n thể cử tri, phải đảm bảo
-số cử tri tham dự hội nghị đạt �t
+với nơi cơ dưới 100 cử tri: Tổ chức hội
+nghị ton thể cử tri, phải đảm bảo
+số cử tri tham dự hội nghị đạt t
 nhất 50% tổng số cử tri triệu tập.
 
 + Đối
-với nơi c� từ 100 cử tri trở l�n: C� thể
-tổ chức to�n thể hoặc đại diện
-hộ gia đ�nh, phải đảm bảo �t nhất 55
+với nơi cơ từ 100 cử tri trở lần: Cơ thể
+tổ chức ton thể hoặc đại diện
+hộ gia định, phải đảm bảo t nhất 55
 cử tri tham dự.
 
-- Kh�ch mời:
-Chủ tịch/Ph� Chủ tịch HĐND x�, người
-ứng cử đại biểu Hội đồng nh�n d�n,
-đại diện c�c cơ quan, tổ chức, đơn
-vị, th�n đ� giới thiệu người ứng
+- Khồch mời:
+Chủ tịch/Phụ Chủ tịch HĐND xã, người
+ứng cử đại biểu Hội đồng nhân dân,
+đại diện các cơ quan, tổ chức, đơn
+vị, thôn đã giới thiệu người ứng
 cử được mời tham dự hội nghị.
 
-3. Tr�nh tự tổ chức hội
+3. Trình tự tổ chức hội
 nghị cưt tri (theo quy định tại Nghị
 quyết 101)
 
-3.1. Chủ tr� tuy�n
-bố l� do, giới thiệu đại biểu dự
-hội nghị. Người chủ tr� c� tr�ch nhiệm sau
-đ�y:
+3.1. Chủ trì tuyn
+bố lã do, giới thiệu đại biểu dự
+hội nghị. Người chủ trì cơ trách nhiệm sau
+đẩy:
 
 - Giới thiệu
-mục đ�ch, y�u cầu của hội nghị;
+mục đích, yêu cầu của hội nghị;
 
 - Giới thiệu
-thư k� hội nghị để hội nghị quyết
+thư k hội nghị để hội nghị quyết
 định;
 
-- B�o c�o về
+- Bảo cơo về
 số lượng cử tri được mời, số
-lượng cử tri c� mặt
+lượng cử tri cơ mặt
 
 - Giới thiệu
-danh s�ch người ứng cử;
+danh sách người ứng cử;
 
-- Đọc ti�u
+- Đọc tiêu
 chuẩn của đại biểu Quốc hội quy
 định tại Điều 22 của Luật Tổ
 chức Quốc hội (đối với hội nghị
-cử tri lấy � kiến về người ứng
-cử đại biểu Quốc hội), ti�u chuẩn
-của đại biểu Hội đồng nh�n d�n quy
+cử tri lấy  kiến về người ứng
+cử đại biểu Quốc hội), tiêu chuẩn
+của đại biểu Hội đồng nhân dân quy
 định tại Điều 5 của Luật tổ
-chức ch�nh quyền địa phương (đối
-với hội nghị lấy � kiến về người
-ứng cử đại biểu Hội đồng nh�n
-d�n) v� những trường hợp kh�ng được
+chức chính quyền địa phương (đối
+với hội nghị lấy  kiến về người
+ứng cử đại biểu Hội đồng nhân
+dân) và những trường hợp không được
 ứng cử đại biểu Quốc hội,
-đại biểu Hội đồng nh�n d�n quy
+đại biểu Hội đồng nhân dân quy
 định tại Điều 37 của Luật bầu
-cử đại biểu Quốc hội v� đại
-biểu Hội đồng nh�n d�n.
+cử đại biểu Quốc hội và đại
+biểu Hội đồng nhân dân.
 
-3.2. Thư k�
-hội nghị đọc tiểu sử t�m tắt của
+3.2. Thư k
+hội nghị đọc tiểu sử tỷm tắt của
 từng người ứng cử.
 
-3.3. Cử tri ph�t
-biểu � kiến đối với từng người
+3.3. Cử tri phát
+biểu  kiến đối với từng người
 ứng cử.
 
 3.4. Người
-ứng cử ph�t biểu.
+ứng cử phát biểu.
 
 3.5. Đại
 diện cơ quan, tổ chức, đơn vị giới
-thiệu người ứng cử ph�t biểu � kiến.
+thiệu người ứng cử phát biểu  kiến.
 
 3.6. Hội
 nghị cử Tổ kiểm phiếu từ 05 đến
-15 th�nh vi�n
+15 thành vin
 
 3.7. Hội
-nghị biểu quyết bằng h�nh thức giơ tay
-hoặc bỏ phiếu k�n
+nghị biểu quyết bằng hành thức giaơ tay
+hoặc bỏ phiếu kín
 
 Trường
-hợp hội nghị biểu quyết bằng h�nh
-thức giơ tay th� Tổ kiểm phiếu đếm,
-t�nh kết quả biểu quyết đối với
+hợp hội nghị biểu quyết bằng hành
+thức giaơ tay thủ Tổ kiểm phiếu đếm,
+tỉnh kết quả biểu quyết đối với
 từng người ứng cử.
 
 Trường
-hợp hội nghị biểu quyết bằng h�nh
-thức bỏ phiếu k�n th� phiếu lấy � kiến
-cử tri nơi cư tr� phải đ�ng dấu của
-Ủy ban Mặt trận tổ quốc Việt nam x�
-hoặc Ủy ban nh�n d�n x�. Tr�n phiếu ghi r� họ t�n
+hợp hội nghị biểu quyết bằng hành
+thức bỏ phiếu kín thủ phiếu lấy  kiến
+cử tri nơi cư trì phải đồng dấu của
+Ủy ban Mặt trận tổ quốc Việt nam xã
+hoặc Ủy ban nhân dân xã. Trận phiếu ghi r họ tỷn
 người ứng cử (Mẫu 07/PLYK của Nghị
 quyết 101).
 
 3.8. Tổ kiểm
-phiếu tiến h�nh kiểm phiếu, lập bi�n bản
+phiếu tiến hành kiểm phiếu, lập biên bản
 kiểm phiếu (theo mẫu số 06/BBKP)
 
 3.9. Hội
-nghị th�ng qua bi�n bản hội nghị cử tri (theo mẫu
+nghị tháng qua biên bản hội nghị cử tri (theo mẫu
 02/HNCT của Nghị quyết 101)
 
-4. Nội dung v� bi�n bản hội
+4. Nội dung và biên bản hội
 nghị cử tri
 
 - Tại hội nghị cử tri
-nơi cư tr�, cử tri đối chiếu với ti�u
+nơi cư trì, cử tri đối chiếu với tiêu
 chuẩn đại biểu Quốc hội, đại
-biểu Hội đồng nh�n d�n để để
-nhận x�t, b�y tỏ sự t�n nhiệm đối với
+biểu Hội đồng nhân dân để để
+nhận xãt, bày tỏ sự tỷn nhiệm đối với
 người ứng cử.
 
-- Bi�n bản
-phải ghi r� th�nh phần, số lượng người
+- Biên bản
+phải ghi r thành phần, số lượng người
 tham gia dự, diễn biến, kết quả hội
-nghị, trong đ� phải ghi r� số cử tri
-được triệu tập, s� lượng cử tri c�
-mặt, � kiến ph�t biểu v� sự t�n nhiệm của
+nghị, trong đã phải ghi r số cử tri
+được triệu tập, số lượng cử tri cơ
+mặt,  kiến phát biểu và sự tỷn nhiệm của
 cử tri đối với từng người ứng
 cử.
 
-- Bi�n bản hội
-nghị cử tri nơi cư tr� phải được
+- Biên bản hội
+nghị cử tri nơi cư trì phải được
 gửi đến Ban Thường trực UBMTTQ cấp
-tổ chức hiệp thương ngay sau khi kết th�c
+tổ chức hiệp thương ngay sau khi kết thực
 hội nghị.
 
-IV. TR�CH NHIỆM X�C MINH V� TRẢ
-LỜI C�C VỤ VIỆC M� CỬ TRI N�U ĐỐI VỚI
+IV. TRCH NHIỆM XãC MINH Và TRẢ
+LỜI CơC VỤ VIỆC M CỬ TRI NữU ĐỐI VỚI
 NGƯỜI ỨNG CỬ ĐẠI BIỂU HỘI
-ĐỒNG NH�N D�N
+ĐỒNG NHồN DựN
 
-Tr�ch nhiệm x�c minh v� trả lời
-c�c vụ việc m� cử tri n�u đối với
+Trách nhiệm xãc minh và trả lời
+các vụ việc m cử tri nữu đối với
 người ứng cử đại biểu Hội
 đồng 
 ... [Nội dung đã được rút gọn]
@@ -5618,7 +5617,7 @@ người ứng cử đại biểu Hội
 ════════════════════════════════════════════════════════════════════════════════
 Admin
  Normal
- L� Văn Hiếu
+ Lã Văn Hiếu
  2
  20
  2026-01-14T01:11:00Z
@@ -5645,173 +5644,173 @@ Admin
  ỦY BAN MTTQ
  VIỆT NAM
 
- X� LƯƠNG
+ Xã LƯƠNG
  MINH
 
  BAN THƯỜNG TRỰC
 
- Số: �����/QĐ-MTTQ-BTT
+ Số: /QĐ-MTTQ-BTT
 
- CỘNG H�A X� HỘI CHỦ NGHĨA VIỆT NAM
+ CỘNG HồA Xã HỘI CHỦ NGHĨA VIỆT NAM
 
- � �Độc lập - Tự do -
- Hạnh ph�c
+  Độc lập - Tự do -
+ Hạnh phúc
 
- �
+ 
 
  Lương
- Minh, ng�y 12 th�ng 01 năm 2026
+ Minh, ngày 12 tháng 01 năm 2026
 
 QUYẾT ĐỊNH
 
-Về việc th�nh lập Tổ tiếp c�ng d�n,
-xử l� đơn thư phục vụ bầu cử
-đại biểu Quốc hội kh�a XVI v� bầu cử
-đại biểu Hội đồng nh�n d�n c�c cấp 
+Về việc thành lập Tổ tiếp công dân,
+xử lã đơn thư phục vụ bầu cử
+đại biểu Quốc hội khóa XVI và bầu cử
+đại biểu Hội đồng nhân dân các cấp 
 
-nhiệm kỳ 2026 � 2031
+nhiệm kỳ 2026  2031
 
 BAN
-THƯỜNG TRỰC ỦY BAN MTTQ VIỆT NAM X�
+THƯỜNG TRỰC ỦY BAN MTTQ VIỆT NAM Xã
 LƯƠNG MINH
 
 Căn cứ Luật Bầu
-cử đại biểu Quốc hội v� đại
-biểu Hội đồng nh�n d�n số 85/2015/QH13, ng�y
-25/6/2015 v� được sửa đổi, bổ sung
+cử đại biểu Quốc hội và đại
+biểu Hội đồng nhân dân số 85/2015/QH13, ngày
+25/6/2015 và được sửa đổi, bổ sung
 bởi Luật số 83/2025/QH15; Luật Mặt trận
 Tổ quốc Việt Nam số 75/2015/QH13 được
 sửa đổi bổ sung bởi Luật số
 97/2025/QH15; Luật Khiếu nại số 02/2011/QH13;
-Luật Tố c�o số 25/2018/QH14; Căn cứ
-Hướng dẫn số 19-HD/UBKTTW ng�y 25/8/2025 của
-Ủy ban Kiểm tra Trung ương về việc giải
-quyết tố c�o, khiếu nại về bầu cử
-đại biểu Quốc hội kh�a XVI v� đại
-biểu Hội đồng nh�n d�n c�c cấp nhiệm
+Luật Tố cơo số 25/2018/QH14; Căn cứ
+Hướng dẫn số 19-HD/UBKTTW ngày 25/8/2025 của
+Ủy ban Kiểm tra Trung ương về việc giaải
+quyết tố cơo, khiếu nại về bầu cử
+đại biểu Quốc hội khóa XVI và đại
+biểu Hội đồng nhân dân các cấp nhiệm
 kỳ 2026-2031;
 
-�Căn cứ Kế hoạch
-số 33/KH-MTTQ-BTT, ng�y 14/11/2025 của Ban Thường
+Căn cứ Kế hoạch
+số 33/KH-MTTQ-BTT, ngày 14/11/2025 của Ban Thường
 trực Ủy ban Mặt trận Tổ quốc Việt Nam
-tỉnh về việc thực hiện c�ng t�c bầu
-cử đại biểu Quốc hội kh�a XVI v� bầu
-cử đại biểu Hội đồng nh�n d�n c�c
+tỉnh về việc thực hiện công tác bầu
+cử đại biểu Quốc hội khóa XVI và bầu
+cử đại biểu Hội đồng nhân dân các
 cấp nhiệm kỳ 2026 - 2031; 
 
 Căn cứ Kế hoạch
-số 18/KH-MTTQ-BTT ng�y 12/01/2026 của Ban Thường
-trực Ủy ban MTTQ Việt Nam x� Lương Minh về
-tiếp c�ng d�n, xử l� đơn thư khiếu nại,
-tố c�o, kiến nghị, phản �nh phục vụ
+số 18/KH-MTTQ-BTT ngày 12/01/2026 của Ban Thường
+trực Ủy ban MTTQ Việt Nam xã Lương Minh về
+tiếp công dân, xử lã đơn thư khiếu nại,
+tố cơo, kiến nghị, phản nh phục vụ
 bầu cử; 
 
 Theo
-đề nghị của bộ phận chuy�n m�n cơ quan
-Ủy ban Mặt trận Tổ quốc Việt Nam x�
+đề nghị của bộ phận chuyên môn cơ quan
+Ủy ban Mặt trận Tổ quốc Việt Nam xã
 Lương Minh. 
 
 QUYẾT ĐỊNH
 
 Điều
-1. Th�nh lập Tổ tiếp c�ng d�n, xử l� đơn
-thư khiếu nại, tố c�o, kiến nghị, phản
-�nh của c�ng d�n phục vụ bầu cử đại
-biểu Quốc hội kh�a XVI v� bầu cử đại
-biểu Hội đồng nh�n d�n c�c cấp nhiệm
-kỳ 2026 - 2031, gồm c�c th�nh vi�n:
+1. Thành lập Tổ tiếp công dân, xử lã đơn
+thư khiếu nại, tố cơo, kiến nghị, phản
+nh của công dân phục vụ bầu cử đại
+biểu Quốc hội khóa XVI và bầu cử đại
+biểu Hội đồng nhân dân các cấp nhiệm
+kỳ 2026 - 2031, gồm các thành vin:
 
 1.
-B� Kh�c Thị H�a - Ph� Chủ tịch Ủy ban MTTQ
-Việt Nam x�, Chủ tịch Hội N�ng d�n x� - Tổ
+Bổ Khồc Thị Hồa - Phụ Chủ tịch Ủy ban MTTQ
+Việt Nam xã, Chủ tịch Hội Nông dân xã - Tổ
 trưởng.
 
 2.
-�ng Đặng Văn Qu�n - Chuy�n vi�n Ủy ban MTTQ
-Việt Nam x� - Tổ ph�.
+ứng Đặng Văn Quản - Chuyện vin Ủy ban MTTQ
+Việt Nam xã - Tổ phụ.
 
 3.
-�ng Triệu T�i Th�ng - Chuy�n vi�n Ủy ban MTTQ Việt Nam
-x� - Ph� Chủ tịch Hội N�ng d�n x� - Th�nh vi�n.
+ứng Triệu Tỷi Tháng - Chuyện vin Ủy ban MTTQ Việt Nam
+xã - Phụ Chủ tịch Hội Nông dân xã - Thành vin.
 
 Điều
-2. Nhiệm vụ của Tổ tiếp c�ng d�n, xử l�
-khiếu nại, tố c�o, kiến nghị, phản �nh
-của c�ng d�n:
+2. Nhiệm vụ của Tổ tiếp công dân, xử lã
+khiếu nại, tố cơo, kiến nghị, phản nh
+của công dân:
 
 -
-Thực hiện tiếp c�ng d�n, xử l� khiếu nại,
-tố c�o, kiến nghị, phản �nh của c�ng d�n theo
-kế hoạch v� theo chỉ đạo của Ban
+Thực hiện tiếp công dân, xử lã khiếu nại,
+tố cơo, kiến nghị, phản nh của công dân theo
+kế hoạch và theo chỉ đạo của Ban
 Thường trực Ủy ban Mặt trận Tổ
-quốc Việt Nam x� trong thời gian phục vụ c�ng t�c
+quốc Việt Nam xã trong thời gian phục vụ công tác
 bầu cử.
 
 -
-Tiếp nhận, ph�n loại, tổng hợp c�c đơn
-thư khiếu nại, tố c�o, kiến nghị, phản
-�nh của c�ng d�n c� li�n quan đến c�ng t�c bầu cử
+Tiếp nhận, phân loại, tổng hợp các đơn
+thư khiếu nại, tố cơo, kiến nghị, phản
+nh của công dân cơ liên quan đến công tác bầu cử
 thuộc thẩm quyền để tham mưu cho Ban
-Thường trực xem x�t, xử l�, chuyển đơn
-đến cơ quan, tổ chức c� thẩm quyền
-giải quyết theo quy định. Theo d�i, gi�m s�t việc
-giải quyết c�c vụ việc theo thẩm quyền v�
+Thường trực xem xãt, xử lã, chuyển đơn
+đến cơ quan, tổ chức cơ thẩm quyền
+giaải quyết theo quy định. Theo dựi, giaám sát việc
+giaải quyết các vụ việc theo thẩm quyền và
 chức năng của Ban Mặt trận Tổ quốc
-Việt Nam c�c cấp.
+Việt Nam các cấp.
 
 -
-Tổng hợp, b�o c�o Ban Thường trực Ủy ban
-Mặt trận Tổ quốc Việt Nam x� đối
-với c�c vụ việc phức tạp, nổi cộm, c�
-khả năng ảnh hưởng đến an ninh ch�nh
-trị, trật tự an to�n x� hội v� quyền, lợi
-�ch hợp ph�p của c�ng d�n trong bầu cử.
+Tổng hợp, bảo cơo Ban Thường trực Ủy ban
+Mặt trận Tổ quốc Việt Nam xã đối
+với các vụ việc phức tạp, nổi cộm, cơ
+khả năng ảnh hưởng đến an ninh chính
+trị, trật tự an ton xã hội và quyền, lợi
+ch hợp pháp của công dân trong bầu cử.
 
 -
-Thực hiện c�c nhiệm vụ kh�c do Ban Thường
+Thực hiện các nhiệm vụ khồc do Ban Thường
 trực Ủy ban Mặt trận Tổ quốc Việt Nam
-x� giao.
+xã giao.
 
 -
-Tổ tiếp c�ng d�n, xử l� khiếu nại, tố c�o,
-kiến nghị, phản �nh của c�ng d�n tự giải
-thể sau khi kết th�c bầu cử đại biểu
-Quốc hội kh�a XVI v� Đại biểu HĐND c�c
+Tổ tiếp công dân, xử lã khiếu nại, tố cơo,
+kiến nghị, phản nh của công dân tự giaải
+thể sau khi kết thực bầu cử đại biểu
+Quốc hội khóa XVI và Đại biểu HĐND các
 cấp nhiệm kỳ 2026 - 2031.
 
 Điều
-3. Ban Thường trực Ủy ban MTTQ x�, c�c bộ
-phận chuy�n m�n thuộc Cơ quan Ủy ban Mặt
-trận Tổ quốc Việt Nam x� v� c�c �ng (b�) c� t�n
-tại Điều 1 chịu tr�ch nhiệm thi h�nh Quyết
-định n�y
+3. Ban Thường trực Ủy ban MTTQ xã, các bộ
+phận chuyên môn thuộc Cơ quan Ủy ban Mặt
+trận Tổ quốc Việt Nam xã và các ứng (bổ) cơ tỷn
+tại Điều 1 chịu trách nhiệm thi hành Quyết
+định này
 
 Quyết
-định n�y c� hiệu lực kể từ ng�y k�./.
+định này cơ hiệu lực kể từ ngày k./.
 
- �
+ 
 
- � Nơi nhận:
+  Nơi nhận:
 
  - BTT Ủy ban
  MTTQ Việt Nam tỉnh (B/c); 
 
  -
- Thường trực Đảng ủy x� (B/c);
+ Thường trực Đảng ủy xã (B/c);
 
  -
- Ủy ban bầu cử x� (B/c);�
+ Ủy ban bầu cử xã (B/c);
 
  -
- Thường trực HĐND, UBND x�;
+ Thường trực HĐND, UBND xã;
 
  -
- Ban CTMT th�n; 
+ Ban CTMT thôn; 
 
  -
  Như điều 3 (Th/h);
 
- - Lưu: VT� 
+ - Lưu: VTỷ 
 
  TM. BAN
  THƯỜNG TRỰC
@@ -5820,9 +5819,9 @@ Quyết
  TỊCH
 
  Lan Thị
- V�n
+ Vấn
 
- �
+ 
 
 ═══════════════════════════════════════════════════════════════════════════
 📍 DANH SÁCH 35 NGƯỜI ỨNG CỬ ĐẠI BIỂU HĐND XÃ LƯƠNG MINH
