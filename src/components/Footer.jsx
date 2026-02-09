@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { MapPin, Phone, Mail, Clock, Facebook, HouseHeart } from 'lucide-react';
 import './Footer.css';
-import logoDoan from '../assets/logo-Doan.png';
+import logoDoan from '../assets/logo-doanthanhnien.jpg';
 
 const quickLinks = [
     { label: 'Trang chủ', href: '#home' },
