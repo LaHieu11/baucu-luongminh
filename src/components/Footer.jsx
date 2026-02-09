@@ -43,8 +43,8 @@ function Footer() {
                                     <img src={logoDoan} alt="Logo Đoàn" />
                                 </div>
                                 <div className="footer__logo-text">
-                                    <span className="footer__logo-title">Bầu Cử 2026</span>
-                                    <span className="footer__logo-subtitle">Xã Lương Minh</span>
+                                    <span className="footer__logo-title">Đoàn TNCS Hồ Chí Minh xã Lương Minh</span>
+                                    <span className="footer__logo-subtitle">Hỗ trợ bầu cử ĐBQH và HĐND các cấp nhiệm kỳ 2026-2031</span>
                                 </div>
                             </div>
                             <p className="footer__description">

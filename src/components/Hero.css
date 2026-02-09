@@ -303,7 +303,7 @@
 /* Scroll Indicator */
 .hero__scroll {
     position: absolute;
-    bottom: var(--spacing-8);
+    bottom: var(--spacing-3);
     left: 50%;
     transform: translateX(-50%);
     display: flex;

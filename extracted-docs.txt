@@ -1407,7 +1407,7 @@ K
 
 Xã Nga Sơn, tỉnh Thanh Hóa
 
-Thôn 2, tỉnh Quảng Ninh
+Thôn 2, xã Ba Chẽ, tỉnh Quảng Ninh
 
 12/12
 
@@ -5199,3 +5199,90 @@ CHỦ TỊCH
 
 
 Lan Thị Vân
+
+================================================================================
+Danh sách lập danh sách sơ bộ những người ứng cử (35 người).xlsx
+================================================================================
+DANH SÁCH 35 NGƯỜI ỨNG CỬ ĐẠI BIỂU HĐND XÃ LƯƠNG MINH NHIỆM KỲ 2026-2031
+
+Cột dữ liệu:  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Mẫu số 05/BCĐBHĐND-MT
+
+1. undefined: ỦY BAN MTTQ VIỆT NAM
+XÃ LƯƠNG MINH
+BAN THƯỜNG TRỰC ; undefined: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc; 
+2. undefined: Lương Minh, ngày 02 tháng 02 năm 2026; 
+4. undefined: DANH SÁCH; 
+5. undefined:  NHỮNG NGƯỜI ỨNG CỬ ĐẠI BIỂU HỘI ĐỒNG NHÂN DÂN XÃ; 
+6. undefined: LƯƠNG MINH KHÓA II, NHIỆM KỲ 2026 – 2031; 
+8. undefined: STT; undefined: Họ và tên (2); undefined: Ngày, tháng, năm sinh; undefined: Giới tính; undefined: Quốc tịch; undefined: Dân tộc; undefined: Tôn giáo; undefined: Quê quán; undefined: Nơi ở hiện nay(3); undefined: Trình độ; undefined: Nghề nghiệp, chức vụ(4); Mẫu số 05/BCĐBHĐND-MT: Nơi công tác; 
+9. undefined: Giáo dục phổ thông; undefined: Chuyên môn, nghiệp vụ; undefined: Học hàm, học vị; undefined: Lý luận chính trị; undefined: Ngoại ngữ; 
+10. undefined: 1; undefined: Bàn Văn Ba; undefined: 24/10/
+1979; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Ba Chẽ, QN; undefined: Thôn Đồng Tán,xã Lương Minh; undefined: 12/12; undefined: Đại học; undefined: Không; undefined: Cao cấp; undefined: Anh B; undefined: Phó chủ tịch HĐND xã; Mẫu số 05/BCĐBHĐND-MT: HĐND Xã Lương Minh; 
+11. undefined: 2; undefined: Dương Thị Chiến; undefined: 5/3/
+1984; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Sán chỉ; undefined: Không; undefined: Xã Kỳ Thượng, tỉnh Quảng Ninh; undefined: Thôn Khe Màu, xã Kỳ Thượng, tỉnh Quảng Ninh; undefined: 12/12; undefined: Đại học; undefined: Không; undefined: Trung cấp; undefined: Không; undefined: Phó Trưởng phòng VH-XH xã; Mẫu số 05/BCĐBHĐND-MT: UBND xã Lương Minh; 
+12. undefined: 3; undefined: Đặng Thị Chính; undefined: 6/4/
+1983; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Thống Nhất, QN; undefined: Thôn Xóm Mới,Xã Lương Minh; undefined: 12/12; undefined: Đại học; undefined: Không; undefined: Trung cấp; undefined: Anh B; undefined: Phó Ban KT- NS HĐND xã; Mẫu số 05/BCĐBHĐND-MT: HĐND Xã Lương Minh; 
+13. undefined: 4; undefined: Hoàng Tiến Đạt; undefined: 10/11/
+1996; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Ba Chẽ, Quảng Ninh; undefined: Thôn 2, Xã Ba Chẽ, Quảng Ninh; undefined: 12/12; undefined: Không; undefined: Không; undefined: Không; undefined: Không; undefined: Hợp đồng văn phòng HĐND&UBND xã; Mẫu số 05/BCĐBHĐND-MT: UBND xã Lương Minh; 
+14. undefined: 5; undefined: Trần Văn Dũng; undefined: 1/3/
+1980; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và  không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Sán chỉ; undefined: Không; undefined: Xã Kỳ Thượng, tỉnh Quảng Ninh; undefined: Thôn 3A, Xã Ba Chẽ, Quảng Ninh; undefined: 12/12; undefined: Thạc sĩ tài chính ngân hàng ; undefined: Không; undefined: CC; undefined: Anh B1; undefined: Phó bí thư Đảng uỷ, chủ tịch UBND xã; Mẫu số 05/BCĐBHĐND-MT: UBND xã Lương Minh; 
+15. undefined: 6; undefined: Nông Văn Được; undefined: 14/04/
+1987; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: K; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Xóm Mới xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Đại học sư phạm; undefined: Không; undefined: SC; undefined: Tiếng anh C; undefined: Uỷ viên BCH Đảng bộ xã; Bí thư chi bộ- trưởng thôn; Mẫu số 05/BCĐBHĐND-MT: Thôn Xóm Mới; 
+16. undefined: 7; undefined: Bùi Vĩnh Dương; undefined: 15/7/
+1985; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Kinh; undefined: K; undefined: Phường Hoành Bồ, tỉnh Quảng Ninh; undefined: Khu An Biên I, Phường Hoành Bồ, tỉnh Quảng Ninh; undefined: 12/12; undefined: Thạc Sỹ Xây dựng Đảng và chính quyền nhà nước; cử nhân kinh tế ; cử nhân sư phạm thể dục thể thao ; undefined: Không; undefined: Cao cấp; undefined: Anh B1; undefined: Trưởng Ban Xây dựng Đảng; Mẫu số 05/BCĐBHĐND-MT: Đảng ủy xã Lương Minh; 
+17. undefined: 8; undefined: Vi Thị Hà; undefined: 14/02/
+1993; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Lương Minh, Tỉnh Quảng Ninh; undefined: Thôn Đồng Giảng Aã Lương Minh, Tỉnh Quảng Ninh; undefined: 12/12; undefined: CĐ Sư phạm; undefined: Không; undefined: Không; undefined: Không; undefined: Hợp đồng văn phòng HĐND&UBND xã; Mẫu số 05/BCĐBHĐND-MT: UBND xã Lương Minh; 
+18. undefined: 9; undefined: Lã Văn Hiếu; undefined: 1/1/
+2003; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Kỳ Thượng, Tỉnh Quảng Ninh; undefined: Thôn Khe Loọng, Xã Ba Chẽ, Tỉnh Quảng Ninh; undefined: 12/12; undefined: Đại học Công nghệ thông tin; undefined: Không; undefined: Khômg; undefined: Không; undefined: Công chức Phòng VH-XH xã; Mẫu số 05/BCĐBHĐND-MT: UBND xã Lương Minh; 
+19. undefined: 10; undefined: Nịnh Quốc Hoàn; undefined: 26/12/
+1975; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Sán chỉ; undefined: Không; undefined: Xã Kỳ Thượng; undefined: Thôn 2, xã Ba Chẽ, tỉnh Quảng Ninh; undefined: 12/12; undefined: Đại học ngành Thống kê Kinh tế - Xã hội; Thạc sĩ Kinh tế nông nghiệp; undefined: Không; undefined: Cao cấp; undefined: B1; undefined: Bí thư Đảng ủy, Chủ tịch HĐND xã; Mẫu số 05/BCĐBHĐND-MT: Đảng ủy xã Lương Minh; 
+20. undefined: 11; undefined: Bàn Ngọc Hương; undefined: 29/6/1965; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Tân Ốc 1, x,ã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Thạc sĩ; undefined: Không; undefined: Không; undefined: Cao Cấp; undefined: Không; Mẫu số 05/BCĐBHĐND-MT: Không; 
+21. undefined: 12; undefined: Lý Thị Hương; undefined: 1/1/
+1993; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Tân Ốc 2 xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: TC kế toán; undefined: Không; undefined: SC; undefined: Không; undefined: Chi hội trưởng phụ nữ, ANCS thôn; Mẫu số 05/BCĐBHĐND-MT: Thôn Tân Ốc 2; 
+22. undefined: 13; undefined: Vi Thị Khanh; undefined: 6/4/
+1999; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Lương Minh, Tỉnh Quảng Ninh; undefined: Thôn Đồng Giảng B, Xã Lương Minh, Tỉnh Quảng Ninh; undefined: 12/12; undefined: Cao đẳng; undefined: Không; undefined: Không; undefined: Không; undefined: Hợp đồng văn phòng HĐND&UBND xã; Mẫu số 05/BCĐBHĐND-MT: UBND xã Lương Minh; 
+23. undefined: 14; undefined: Triệu Ngọc Lan; undefined: 21/11/
+1993; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Khe Áng, xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Không; undefined: Không; undefined: Không; undefined: Không; undefined: Chi hội trưởng phụ nữ; Mẫu số 05/BCĐBHĐND-MT: Thôn Khe Áng; 
+24. undefined: 15; undefined: Vi Văn Liêm; undefined: 5/1/
+1983; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Lương Minh, QN; undefined: Thôn Đồng Tán,Xã Lương Minh; undefined: 12/12; undefined: Đại học; undefined: Không; undefined: Trung cấp; undefined: Anh B; undefined: Phó Ban VH – XH HĐND xã; Mẫu số 05/BCĐBHĐND-MT: HĐND Xã Lương Minh; 
+25. undefined: 16; undefined: Nguyễn Đức Mạnh; undefined: 15/6/
+1993; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Kinh; undefined: Không; undefined: Xã Nga Sơn, tỉnh Thanh Hóa; undefined: Thôn 2, xã Ba Chẽ; undefined: 12/12; undefined: CH Khoa học môi trường; undefined: Không; undefined: TC; undefined: Tiếng Anh B1 tương đương; undefined: Bí thư Đoàn TN xã; Mẫu số 05/BCĐBHĐND-MT: Cơ quan UBMTTQ xã; 
+26. undefined: 17; undefined: Bàn Thị Miên; undefined: 14/7/
+1988; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Tân Ốc 2, xã Lương Minh; undefined: 12/12; undefined: ĐH sư phạm; undefined: Không; undefined: TC; undefined: B (tiếng Anh); undefined: Chủ tịch Hội LHPN xã; Mẫu số 05/BCĐBHĐND-MT: Cơ quan UBMTTQ xã; 
+27. undefined: 18; undefined: Đặng Thị Minh; undefined: 9/1/
+2000; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Lương Minh, Tỉnh Quảng Ninh; undefined: Thôn Khe Càn,xã Lương Minh, Tỉnh Quảng Ninh; undefined: 12/12; undefined: ĐH Quản trị kinh doanh; undefined: Không; undefined: Không; undefined: Không; undefined: Nhân viên hợp đồng 111 ; Mẫu số 05/BCĐBHĐND-MT: Văn phòng Đảng uỷ xã Lương Minh; 
+28. undefined: 19; undefined: Hoàng Văn Nhâm; undefined: 4/5/
+1980; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn 7 xã Ba Chẽ, tỉnh Quảng Ninh; undefined: 12/12; undefined: Đại học Nông nghiệp, chuyên ngành Nông học; undefined: Không; undefined: Trung  cấp; undefined: B ; undefined: Chuyên viên Ban Xây dựng Đảng; Mẫu số 05/BCĐBHĐND-MT: Đảng ủy xã Lương Minh; 
+29. undefined: 20; undefined: Vi Văn Nhất; undefined: 19/05/
+1977; undefined: Nam ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Lương Minh, Tỉnh Quảng Ninh; undefined: Thôn Đồng Giảng B,xã Lương Minh, Tỉnh Quảng Ninh; undefined: 12/12; undefined: Đại học; undefined: Không; undefined: Trung cấp; undefined: Không; undefined: UV UBKT Đảng ủy xã Lương Minh; Mẫu số 05/BCĐBHĐND-MT: UBKT Đảng ủy xã Lương Minh; 
+30. undefined: 21; undefined: Bùi Thị Thúy Quỳnh; undefined: 30/9/
+1982; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Kinh; undefined: Không; undefined: Phường Hiệp Hòa, tỉnh Quảng Ninh; undefined: Thôn 2, xã Ba Chẽ, tỉnh Quảng Ninh; undefined: 12/12; undefined: Cử nhân Kế toán; undefined:  Không; undefined: Trung cấp; undefined: B ; undefined: Công chức Kế toán ; Mẫu số 05/BCĐBHĐND-MT: Văn phòng Đảng ủy xã Lương Minh; 
+31. undefined: 22; undefined: Bàn Trường Sơn; undefined: 6/6/
+1985; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: K; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Phủ Liễn, xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Cử nhân luật kinh tế; undefined: Không; undefined: TC; undefined: Không; undefined: Uỷ viên BCH Đảng bộ xã; Bí thư chi bộ- trưởng thôn; Mẫu số 05/BCĐBHĐND-MT: Thôn Phủ Liễn; 
+32. undefined: 23; undefined: Triệu Thị Tám; undefined: 27/02/
+1992; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: K; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Khe Càn xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Cao đảng; undefined: Không; undefined: Không; undefined: Không; undefined: Phó bí thư chi bộ thô; Mẫu số 05/BCĐBHĐND-MT: Thôn Khe Càn; 
+33. undefined: 24; undefined: Đặng Hữu Tề; undefined: 7/4/
+1989; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Lương Minh, Tỉnh Quảng Ninh; undefined: Thôn Tân Ốc 2,Xã Lương Minh, Tỉnh Quảng Ninh; undefined: 12/12; undefined: CĐ; undefined: Không; undefined: TC; undefined: Không; undefined: Công chức Phòng VH-XH xã; Mẫu số 05/BCĐBHĐND-MT: UBND xã Lương Minh; 
+34. undefined: 25; undefined: Lưu Minh Thắng; undefined: 24/9/
+1978; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Kinh; undefined: Không; undefined: Xã Lam Thành, tỉnh Nghệ An; undefined: Thôn 1, xã Ba Chẽ, tỉnh Quảng Ninh; undefined: 12/12; undefined: ĐH SP (Toán); ĐH Luật KT; Thạc sĩ Quản lý Giáo dục; undefined: Không; undefined: Cao cấp; undefined: B; undefined: Phó Bí thư Thường trực Đảng uỷ xã; Mẫu số 05/BCĐBHĐND-MT: Đảng ủy xã Lương Minh; 
+35. undefined: 26; undefined: Bàn Sinh Thành ; undefined: 2/3/
+1981; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Lương Minh, Tỉnh Quảng Ninh; undefined: Thôn Lưỡng Kỳ,  xã Thống nhất, tỉnh quảng Ninh; undefined: 12/12; undefined: Đại học luật; undefined: Không; undefined: TC; undefined: Không; undefined: Công chức văn phòng HĐND&UBND xã; Mẫu số 05/BCĐBHĐND-MT: UBND xã Lương Minh; 
+36. undefined: 27; undefined: Triệu Tài Thông; undefined: 6/2/
+1987; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Ba Chẽ, tỉnh Quảng Ninh; undefined: Thôn Khe Giấy, xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Đại học Luật; undefined: Không; undefined: TC; undefined: Tiếng anh A2; undefined: Phó ban công tác mặt trận thôn; Mẫu số 05/BCĐBHĐND-MT: Thôn Khe Giấy, xã Lương Minh; 
+37. undefined: 29; undefined: Trịnh Xuân Tư; undefined: 10/3/
+1978; undefined: Nam ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined:  Kinh ; undefined: không; undefined: Phường Hoàng Quế, Tỉnh Quảng Ninh; undefined: Thôn 5, xã Ba Chẽ, tỉnh Quảng Ninh ; undefined: 12/12; undefined: Đại học sư phạm Toán, Đại học Luật Kinh tế ; undefined: Không; undefined: Cao cấp; undefined: Anh B; undefined: Chủ nhiệm UBKT Đảng ủy xã Lương Minh ; Mẫu số 05/BCĐBHĐND-MT: UBKT Đảng ủy xã Lương Minh ; 
+38. undefined: 29; undefined: Lan Thị Vân; undefined: 8/7/
+1978; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Kỳ Thượng, tỉnh Quảng Ninh; undefined: Thôn Pha Lán, xã Kỳ Thượng; undefined: 12/12; undefined: ĐH Luật KT; undefined: Không; undefined: TC; undefined: Không; undefined: Chủ tịch UBMTTQ xã; Mẫu số 05/BCĐBHĐND-MT: Cơ quan UBMTTQ xã; 
+39. undefined: 30; undefined: Đinh Thế Việt; undefined: 20/8/
+1989; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Kỳ Thượng, tỉnh Quảng Ninh; undefined: Thôn Đồng Tán, Xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Trung Cấp quản lý Văn hóa; undefined:  Không; undefined: Trung cấp; undefined: B ; undefined: Chuyên viên Ban Xây dựng Đảng; Mẫu số 05/BCĐBHĐND-MT: Đảng ủy xã Lương Minh; 
+40. undefined: 31; undefined: Triệu Đức Việt; undefined: 21/11/
+1993; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Bãi Liêu, xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Không; undefined: Không; undefined: SC; undefined: Không; undefined: Trưởng ban công tác mặt trận thôn; Mẫu số 05/BCĐBHĐND-MT: Thôn Bãi Liêu; 
+41. undefined: 32; undefined: Phạm Văn Vinh; undefined: 8/11/
+1964; undefined: Nam; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Tày; undefined: Không; undefined: Xã Lương Minh, tỉnh Quảng Ninh; undefined: Thôn Đồng Tán, xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Không; undefined: Không; undefined: TC; undefined: Không; undefined: Bí thư chi bộ, trưởng thôn; Mẫu số 05/BCĐBHĐND-MT: Thôn Đồng Tán; 
+42. undefined: 33; undefined: Trần Thị Xuân; undefined: 1/8/
+1997; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Sán chỉ; undefined: Không; undefined: Xã Ba Chẽ, tỉnh Quảng Ninh; undefined: Thôn Đồng Giảng A, xã Lương Minh, tỉnh Quảng Ninh; undefined: 12/12; undefined: Không; undefined: Không; undefined: Không; undefined: Không; undefined: Chi hội trưởng phụ nữ thôn; Mẫu số 05/BCĐBHĐND-MT: Thôn Đồng Giảng A; 
+43. undefined: 34; undefined: Vi Thị Xứng; undefined: 21/6/
+1987; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác ; undefined: Tày; undefined: Không; undefined: Xã Lương Minh tỉnh Quảng Ninh; undefined: Thôn Xóm Mới xã Lương Minh; undefined: 12/12; undefined: Không; undefined: Không; undefined: Không; undefined: Không; undefined: Chi hội Trưởng phụ nữ thôn Xóm Mới ; Mẫu số 05/BCĐBHĐND-MT: Thôn Xóm Mới; 
+44. undefined: 35; undefined: Hoàng Thị Yến; undefined: 20/10/
+1990; undefined: Nữ; undefined: Chỉ có 01 quốc tịch là quốc tịch Việt Nam  và không trong thời gian thực hiện thủ tục xin nhập quốc tịch quốc gia khác; undefined: Dao; undefined: Không; undefined: Xã Ba Chẽ, tỉnh Quảng Ninh; undefined: Thôn Nam Hả Ngoài, xã Ba Chẽ; undefined: 12/12; undefined: ĐH Phát triển nông thôn; undefined: Không; undefined: TC; undefined: Tiếng Anh B ; undefined: CV Cơ quan UBMTTQ xã; Mẫu số 05/BCĐBHĐND-MT: Cơ quan UBMTTQ xã; 
