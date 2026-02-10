@@ -103,7 +103,7 @@ function Hero() {
                 <div className="container">
                     <div className="hero__content">
                         {/* Badge */}
-                        <motion.div
+                        {/* <motion.div
                             className="hero__badge"
                             initial={{ opacity: 0, y: 20 }}
                             animate={{ opacity: 1, y: 0 }}
@@ -111,7 +111,7 @@ function Hero() {
                         >
                             <span className="hero__badge-icon"><img src={logoDoan} alt="Logo Đoàn TNCS Hồ Chí Minh" /></span>
                             <span>Đoàn TNCS Hồ Chí Minh xã Lương Minh</span>
-                        </motion.div>
+                        </motion.div> */}
 
                         {/* Title */}
                         <motion.h1
@@ -120,7 +120,7 @@ function Hero() {
                             animate={{ opacity: 1, y: 0 }}
                             transition={{ duration: 0.6, delay: 0.3 }}
                         >
-                            Bầu cử Đại biểu Quốc hội & Đại biểu HĐND các cấp Nhiệm kỳ 2026 - 2031
+                            Cổng thông tin hỗ trợ bầu cử Đại biểu Quốc hội & Đại biểu HĐND các cấp nhiệm kỳ 2026 - 2031
                             <span className="hero__title-highlight"> </span>
                             <br />
                             <span className="hero__title-accent"></span>
@@ -187,17 +187,25 @@ function Hero() {
                             transition={{ duration: 0.6, delay: 0.7 }}
                         >
                             <div className="hero__stat">
+                                <span className="hero__stat-number">-</span>
+                                <span className="hero__stat-label">Đại biểu Quốc hội</span>
+                            </div>
+                            <div className="hero__stat">
+                                <span className="hero__stat-number">-</span>
+                                <span className="hero__stat-label">Đại biểu HĐND tỉnh</span>
+                            </div>
+                            <div className="hero__stat">
                                 <span className="hero__stat-number">15</span>
-                                <span className="hero__stat-label">Thôn tham gia</span>
+                                <span className="hero__stat-label">Đại biểu HĐND xã</span>
                             </div>
                             <div className="hero__stat">
-                                <span className="hero__stat-number">25</span>
-                                <span className="hero__stat-label">Đại biểu HĐND</span>
-                            </div>
-                            <div className="hero__stat">
-                                <span className="hero__stat-number">100%</span>
+                                <span className="hero__stat-number">3708</span>
                                 <span className="hero__stat-label">Cử tri đủ điều kiện</span>
                             </div>
+                            <div className="hero__stat">
+                                <span className="hero__stat-number">15</span>
+                                <span className="hero__stat-label">Tổ bầu cử</span>
+                            </div>                          
                         </motion.div>
                     </div>
                 </div>

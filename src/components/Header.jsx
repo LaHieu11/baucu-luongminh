@@ -67,8 +67,8 @@ function Header() {
               <img src={logoDoan} alt="Logo Đoàn" />
             </div>
             <div className="header__logo-text">
-              <span className="header__logo-title">Đoàn TNCS Hồ Chí Minh xã Lương Minh</span>
-              <span className="header__logo-subtitle">Hỗ trợ bầu cử ĐBQH và HĐND các cấp nhiệm kỳ 2026-2031</span>
+              <span className="header__logo-title">Hỗ trợ bầu cử ĐBQH và HĐND các cấp</span>
+              <span className="header__logo-subtitle">Đoàn TNCS Hồ Chí Minh xã Lương Minh</span>
             </div>
           </motion.div>
 
