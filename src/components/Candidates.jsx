@@ -111,8 +111,8 @@ function Candidates() {
                 >
                     <span className="candidates__note-icon">📋</span>
                     <p>
-                        <strong>Thông tin:</strong> Xã Lương Minh có tổng cộng <strong>35 người ứng cử</strong> đại biểu HĐND xã nhiệm kỳ 2026 - 2031
-                        (14 nữ, 21 nam). Cử tri sẽ bầu <strong>25 đại biểu</strong>.
+                        <strong>Thông tin:</strong> Xã Lương Minh có tổng cộng <strong>25 người ứng cử</strong> đại biểu HĐND xã nhiệm kỳ 2026 - 2031
+                        . Cử tri sẽ bầu <strong>15 đại biểu</strong>.
                     </p>
                 </motion.div>
 
