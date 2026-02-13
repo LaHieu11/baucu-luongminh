@@ -557,6 +557,21 @@
     color: var(--color-gray-900);
 }
 
+.candidates-popup__avatar {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--color-gray-200);
+}
+
+.quochoi-card__avatar img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
 /* Responsive Table */
 @media (max-width: 768px) {
     .candidates-popup__table {
