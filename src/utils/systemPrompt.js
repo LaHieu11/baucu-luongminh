@@ -20,7 +20,7 @@ DANH SÁCH VĂN BẢN THAM KHẢO:
 7. 2025_QH15_649675
 8. 2025_QH15_663780
 9. 2025_NQ-HDND_685704
-10. Danh sách lập danh sách sơ bộ những người ứng cử (35 người)
+10. Danh sách lập danh sách sơ bộ những người ứng cử (25 người)
 11. HD hiệp thương (MTTQ tỉnh) (đã tiếp thu ý kiến tham gia bổ sung A Hạnh)
 12. Hướng dẫn MTTQ xã công tác Bầu cử (LM)
 13. KẾ HOẠCH KIỂM TRA, GIÁM SÁT BẦU CỬ NHIỆM KỲ 2026 - 2031
@@ -40,8 +40,8 @@ DANH SÁCH VĂN BẢN THAM KHẢO:
   - Địa điểm: 15 khu vực bỏ phiếu tại 15 thôn của xã Lương Minh
 
 ▶ SỐ LƯỢNG ĐẠI BIỂU:
-  - Tổng số: 35 người ứng cử
-  - Cử tri sẽ bầu: 25 đại biểu HĐND xã
+  - Tổng số: 25 người ứng cử
+  - Cử tri sẽ bầu: 15 đại biểu HĐND xã
 
 ▶ LÃNH ĐẠO CHỦ CHỐT XÃ LƯƠNG MINH:
   - Bí thư Đảng ủy, Chủ tịch HĐND: Ông Nịnh Quốc Hoàn
@@ -2899,9 +2899,9 @@ Chủ trì cuộc họp: 350.00
 ... [Nội dung đã được rút gọn]
 
 ════════════════════════════════════════════════════════════════════════════════
-📄 Danh sách lập danh sách sơ bộ những người ứng cử (35 người)
+📄 Danh sách lập danh sách sơ bộ những người ứng cử (25 người)
 ════════════════════════════════════════════════════════════════════════════════
-DS 35 SƠ BỘ
+DS 25 SƠ BỘ
 
  11505
  19425
@@ -5824,44 +5824,34 @@ Quyết
  
 
 ═══════════════════════════════════════════════════════════════════════════
-📍 DANH SÁCH 35 NGƯỜI ỨNG CỬ ĐẠI BIỂU HĐND XÃ LƯƠNG MINH
+📍 DANH SÁCH 25 NGƯỜI ỨNG CỬ ĐẠI BIỂU HĐND XÃ LƯƠNG MINH
 ═══════════════════════════════════════════════════════════════════════════
 
 1. Bàn Văn Ba - Nam, 1979, Dao - Phó chủ tịch HĐND xã
-2. Dương Thị Chiến - Nữ, 1984, Sán chỉ - Phó Trưởng phòng VH-XH xã
-3. Đặng Thị Chính - Nữ, 1983, Dao - Phó Ban KT-NS HĐND xã
-4. Hoàng Tiến Đạt - Nam, 1996, Tày - Hợp đồng văn phòng HĐND&UBND xã
-5. Trần Văn Dũng - Nam, 1980, Sán chỉ - Phó bí thư Đảng uỷ, Chủ tịch UBND xã
-6. Nông Văn Được - Nam, 1987, Tày - Bí thư chi bộ-trưởng thôn Xóm Mới
-7. Bùi Vĩnh Dương - Nam, 1985, Kinh - Trưởng Ban Xây dựng Đảng
-8. Vi Thị Hà - Nữ, 1993, Tày - Hợp đồng văn phòng
-9. Lã Văn Hiếu - Nam, 2003, Tày - Công chức Phòng VH-XH xã
-10. Nịnh Quốc Hoàn - Nam, 1975, Sán chỉ - Bí thư Đảng ủy, Chủ tịch HĐND xã
-11. Bàn Ngọc Hương - Nam, 1965, Dao - Thôn Tân Ốc 1
-12. Lý Thị Hương - Nữ, 1993, Dao - Chi hội trưởng phụ nữ thôn Tân Ốc 2
-13. Vi Thị Khanh - Nữ, 1999, Tày - Hợp đồng văn phòng
-14. Triệu Ngọc Lan - Nữ, 1993, Dao - Chi hội trưởng phụ nữ thôn Khe Áng
-15. Vi Văn Liêm - Nam, 1983, Tày - Phó Ban VH-XH HĐND xã
-16. Nguyễn Đức Mạnh - Nam, 1993, Kinh - Bí thư Đoàn TN xã
-17. Bàn Thị Miên - Nữ, 1988, Dao - Chủ tịch Hội LHPN xã
-18. Đặng Thị Minh - Nữ, 2000, Dao - Nhân viên VP Đảng ủy
-19. Hoàng Văn Nhâm - Nam, 1980, Tày - CV Ban Xây dựng Đảng
-20. Vi Văn Nhất - Nam, 1977, Tày - UV UBKT Đảng ủy xã
-21. Bùi Thị Thúy Quỳnh - Nữ, 1982, Kinh - Công chức Kế toán
-22. Bàn Trường Sơn - Nam, 1985, Dao - Bí thư chi bộ-trưởng thôn Phủ Liễn
-23. Triệu Thị Tám - Nữ, 1992, Dao - Phó bí thư chi bộ thôn Khe Càn
-24. Đặng Hữu Tề - Nam, 1989, Dao - Công chức Phòng VH-XH xã
-25. Lưu Minh Thắng - Nam, 1978, Kinh - Phó Bí thư Thường trực Đảng uỷ xã
-26. Bàn Sinh Thành - Nam, 1981, Dao - Công chức VP HĐND&UBND xã
-27. Triệu Tài Thông - Nam, 1987, Dao - Phó ban CTMT thôn Khe Giấy
-28. Trịnh Xuân Tư - Nam, 1978, Kinh - Chủ nhiệm UBKT Đảng ủy xã
-29. Lan Thị Vân - Nữ, 1978, Tày - Chủ tịch UBMTTQ xã
-30. Đinh Thế Việt - Nam, 1989, Tày - CV Ban Xây dựng Đảng
-31. Triệu Đức Việt - Nam, 1993, Dao - Trưởng ban CTMT thôn Bãi Liêu
-32. Phạm Văn Vinh - Nam, 1964, Tày - Bí thư chi bộ, trưởng thôn Đồng Tán
-33. Trần Thị Xuân - Nữ, 1997, Sán chỉ - Chi hội trưởng phụ nữ thôn Đồng Giảng A
-34. Vi Thị Xứng - Nữ, 1987, Tày - Chi hội trưởng phụ nữ thôn Xóm Mới
-35. Hoàng Thị Yến - Nữ, 1990, Dao - CV Cơ quan UBMTTQ xã
+2. Đặng Thị Chính - Nữ, 1983, Dao - Phó Ban KT-NS HĐND xã
+3. Hoàng Tiến Đạt - Nam, 1996, Tày - Hợp đồng văn phòng HĐND&UBND xã
+4. Trần Văn Dũng - Nam, 1980, Sán chỉ - Phó bí thư Đảng uỷ, Chủ tịch UBND xã
+5. Nông Văn Được - Nam, 1987, Tày - Bí thư chi bộ-trưởng thôn Xóm Mới
+6. Bùi Vĩnh Dương - Nam, 1985, Kinh - Trưởng Ban Xây dựng Đảng
+7. Vi Thị Hà - Nữ, 1993, Tày - Hợp đồng văn phòng
+8. Lã Văn Hiếu - Nam, 2003, Tày - Công chức Phòng VH-XH xã
+9. Nịnh Quốc Hoàn - Nam, 1975, Sán chỉ - Bí thư Đảng ủy, Chủ tịch HĐND xã
+10. Bàn Ngọc Hương - Nam, 1965, Dao - Thôn Tân Ốc 1
+11. Vi Thị Khanh - Nữ, 1999, Tày - Hợp đồng văn phòng
+12. Vi Văn Liêm - Nam, 1983, Tày - Phó Ban VH-XH HĐND xã
+13. Bàn Thị Miên - Nữ, 1988, Dao - Chủ tịch Hội LHPN xã
+14. Đặng Thị Minh - Nữ, 2000, Dao - Nhân viên VP Đảng ủy
+15. Hoàng Văn Nhâm - Nam, 1980, Tày - CV Ban Xây dựng Đảng
+16. Bùi Thị Thúy Quỳnh - Nữ, 1982, Kinh - Công chức Kế toán
+17. Bàn Trường Sơn - Nam, 1985, Dao - Bí thư chi bộ-trưởng thôn Phủ Liễn
+18. Triệu Thị Tám - Nữ, 1992, Dao - Phó bí thư chi bộ thôn Khe Càn
+19. Lưu Minh Thắng - Nam, 1978, Kinh - Phó Bí thư Thường trực Đảng uỷ xã
+20. Bàn Sinh Thành - Nam, 1981, Dao - Công chức VP HĐND&UBND xã
+21. Trịnh Xuân Tư - Nam, 1978, Kinh - Chủ nhiệm UBKT Đảng ủy xã
+22. Lan Thị Vân - Nữ, 1978, Tày - Chủ tịch UBMTTQ xã
+23. Phạm Văn Vinh - Nam, 1964, Tày - Bí thư chi bộ, trưởng thôn Đồng Tán
+24. Vi Thị Xứng - Nữ, 1987, Tày - Chi hội trưởng phụ nữ thôn Xóm Mới
+25. Hoàng Thị Yến - Nữ, 1990, Dao - CV Cơ quan UBMTTQ xã
 
 ═══════════════════════════════════════════════════════════════════════════
 📍 15 KHU VỰC BỎ PHIẾU
@@ -5887,11 +5877,11 @@ Quyết
 `;
 
 export const CONTACT_INFO = {
-    phone: '0376345379',
-    email: 'lahieutx@gmail.com',
-    website: 'https://luongminh.gov.vn'
+  phone: '0376345379',
+  email: 'lahieutx@gmail.com',
+  website: 'https://luongminh.gov.vn'
 };
 
 export const ELECTION_DATE = '15/03/2026';
-export const TOTAL_CANDIDATES = 35;
-export const TOTAL_SEATS = 25;
+export const TOTAL_CANDIDATES = 25;
+export const TOTAL_SEATS = 15;

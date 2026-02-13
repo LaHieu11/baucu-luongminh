@@ -53,7 +53,7 @@ const getFallbackResponse = (question) => {
     const q = question.toLowerCase();
 
     if (q.includes('chào') || q.includes('hello') || q.includes('hi')) {
-        return `Xin chào! 👋 Tôi là trợ lý AI bầu cử xã Lương Minh.\n\nTôi có thể giúp bạn tìm hiểu về:\n• 📅 Lịch trình bầu cử\n• 📍 15 địa điểm bỏ phiếu\n• 📊 Danh sách 35 ứng cử viên\n• 📋 Hồ sơ và thủ tục\n\nBạn muốn hỏi vấn đề gì?`;
+        return `Xin chào! 👋 Tôi là trợ lý AI bầu cử xã Lương Minh.\n\nTôi có thể giúp bạn tìm hiểu về:\n• 📅 Lịch trình bầu cử\n• 📍 15 địa điểm bỏ phiếu\n• 📊 Danh sách 25 ứng cử viên\n• 📋 Hồ sơ và thủ tục\n\nBạn muốn hỏi vấn đề gì?`;
     }
 
     if ((q.includes('ngày') && q.includes('bầu')) || q.includes('khi nào')) {
@@ -65,7 +65,7 @@ const getFallbackResponse = (question) => {
     }
 
     if (q.includes('ứng cử viên') || q.includes('danh sách') || (q.includes('số lượng') && q.includes('ứng cử'))) {
-        return '📊 **Danh sách ứng cử viên HĐND xã:**\n\nTổng: **35 người ứng cử** (để bầu 25 đại biểu)\n\n• Nữ: 14 người (40%)\n• Nam: 21 người (60%)\n• Dân tộc Dao: 12 người\n• Dân tộc Tày: 12 người\n• Dân tộc Kinh: 5 người\n• Dân tộc Sán chỉ: 6 người\n\nNhấn "Xem danh sách đầy đủ" để xem chi tiết!';
+        return '📊 **Danh sách ứng cử viên HĐND xã:**\n\nTổng: **25 người ứng cử** (để bầu 15 đại biểu)\n\n• Nữ: 10 người (40%)\n• Nam: 15 người (60%)\n\nNhấn "Xem danh sách đầy đủ" để xem chi tiết!';
     }
 
     if (q.includes('thôn') || q.includes('địa điểm') || q.includes('bỏ phiếu') || q.includes('khu vực')) {
@@ -85,7 +85,7 @@ const getFallbackResponse = (question) => {
     }
 
     if (q.includes('bầu gì') || q.includes('mấy cấp') || q.includes('đại biểu')) {
-        return '🗳️ **Cử tri sẽ bầu 4 cấp:**\n\n1. 🏛️ Đại biểu Quốc hội khóa XVI\n2. 🏢 HĐND tỉnh Quảng Ninh\n3. 🏠 HĐND xã Lương Minh (25 đại biểu)\n\nNhiệm kỳ: 2026-2031';
+        return '🗳️ **Cử tri sẽ bầu 4 cấp:**\n\n1. 🏛️ Đại biểu Quốc hội khóa XVI\n2. 🏢 HĐND tỉnh Quảng Ninh\n3. 🏠 HĐND xã Lương Minh (15 đại biểu)\n\nNhiệm kỳ: 2026-2031';
     }
 
     if (q.includes('lãnh đạo') || q.includes('bí thư') || q.includes('chủ tịch')) {
@@ -96,7 +96,7 @@ const getFallbackResponse = (question) => {
         return `📞 **Liên hệ:**\n\n🏛️ UBND xã Lương Minh, tỉnh Quảng Ninh\n📱 Hotline: ${CONTACT_INFO.phone}\n📧 Email: ${CONTACT_INFO.email}\n👤 Chủ tịch MTTQ: Bà Lan Thị Vân\n\nĐến UBND xã để được hỗ trợ chi tiết!`;
     }
 
-    return `Cảm ơn câu hỏi! 🙏\n\nTôi hỗ trợ về:\n• Lịch bầu cử, hiệp thương\n• 15 địa điểm bỏ phiếu\n• 35 ứng cử viên HĐND xã\n• Điều kiện và thủ tục\n\nVui lòng đặt câu hỏi cụ thể hoặc liên hệ:\n📱 Hotline: ${CONTACT_INFO.phone}`;
+    return `Cảm ơn câu hỏi! 🙏\n\nTôi hỗ trợ về:\n• Lịch bầu cử, hiệp thương\n• 15 địa điểm bỏ phiếu\n• 25 ứng cử viên HĐND xã\n• Điều kiện và thủ tục\n\nVui lòng đặt câu hỏi cụ thể hoặc liên hệ:\n📱 Hotline: ${CONTACT_INFO.phone}`;
 };
 
 let initPromise = null;

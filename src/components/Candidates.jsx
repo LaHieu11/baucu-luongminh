@@ -3,43 +3,33 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { User, Briefcase, GraduationCap, Award, X, Users } from 'lucide-react';
 import './Candidates.css';
 
-// Danh sách 35 người ứng cử đại biểu HĐND xã Lương Minh
+// Danh sách 25 người ứng cử đại biểu HĐND xã Lương Minh
 const candidatesData = [
     { id: 1, name: 'Bàn Văn Ba', gender: 'Nam', birthYear: 1979, ethnicity: 'Dao', position: 'Phó chủ tịch HĐND xã', workplace: 'HĐND Xã Lương Minh', education: 'Đại học' },
-    { id: 2, name: 'Dương Thị Chiến', gender: 'Nữ', birthYear: 1984, ethnicity: 'Sán chỉ', position: 'Phó Trưởng phòng VH-XH xã', workplace: 'UBND xã Lương Minh', education: 'Đại học' },
-    { id: 3, name: 'Đặng Thị Chính', gender: 'Nữ', birthYear: 1983, ethnicity: 'Dao', position: 'Phó Ban KT-NS HĐND xã', workplace: 'HĐND Xã Lương Minh', education: 'Đại học' },
-    { id: 4, name: 'Hoàng Tiến Đạt', gender: 'Nam', birthYear: 1996, ethnicity: 'Tày', position: 'Hợp đồng VP HĐND&UBND', workplace: 'UBND xã Lương Minh', education: 'Không' },
-    { id: 5, name: 'Trần Văn Dũng', gender: 'Nam', birthYear: 1980, ethnicity: 'Sán chỉ', position: 'Phó BT Đảng ủy, CT UBND xã', workplace: 'UBND xã Lương Minh', education: 'Thạc sĩ' },
-    { id: 6, name: 'Nông Văn Được', gender: 'Nam', birthYear: 1987, ethnicity: 'Tày', position: 'Bí thư chi bộ - Trưởng thôn', workplace: 'Thôn Xóm Mới', education: 'ĐH Sư phạm' },
-    { id: 7, name: 'Bùi Vĩnh Dương', gender: 'Nam', birthYear: 1985, ethnicity: 'Kinh', position: 'Trưởng Ban Xây dựng Đảng', workplace: 'Đảng ủy xã Lương Minh', education: 'Thạc sĩ' },
-    { id: 8, name: 'Vi Thị Hà', gender: 'Nữ', birthYear: 1993, ethnicity: 'Tày', position: 'Hợp đồng văn phòng', workplace: 'UBND xã Lương Minh', education: 'CĐ Sư phạm' },
-    { id: 9, name: 'Lã Văn Hiếu', gender: 'Nam', birthYear: 2003, ethnicity: 'Tày', position: 'Công chức Phòng VH-XH xã', workplace: 'UBND xã Lương Minh', education: 'ĐH CNTT' },
-    { id: 10, name: 'Nịnh Quốc Hoàn', gender: 'Nam', birthYear: 1975, ethnicity: 'Sán chỉ', position: 'Bí thư Đảng ủy, CT HĐND xã', workplace: 'Đảng ủy xã Lương Minh', education: 'Thạc sĩ' },
-    { id: 11, name: 'Bàn Ngọc Hương', gender: 'Nam', birthYear: 1965, ethnicity: 'Dao', position: 'Công dân thôn Tân Ốc 1', workplace: 'Thôn Tân Ốc 1', education: 'Thạc sĩ' },
-    { id: 12, name: 'Lý Thị Hương', gender: 'Nữ', birthYear: 1993, ethnicity: 'Dao', position: 'Chi hội trưởng phụ nữ', workplace: 'Thôn Tân Ốc 2', education: 'TC Kế toán' },
-    { id: 13, name: 'Vi Thị Khanh', gender: 'Nữ', birthYear: 1999, ethnicity: 'Tày', position: 'Hợp đồng văn phòng', workplace: 'UBND xã Lương Minh', education: 'Cao đẳng' },
-    { id: 14, name: 'Triệu Ngọc Lan', gender: 'Nữ', birthYear: 1993, ethnicity: 'Dao', position: 'Chi hội trưởng phụ nữ', workplace: 'Thôn Khe Áng', education: 'Không' },
-    { id: 15, name: 'Vi Văn Liêm', gender: 'Nam', birthYear: 1983, ethnicity: 'Tày', position: 'Phó Ban VH-XH HĐND xã', workplace: 'HĐND Xã Lương Minh', education: 'Đại học' },
-    { id: 16, name: 'Nguyễn Đức Mạnh', gender: 'Nam', birthYear: 1993, ethnicity: 'Kinh', position: 'Bí thư Đoàn TN xã', workplace: 'Cơ quan UBMTTQ xã', education: 'CH Khoa học MT' },
-    { id: 17, name: 'Bàn Thị Miên', gender: 'Nữ', birthYear: 1988, ethnicity: 'Dao', position: 'Chủ tịch Hội LHPN xã', workplace: 'Cơ quan UBMTTQ xã', education: 'ĐH Sư phạm' },
-    { id: 18, name: 'Đặng Thị Minh', gender: 'Nữ', birthYear: 2000, ethnicity: 'Dao', position: 'Nhân viên hợp đồng 111', workplace: 'VP Đảng ủy xã', education: 'ĐH QTKD' },
-    { id: 19, name: 'Hoàng Văn Nhâm', gender: 'Nam', birthYear: 1980, ethnicity: 'Tày', position: 'CV Ban Xây dựng Đảng', workplace: 'Đảng ủy xã Lương Minh', education: 'ĐH Nông nghiệp' },
-    { id: 20, name: 'Vi Văn Nhất', gender: 'Nam', birthYear: 1977, ethnicity: 'Tày', position: 'UV UBKT Đảng ủy xã', workplace: 'UBKT Đảng ủy xã', education: 'Đại học' },
-    { id: 21, name: 'Bùi Thị Thúy Quỳnh', gender: 'Nữ', birthYear: 1982, ethnicity: 'Kinh', position: 'Công chức Kế toán', workplace: 'VP Đảng ủy xã', education: 'Cử nhân Kế toán' },
-    { id: 22, name: 'Bàn Trường Sơn', gender: 'Nam', birthYear: 1985, ethnicity: 'Dao', position: 'Bí thư chi bộ - Trưởng thôn', workplace: 'Thôn Phủ Liễn', education: 'Cử nhân Luật' },
-    { id: 23, name: 'Triệu Thị Tám', gender: 'Nữ', birthYear: 1992, ethnicity: 'Dao', position: 'Phó bí thư chi bộ thôn', workplace: 'Thôn Khe Càn', education: 'Cao đẳng' },
-    { id: 24, name: 'Đặng Hữu Tề', gender: 'Nam', birthYear: 1989, ethnicity: 'Dao', position: 'Công chức Phòng VH-XH', workplace: 'UBND xã Lương Minh', education: 'Cao đẳng' },
-    { id: 25, name: 'Lưu Minh Thắng', gender: 'Nam', birthYear: 1978, ethnicity: 'Kinh', position: 'Phó BT Thường trực Đảng ủy', workplace: 'Đảng ủy xã Lương Minh', education: 'Thạc sĩ' },
-    { id: 26, name: 'Bàn Sinh Thành', gender: 'Nam', birthYear: 1981, ethnicity: 'Dao', position: 'Công chức VP HĐND&UBND', workplace: 'UBND xã Lương Minh', education: 'ĐH Luật' },
-    { id: 27, name: 'Triệu Tài Thông', gender: 'Nam', birthYear: 1987, ethnicity: 'Dao', position: 'Phó ban CTMT thôn', workplace: 'Thôn Khe Giấy', education: 'ĐH Luật' },
-    { id: 28, name: 'Trịnh Xuân Tư', gender: 'Nam', birthYear: 1978, ethnicity: 'Kinh', position: 'Chủ nhiệm UBKT Đảng ủy', workplace: 'UBKT Đảng ủy xã', education: 'ĐH SP Toán, ĐH Luật' },
-    { id: 29, name: 'Lan Thị Vân', gender: 'Nữ', birthYear: 1978, ethnicity: 'Tày', position: 'Chủ tịch UBMTTQ xã', workplace: 'Cơ quan UBMTTQ xã', education: 'ĐH Luật KT' },
-    { id: 30, name: 'Đinh Thế Việt', gender: 'Nam', birthYear: 1989, ethnicity: 'Tày', position: 'CV Ban Xây dựng Đảng', workplace: 'Đảng ủy xã Lương Minh', education: 'TC Quản lý VH' },
-    { id: 31, name: 'Triệu Đức Việt', gender: 'Nam', birthYear: 1993, ethnicity: 'Dao', position: 'Trưởng ban CTMT thôn', workplace: 'Thôn Bãi Liêu', education: 'Không' },
-    { id: 32, name: 'Phạm Văn Vinh', gender: 'Nam', birthYear: 1964, ethnicity: 'Tày', position: 'Bí thư chi bộ, trưởng thôn', workplace: 'Thôn Đồng Tán', education: 'Không' },
-    { id: 33, name: 'Trần Thị Xuân', gender: 'Nữ', birthYear: 1997, ethnicity: 'Sán chỉ', position: 'Chi hội trưởng phụ nữ', workplace: 'Thôn Đồng Giảng A', education: 'Không' },
-    { id: 34, name: 'Vi Thị Xứng', gender: 'Nữ', birthYear: 1987, ethnicity: 'Tày', position: 'Chi hội trưởng phụ nữ', workplace: 'Thôn Xóm Mới', education: 'Không' },
-    { id: 35, name: 'Hoàng Thị Yến', gender: 'Nữ', birthYear: 1990, ethnicity: 'Dao', position: 'CV Cơ quan UBMTTQ xã', workplace: 'Cơ quan UBMTTQ xã', education: 'ĐH PT Nông thôn' }
+    { id: 2, name: 'Đặng Thị Chính', gender: 'Nữ', birthYear: 1983, ethnicity: 'Dao', position: 'Phó Ban KT-NS HĐND xã', workplace: 'HĐND Xã Lương Minh', education: 'Đại học' },
+    { id: 3, name: 'Hoàng Tiến Đạt', gender: 'Nam', birthYear: 1996, ethnicity: 'Tày', position: 'Hợp đồng VP HĐND&UBND', workplace: 'UBND xã Lương Minh', education: 'Không' },
+    { id: 4, name: 'Trần Văn Dũng', gender: 'Nam', birthYear: 1980, ethnicity: 'Sán chỉ', position: 'Phó BT Đảng ủy, CT UBND xã', workplace: 'UBND xã Lương Minh', education: 'Thạc sĩ' },
+    { id: 5, name: 'Nông Văn Được', gender: 'Nam', birthYear: 1987, ethnicity: 'Tày', position: 'Bí thư chi bộ - Trưởng thôn', workplace: 'Thôn Xóm Mới', education: 'ĐH Sư phạm' },
+    { id: 6, name: 'Bùi Vĩnh Dương', gender: 'Nam', birthYear: 1985, ethnicity: 'Kinh', position: 'Trưởng Ban Xây dựng Đảng', workplace: 'Đảng ủy xã Lương Minh', education: 'Thạc sĩ' },
+    { id: 7, name: 'Vi Thị Hà', gender: 'Nữ', birthYear: 1993, ethnicity: 'Tày', position: 'Hợp đồng văn phòng', workplace: 'UBND xã Lương Minh', education: 'CĐ Sư phạm' },
+    { id: 8, name: 'Lã Văn Hiếu', gender: 'Nam', birthYear: 2003, ethnicity: 'Tày', position: 'Công chức Phòng VH-XH xã', workplace: 'UBND xã Lương Minh', education: 'ĐH CNTT' },
+    { id: 9, name: 'Nịnh Quốc Hoàn', gender: 'Nam', birthYear: 1975, ethnicity: 'Sán chỉ', position: 'Bí thư Đảng ủy, CT HĐND xã', workplace: 'Đảng ủy xã Lương Minh', education: 'Thạc sĩ' },
+    { id: 10, name: 'Bàn Ngọc Hương', gender: 'Nam', birthYear: 1965, ethnicity: 'Dao', position: 'Công dân thôn Tân Ốc 1', workplace: 'Thôn Tân Ốc 1', education: 'Thạc sĩ' },
+    { id: 11, name: 'Vi Thị Khanh', gender: 'Nữ', birthYear: 1999, ethnicity: 'Tày', position: 'Hợp đồng văn phòng', workplace: 'UBND xã Lương Minh', education: 'Cao đẳng' },
+    { id: 12, name: 'Vi Văn Liêm', gender: 'Nam', birthYear: 1983, ethnicity: 'Tày', position: 'Phó Ban VH-XH HĐND xã', workplace: 'HĐND Xã Lương Minh', education: 'Đại học' },
+    { id: 13, name: 'Bàn Thị Miên', gender: 'Nữ', birthYear: 1988, ethnicity: 'Dao', position: 'Chủ tịch Hội LHPN xã', workplace: 'Cơ quan UBMTTQ xã', education: 'ĐH Sư phạm' },
+    { id: 14, name: 'Đặng Thị Minh', gender: 'Nữ', birthYear: 2000, ethnicity: 'Dao', position: 'Nhân viên hợp đồng 111', workplace: 'VP Đảng ủy xã', education: 'ĐH QTKD' },
+    { id: 15, name: 'Hoàng Văn Nhâm', gender: 'Nam', birthYear: 1980, ethnicity: 'Tày', position: 'CV Ban Xây dựng Đảng', workplace: 'Đảng ủy xã Lương Minh', education: 'ĐH Nông nghiệp' },
+    { id: 16, name: 'Bùi Thị Thúy Quỳnh', gender: 'Nữ', birthYear: 1982, ethnicity: 'Kinh', position: 'Công chức Kế toán', workplace: 'VP Đảng ủy xã', education: 'Cử nhân Kế toán' },
+    { id: 17, name: 'Bàn Trường Sơn', gender: 'Nam', birthYear: 1985, ethnicity: 'Dao', position: 'Bí thư chi bộ - Trưởng thôn', workplace: 'Thôn Phủ Liễn', education: 'Cử nhân Luật' },
+    { id: 18, name: 'Triệu Thị Tám', gender: 'Nữ', birthYear: 1992, ethnicity: 'Dao', position: 'Phó bí thư chi bộ thôn', workplace: 'Thôn Khe Càn', education: 'Cao đẳng' },
+    { id: 19, name: 'Lưu Minh Thắng', gender: 'Nam', birthYear: 1978, ethnicity: 'Kinh', position: 'Phó BT Thường trực Đảng ủy', workplace: 'Đảng ủy xã Lương Minh', education: 'Thạc sĩ' },
+    { id: 20, name: 'Bàn Sinh Thành', gender: 'Nam', birthYear: 1981, ethnicity: 'Dao', position: 'Công chức VP HĐND&UBND', workplace: 'UBND xã Lương Minh', education: 'ĐH Luật' },
+    { id: 21, name: 'Trịnh Xuân Tư', gender: 'Nam', birthYear: 1978, ethnicity: 'Kinh', position: 'Chủ nhiệm UBKT Đảng ủy', workplace: 'UBKT Đảng ủy xã', education: 'ĐH SP Toán, ĐH Luật' },
+    { id: 22, name: 'Lan Thị Vân', gender: 'Nữ', birthYear: 1978, ethnicity: 'Tày', position: 'Chủ tịch UBMTTQ xã', workplace: 'Cơ quan UBMTTQ xã', education: 'ĐH Luật KT' },
+    { id: 23, name: 'Phạm Văn Vinh', gender: 'Nam', birthYear: 1964, ethnicity: 'Tày', position: 'Bí thư chi bộ, trưởng thôn', workplace: 'Thôn Đồng Tán', education: 'Không' },
+    { id: 24, name: 'Vi Thị Xứng', gender: 'Nữ', birthYear: 1987, ethnicity: 'Tày', position: 'Chi hội trưởng phụ nữ', workplace: 'Thôn Xóm Mới', education: 'Không' },
+    { id: 25, name: 'Hoàng Thị Yến', gender: 'Nữ', birthYear: 1990, ethnicity: 'Dao', position: 'CV Cơ quan UBMTTQ xã', workplace: 'Cơ quan UBMTTQ xã', education: 'ĐH PT Nông thôn' }
 ];
 
 // Ứng cử viên mẫu hiển thị trên trang chính
@@ -165,7 +155,7 @@ function Candidates() {
                 >
                     <button className="btn btn-primary" onClick={openPopup}>
                         <Users size={20} style={{ marginRight: '8px' }} />
-                        Xem danh sách đầy đủ (35 người)
+                        Xem danh sách đầy đủ (25 người)
                     </button>
                 </motion.div>
             </div>
@@ -190,7 +180,7 @@ function Candidates() {
                             transition={{ duration: 0.3 }}
                         >
                             <div className="candidates-popup__header">
-                                <h3>Danh sách 35 người ứng cử HĐND xã Lương Minh</h3>
+                                <h3>Danh sách 25 người ứng cử HĐND xã Lương Minh, nhiệm kỳ 2026 - 2031</h3>
                                 <button
                                     className="candidates-popup__close"
                                     onClick={closePopup}
@@ -256,7 +246,7 @@ function Candidates() {
                             </div>
 
                             <div className="candidates-popup__footer">
-                                <p>Tổng số: <strong>{filteredCandidates.length} người ứng cử</strong> | Nhiệm kỳ 2026 - 2031 | Bầu 25 đại biểu</p>
+                                <p>Tổng số: <strong>{filteredCandidates.length} người ứng cử</strong> | Nhiệm kỳ 2026 - 2031 | Bầu 15 đại biểu</p>
                             </div>
                         </motion.div>
                     </motion.div>
