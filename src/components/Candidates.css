@@ -2,6 +2,228 @@
     background: var(--color-white);
 }
 
+/* Tab Switcher */
+.candidates__tabs {
+    display: flex;
+    gap: var(--spacing-3);
+    margin-bottom: var(--spacing-8);
+    padding: var(--spacing-2);
+    background: var(--color-gray-100);
+    border-radius: var(--radius-xl);
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.candidates__tab {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-2);
+    padding: var(--spacing-3) var(--spacing-6);
+    border-radius: var(--radius-lg);
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    color: var(--color-gray-600);
+    background: transparent;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    border: none;
+    white-space: nowrap;
+}
+
+.candidates__tab:hover {
+    color: var(--color-primary);
+    background: rgba(0, 102, 179, 0.05);
+}
+
+.candidates__tab.active {
+    background: var(--color-white);
+    color: var(--color-primary);
+    box-shadow: var(--shadow-md);
+}
+
+.candidates__tab-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 24px;
+    height: 24px;
+    padding: 0 var(--spacing-2);
+    border-radius: var(--radius-full);
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    background: var(--color-gray-200);
+    color: var(--color-gray-600);
+}
+
+.candidates__tab.active .candidates__tab-badge {
+    background: var(--color-primary);
+    color: var(--color-white);
+}
+
+@media (max-width: 640px) {
+    .candidates__tabs {
+        width: 100%;
+    }
+
+    .candidates__tab {
+        flex: 1;
+        justify-content: center;
+        padding: var(--spacing-3) var(--spacing-3);
+        font-size: var(--font-size-xs);
+    }
+}
+
+/* Quốc hội Section */
+.quochoi-section {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Quốc hội Card */
+.quochoi-card {
+    background: var(--color-white);
+    border-radius: var(--radius-2xl);
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    border: 1px solid var(--color-gray-100);
+}
+
+.quochoi-card__header {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-5);
+    padding: var(--spacing-6) var(--spacing-8);
+    background: var(--gradient-primary);
+    color: var(--color-white);
+}
+
+.quochoi-card__avatar {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    border: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.quochoi-card__title h3 {
+    font-size: var(--font-size-2xl);
+    font-weight: 700;
+    margin: 0 0 var(--spacing-2);
+}
+
+.quochoi-card__badge {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-2);
+    padding: var(--spacing-1) var(--spacing-4);
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: var(--radius-full);
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    backdrop-filter: blur(4px);
+}
+
+.quochoi-card__body {
+    padding: var(--spacing-6) var(--spacing-8);
+}
+
+.quochoi-card__info-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-5);
+    margin-bottom: var(--spacing-6);
+}
+
+.quochoi-card__info-item {
+    display: flex;
+    align-items: flex-start;
+    gap: var(--spacing-3);
+}
+
+.quochoi-card__info-item>svg {
+    color: var(--color-primary);
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+
+.quochoi-card__info-item>div {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.quochoi-card__label {
+    font-size: var(--font-size-xs);
+    color: var(--color-gray-500);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.quochoi-card__value {
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-800);
+    font-weight: 600;
+}
+
+.quochoi-card__extra {
+    padding-top: var(--spacing-5);
+    border-top: 1px solid var(--color-gray-200);
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-3);
+}
+
+.quochoi-card__extra-row {
+    display: flex;
+    align-items: baseline;
+    gap: var(--spacing-3);
+}
+
+.quochoi-card__extra-row .quochoi-card__label {
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-600);
+    min-width: 160px;
+    flex-shrink: 0;
+}
+
+.quochoi-card__extra-row .quochoi-card__value {
+    font-weight: 500;
+}
+
+@media (max-width: 768px) {
+    .quochoi-card__header {
+        flex-direction: column;
+        text-align: center;
+        padding: var(--spacing-5);
+    }
+
+    .quochoi-card__body {
+        padding: var(--spacing-5);
+    }
+
+    .quochoi-card__info-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-4);
+    }
+
+    .quochoi-card__extra-row {
+        flex-direction: column;
+        gap: var(--spacing-1);
+    }
+
+    .quochoi-card__extra-row .quochoi-card__label {
+        min-width: auto;
+    }
+}
+
 .candidates__note {
     display: flex;
     align-items: center;

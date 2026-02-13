@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { User, Briefcase, GraduationCap, Award, X, Users } from 'lucide-react';
+import { User, Briefcase, GraduationCap, Award, X, Users, Landmark, MapPin, Calendar, Vote } from 'lucide-react';
 import './Candidates.css';
 
 // Danh sách 25 người ứng cử đại biểu HĐND xã Lương Minh
@@ -32,6 +32,30 @@ const candidatesData = [
     { id: 25, name: 'Hoàng Thị Yến', gender: 'Nữ', birthYear: 1990, ethnicity: 'Dao', position: 'CV Cơ quan UBMTTQ xã', workplace: 'Cơ quan UBMTTQ xã', education: 'ĐH PT Nông thôn' }
 ];
 
+// Danh sách người ứng cử Đại biểu Quốc hội
+const quochoiCandidatesData = [
+    {
+        id: 1,
+        name: 'Đặng Thị Minh',
+        gender: 'Nữ',
+        birthYear: 2000,
+        birthDate: '9/1/2000',
+        ethnicity: 'Dao',
+        religion: 'Không',
+        residence: 'Thôn Khe Càn, xã Lương Minh, tỉnh Quảng Ninh',
+        domicile: 'Xã Lương Minh, tỉnh Quảng Ninh',
+        education: 'ĐH Quản trị kinh doanh',
+        scienceDegree: 'Không',
+        politicalTheory: 'Không',
+        position: 'Nhân viên hợp đồng 111',
+        workplace: 'Văn phòng Đảng ủy xã Lương Minh',
+        partyDate: '15/06/2025',
+        otherParty: 'Không',
+        voterConfidence: '12/12',
+        nationality: 'Chỉ có 01 quốc tịch là quốc tịch Việt Nam và không trong thời gian thực hiện thủ tục xin nhập quốc tịch nước ngoài'
+    }
+];
+
 // Ứng cử viên mẫu hiển thị trên trang chính
 const featuredCandidates = candidatesData.slice(0, 6);
 
@@ -55,6 +79,7 @@ const cardVariants = {
 };
 
 function Candidates() {
+    const [activeTab, setActiveTab] = useState('hdnd');
     const [isPopupOpen, setIsPopupOpen] = useState(false);
     const [filter, setFilter] = useState('all');
 
@@ -88,76 +113,228 @@ function Candidates() {
                 >
                     <h2>Danh sách Ứng cử viên</h2>
                     <p>
-                        Các ứng cử viên HĐND xã Lương Minh nhiệm kỳ 2026 - 2031
+                        Các ứng cử viên Đại biểu Quốc hội & HĐND xã Lương Minh nhiệm kỳ 2026 - 2031
                     </p>
                 </motion.div>
 
+                {/* Tab Switcher */}
                 <motion.div
-                    className="candidates__note"
+                    className="candidates__tabs"
                     initial={{ opacity: 0, y: 20 }}
                     whileInView={{ opacity: 1, y: 0 }}
                     viewport={{ once: true }}
                     transition={{ duration: 0.5 }}
                 >
-                    <span className="candidates__note-icon">📋</span>
-                    <p>
-                        <strong>Thông tin:</strong> Xã Lương Minh có tổng cộng <strong>25 người ứng cử</strong> đại biểu HĐND xã nhiệm kỳ 2026 - 2031
-                        . Cử tri sẽ bầu <strong>15 đại biểu</strong>.
-                    </p>
-                </motion.div>
-
-                <motion.div
-                    className="candidates__grid"
-                    variants={containerVariants}
-                    initial="hidden"
-                    whileInView="visible"
-                    viewport={{ once: true }}
-                >
-                    {featuredCandidates.map((candidate) => (
-                        <motion.div
-                            key={candidate.id}
-                            className="candidate-card card"
-                            variants={cardVariants}
-                        >
-                            <div className="candidate-card__avatar">
-                                <User size={40} />
-                            </div>
-
-                            <div className="candidate-card__content">
-                                <h3 className="candidate-card__name">{candidate.name}</h3>
-                                <span className="candidate-card__position">Ứng cử viên HĐND xã</span>
-
-                                <div className="candidate-card__info">
-                                    <div className="candidate-card__info-item">
-                                        <Briefcase size={16} />
-                                        <span>{candidate.position}</span>
-                                    </div>
-                                    <div className="candidate-card__info-item">
-                                        <GraduationCap size={16} />
-                                        <span>{candidate.education}</span>
-                                    </div>
-                                    <div className="candidate-card__info-item">
-                                        <Award size={16} />
-                                        <span>{candidate.ethnicity}, {candidate.birthYear}</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </motion.div>
-                    ))}
-                </motion.div>
-
-                <motion.div
-                    className="candidates__cta"
-                    initial={{ opacity: 0, y: 20 }}
-                    whileInView={{ opacity: 1, y: 0 }}
-                    viewport={{ once: true }}
-                    transition={{ duration: 0.5, delay: 0.3 }}
-                >
-                    <button className="btn btn-primary" onClick={openPopup}>
-                        <Users size={20} style={{ marginRight: '8px' }} />
-                        Xem danh sách đầy đủ (25 người)
+                    <button
+                        className={`candidates__tab ${activeTab === 'hdnd' ? 'active' : ''}`}
+                        onClick={() => setActiveTab('hdnd')}
+                    >
+                        <Users size={18} />
+                        <span>Đại biểu HĐND xã</span>
+                        <span className="candidates__tab-badge">25</span>
+                    </button>
+                    <button
+                        className={`candidates__tab ${activeTab === 'quochoi' ? 'active' : ''}`}
+                        onClick={() => setActiveTab('quochoi')}
+                    >
+                        <Landmark size={18} />
+                        <span>Đại biểu Quốc hội</span>
+                        <span className="candidates__tab-badge">1</span>
                     </button>
                 </motion.div>
+
+                {/* HĐND Tab Content */}
+                {activeTab === 'hdnd' && (
+                    <>
+                        <motion.div
+                            className="candidates__note"
+                            initial={{ opacity: 0, y: 20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.5 }}
+                        >
+                            <span className="candidates__note-icon">📋</span>
+                            <p>
+                                <strong>Thông tin:</strong> Xã Lương Minh có tổng cộng <strong>25 người ứng cử</strong> đại biểu HĐND xã nhiệm kỳ 2026 - 2031
+                                . Cử tri sẽ bầu <strong>15 đại biểu</strong>.
+                            </p>
+                        </motion.div>
+
+                        <motion.div
+                            className="candidates__grid"
+                            variants={containerVariants}
+                            initial="hidden"
+                            animate="visible"
+                        >
+                            {featuredCandidates.map((candidate) => (
+                                <motion.div
+                                    key={candidate.id}
+                                    className="candidate-card card"
+                                    variants={cardVariants}
+                                >
+                                    <div className="candidate-card__avatar">
+                                        <User size={40} />
+                                    </div>
+
+                                    <div className="candidate-card__content">
+                                        <h3 className="candidate-card__name">{candidate.name}</h3>
+                                        <span className="candidate-card__position">Ứng cử viên HĐND xã</span>
+
+                                        <div className="candidate-card__info">
+                                            <div className="candidate-card__info-item">
+                                                <Briefcase size={16} />
+                                                <span>{candidate.position}</span>
+                                            </div>
+                                            <div className="candidate-card__info-item">
+                                                <GraduationCap size={16} />
+                                                <span>{candidate.education}</span>
+                                            </div>
+                                            <div className="candidate-card__info-item">
+                                                <Award size={16} />
+                                                <span>{candidate.ethnicity}, {candidate.birthYear}</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </motion.div>
+                            ))}
+                        </motion.div>
+
+                        <motion.div
+                            className="candidates__cta"
+                            initial={{ opacity: 0, y: 20 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ duration: 0.5, delay: 0.3 }}
+                        >
+                            <button className="btn btn-primary" onClick={openPopup}>
+                                <Users size={20} style={{ marginRight: '8px' }} />
+                                Xem danh sách đầy đủ (25 người)
+                            </button>
+                        </motion.div>
+                    </>
+                )}
+
+                {/* Quốc hội Tab Content */}
+                {activeTab === 'quochoi' && (
+                    <motion.div
+                        className="quochoi-section"
+                        initial={{ opacity: 0, y: 20 }}
+                        animate={{ opacity: 1, y: 0 }}
+                        transition={{ duration: 0.5 }}
+                    >
+                        <div className="candidates__note">
+                            <span className="candidates__note-icon">🏛️</span>
+                            <p>
+                                <strong>Thông tin:</strong> Xã Lương Minh có <strong>01 người ứng cử</strong> Đại biểu Quốc hội khóa XVI, nhiệm kỳ 2026 - 2031.
+                            </p>
+                        </div>
+
+                        {quochoiCandidatesData.map((candidate) => (
+                            <motion.div
+                                key={candidate.id}
+                                className="quochoi-card"
+                                initial={{ opacity: 0, scale: 0.95 }}
+                                animate={{ opacity: 1, scale: 1 }}
+                                transition={{ duration: 0.5, delay: 0.2 }}
+                            >
+                                <div className="quochoi-card__header">
+                                    <div className="quochoi-card__avatar">
+                                        <User size={48} />
+                                    </div>
+                                    <div className="quochoi-card__title">
+                                        <h3>{candidate.name}</h3>
+                                        <span className="quochoi-card__badge">
+                                            <Landmark size={14} />
+                                            Ứng cử viên Đại biểu Quốc hội khóa XVI
+                                        </span>
+                                    </div>
+                                </div>
+
+                                <div className="quochoi-card__body">
+                                    <div className="quochoi-card__info-grid">
+                                        <div className="quochoi-card__info-item">
+                                            <Calendar size={16} />
+                                            <div>
+                                                <span className="quochoi-card__label">Ngày sinh</span>
+                                                <span className="quochoi-card__value">{candidate.birthDate}</span>
+                                            </div>
+                                        </div>
+                                        <div className="quochoi-card__info-item">
+                                            <User size={16} />
+                                            <div>
+                                                <span className="quochoi-card__label">Giới tính</span>
+                                                <span className="quochoi-card__value">{candidate.gender}</span>
+                                            </div>
+                                        </div>
+                                        <div className="quochoi-card__info-item">
+                                            <Award size={16} />
+                                            <div>
+                                                <span className="quochoi-card__label">Dân tộc</span>
+                                                <span className="quochoi-card__value">{candidate.ethnicity}</span>
+                                            </div>
+                                        </div>
+                                        <div className="quochoi-card__info-item">
+                                            <GraduationCap size={16} />
+                                            <div>
+                                                <span className="quochoi-card__label">Trình độ</span>
+                                                <span className="quochoi-card__value">{candidate.education}</span>
+                                            </div>
+                                        </div>
+                                        <div className="quochoi-card__info-item">
+                                            <Briefcase size={16} />
+                                            <div>
+                                                <span className="quochoi-card__label">Chức vụ</span>
+                                                <span className="quochoi-card__value">{candidate.position}</span>
+                                            </div>
+                                        </div>
+                                        <div className="quochoi-card__info-item">
+                                            <MapPin size={16} />
+                                            <div>
+                                                <span className="quochoi-card__label">Nơi công tác</span>
+                                                <span className="quochoi-card__value">{candidate.workplace}</span>
+                                            </div>
+                                        </div>
+                                        <div className="quochoi-card__info-item">
+                                            <MapPin size={16} />
+                                            <div>
+                                                <span className="quochoi-card__label">Nơi cư trú</span>
+                                                <span className="quochoi-card__value">{candidate.residence}</span>
+                                            </div>
+                                        </div>
+                                        <div className="quochoi-card__info-item">
+                                            <Vote size={16} />
+                                            <div>
+                                                <span className="quochoi-card__label">Tín nhiệm cử tri</span>
+                                                <span className="quochoi-card__value">{candidate.voterConfidence}</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="quochoi-card__extra">
+                                        <div className="quochoi-card__extra-row">
+                                            <span className="quochoi-card__label">Tôn giáo:</span>
+                                            <span className="quochoi-card__value">{candidate.religion}</span>
+                                        </div>
+                                        <div className="quochoi-card__extra-row">
+                                            <span className="quochoi-card__label">Ngày vào Đảng:</span>
+                                            <span className="quochoi-card__value">{candidate.partyDate}</span>
+                                        </div>
+                                        <div className="quochoi-card__extra-row">
+                                            <span className="quochoi-card__label">Học vị khoa học:</span>
+                                            <span className="quochoi-card__value">{candidate.scienceDegree}</span>
+                                        </div>
+                                        <div className="quochoi-card__extra-row">
+                                            <span className="quochoi-card__label">Lý luận chính trị:</span>
+                                            <span className="quochoi-card__value">{candidate.politicalTheory}</span>
+                                        </div>
+                                        <div className="quochoi-card__extra-row">
+                                            <span className="quochoi-card__label">Quốc tịch:</span>
+                                            <span className="quochoi-card__value">{candidate.nationality}</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </motion.div>
+                        ))}
+                    </motion.div>
+                )}
             </div>
 
             {/* Popup Modal */}
